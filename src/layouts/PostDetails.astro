@@ -148,11 +148,16 @@ const layoutProps = {
   }
   document.addEventListener("scroll", updateScrollProgress);
 
-  document.addEventListener('DOMContentLoaded', () => {
-    document.querySelectorAll('a[href]').forEach(link => {
-      if (link.hostname !== window.location.hostname || link.getAttribute('href').startsWith('http')) {
-        link.target = '_blank';
-        link.rel = 'noopener noreferrer';
+  document.addEventListener("DOMContentLoaded", () => {
+    // Ensure external links open in a new tab
+    const links = document.querySelectorAll("article a[href]");
+    links.forEach(link => {
+      if (
+        link.hostname !== window.location.hostname ||
+        link.getAttribute("href").startsWith("http")
+      ) {
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
       }
     });
   });
