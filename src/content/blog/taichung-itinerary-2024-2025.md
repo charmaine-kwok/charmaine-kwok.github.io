@@ -1,6 +1,6 @@
 ---
 author: Charmaine Kwok
-pubDatetime: 2025-02-17
+pubDatetime: 2025-02-15
 title: "台中行程：2024年12月28日至2025年1月4日"
 slug: taichung-itinerary-2024-2025
 featured: true
