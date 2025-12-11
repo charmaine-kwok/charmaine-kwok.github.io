@@ -14,6 +14,10 @@ tags:
 description: A complete archive of all the albergues, guesthouses, and accommodations I stayed in during my 41-day Camino Francés and Finisterre/Muxía journey — including distances, ratings, recommendations, and daily notes.
 ---
 
+I arrived in Saint-Jean-Pied-de-Port on **13 September 2025** and began walking the Camino Francés on **14 September**. Over the next **35 walking days**, I followed the traditional route across the Pyrenees, Navarra, La Rioja, Castilla y León, and Galicia, reaching **Santiago de Compostela on 18 October**. After a rest day in Santiago, I continued with the Finisterre–Muxía extension, completing the journey on **27 October** at the coast in Muxía.
+
+This page records every stage I walked, including distances, accommodations, prices, and short reviews of each albergue and hostal I stayed in.
+
 ## Table of contents
 
 ## SECTION 1 — Stage & Distance Summary
