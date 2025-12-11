@@ -69,6 +69,8 @@ description: A complete archive of all the albergues, guesthouses, and accommoda
 
 ## SECTION 2 — Day-by-Day Albergue Notes
 
+<a id="day-0"></a>
+
 ### Day 0 — Arrival in Saint-Jean-Pied-de-Port (Arrival Day)
 
 **Accommodation:** Maison d'hôtes Larraldia
