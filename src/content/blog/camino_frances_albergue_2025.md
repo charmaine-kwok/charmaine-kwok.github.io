@@ -77,6 +77,16 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 0 — Arrival in Saint-Jean-Pied-de-Port (Arrival Day)
 
+![camino-frances-day00-bed.jpg](https://s2.loli.net/2025/12/17/4QYxSdDo8MgpqJv.jpg)
+
+![camino-frances-day00-bathroom.jpg](https://s2.loli.net/2025/12/17/G2oKWP9BJnmC6d1.jpg)
+
+![camino-frances-day00-dinner.jpg](https://s2.loli.net/2025/12/17/U8VcaqsX7vCfPFY.jpg)
+
+![camino-frances-day00-cheesecake.jpg](https://s2.loli.net/2025/12/17/7VB6dHJ5vLo2xh3.jpg)
+
+![camino-frances-day00-cat.jpg](https://s2.loli.net/2025/12/17/z8eyl729DQvHtKW.jpg)
+
 **Accommodation:** Maison d'hôtes Larraldia
 
 **Price:** €45 with dinner and breakfast
@@ -92,6 +102,10 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-1"></a>
 
 ### Day 1 — SJPP → Roncesvalles (24.2 km)
+
+![camino-frances-day01-exterior.jpg](https://s2.loli.net/2025/12/17/jfOrLFwPqX7ocJR.jpg)
+
+![camino-frances-day01-bed.jpg](https://s2.loli.net/2025/12/17/XIfsJTdr9FvRphS.jpg)
 
 **Accommodation:** Albergue de Peregrinos de Roncesvalles
 
