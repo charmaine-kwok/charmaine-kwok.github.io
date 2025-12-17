@@ -277,6 +277,10 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 10 — Redecilla del Camino → Villafranca Montes de Oca (23.5 km)
 
+![camino-frances-day10-exterior.jpg](https://s2.loli.net/2025/12/17/92SozZKUu7F6lmw.jpg)
+
+![camino-frances-day10-bed.jpg](https://s2.loli.net/2025/12/17/gaN3Z1ouM8bOtXH.jpg)
+
 **Accommodation:** Casa Rural La Alpargateria
 
 **Price:** €35
@@ -292,6 +296,14 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-11"></a>
 
 ### Day 11 — Villafranca Montes de Oca → Orbaneja Riopico (26.3 km)
+
+![camino-frances-day11-exterior.jpg](https://s2.loli.net/2025/12/17/PoUuTASdIK7qhJ5.jpg)
+
+![camino-frances-day11-interior.jpg](https://s2.loli.net/2025/12/17/HIQVrM47YKjW3aN.jpg)
+
+![camino-frances-day11-bed.jpg](https://s2.loli.net/2025/12/17/47AtGps1ESe8V5v.jpg)
+
+![camino-frances-day11-bathroom.jpg](https://s2.loli.net/2025/12/17/gGkoBM1idQh7z5u.jpg)
 
 **Accommodation:** Casa Rural Fortaleza
 
@@ -309,6 +321,16 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 12 — Orbaneja Riopico → Rabé de las Calzadas (24.2 km)
 
+![camino-frances-day12-bed.jpg](https://s2.loli.net/2025/12/17/VJdpUhsi1Dgv4ox.jpg)
+
+![camino-frances-day12-bed2.jpg](https://s2.loli.net/2025/12/17/ArbzLQCqeNlv1aj.jpg)
+
+![camino-frances-day12-bathroom.jpg](https://s2.loli.net/2025/12/17/J6uTbVKkpyl4YjB.jpg)
+
+![camino-frances-day12-dinner.jpg](https://s2.loli.net/2025/12/17/nBJP8f3dKGIXzxM.jpg)
+
+![camino-frances-day12-breakfast.jpg](https://s2.loli.net/2025/12/17/xgvu8M2AwJ95Ej3.jpg)
+
 **Accommodation:** Hostal Fuente de Rabé
 
 **Price:** €60 (double room) + €13 dinner
@@ -324,6 +346,14 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-13"></a>
 
 ### Day 13 — Rabé de las Calzadas → Castrojeriz (27.5 km)
+
+![camino-frances-day13-bed.jpg](https://s2.loli.net/2025/12/17/3EDsxMrPqg9G4Zo.jpg)
+
+![camino-frances-day13-view.jpg](https://s2.loli.net/2025/12/17/RaKmBp9ekTyGdvl.jpg)
+
+![camino-frances-day13-interior.jpg](https://s2.loli.net/2025/12/17/2iRSbqGjfptOlhx.jpg)
+
+![camino-frances-day13-dinner.jpg](https://s2.loli.net/2025/12/17/G1OMC2BPXAFKVrb.jpg)
 
 **Accommodation:** Espacio Interior
 
@@ -341,6 +371,8 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 14 — Castrojeriz → Frómista (24.7 km)
 
+![camino-frances-day14-bed.jpg](https://s2.loli.net/2025/12/17/kS4MKZLE7nX3VWR.jpg)
+
 **Accommodation:** Albergue Luz de Frómista
 
 **Price:** €14
@@ -356,6 +388,8 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-15"></a>
 
 ### Day 15 — Frómista → Carrión de los Condes (18.8 km)
+
+![camino-frances-day15-bed.jpg](https://s2.loli.net/2025/12/17/LJHx9jmGurN8ywW.jpg)
 
 **Accommodation:** Hostal Albe
 
@@ -373,6 +407,18 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 16 — Carrión de los Condes → Ledigos (23.4 km)
 
+![camino-frances-day16-bed1.jpg](https://s2.loli.net/2025/12/17/RWLogHlsG2AuMSJ.jpg)
+
+![camino-frances-day16-bed2.jpg](https://s2.loli.net/2025/12/17/2PqsY7BrhMNeb4K.jpg)
+
+![camino-frances-day16-bathroom.jpg](https://s2.loli.net/2025/12/17/Zm4xfj1cHTANWXE.jpg)
+
+![camino-frances-day16-dinner1.jpg](https://s2.loli.net/2025/12/17/eDOdN9KBuwsxAgl.jpg)
+
+![camino-frances-day16-dinner2.jpg](https://s2.loli.net/2025/12/17/JM6fjygxtuEPvpb.jpg)
+
+![camino-frances-day16-breakfast.jpg](https://s2.loli.net/2025/12/17/efANgiYz8uKEkJG.jpg)
+
 **Accommodation:** Albergue La Morena
 
 **Price:** €21
@@ -388,6 +434,10 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-17"></a>
 
 ### Day 17 — Ledigos → Calzada del Coto (21.0 km)
+
+![camino-frances-day17-exterior.jpg](https://s2.loli.net/2025/12/17/9DsZqiyduPR4mj6.jpg)
+
+![camino-frances-day17-bed.jpg](https://s2.loli.net/2025/12/17/CcaAqYL8y2fkpSv.jpg)
 
 **Accommodation:** Albergue de Peregrinos San Roque
 
@@ -405,6 +455,12 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 18 — Calzada del Coto → Villamarco (23.4 km)
 
+![camino-frances-day18-exterior.jpg](https://s2.loli.net/2025/12/17/8jHfBmUqOebZtR6.jpg)
+
+![camino-frances-day18-bed.jpg](https://s2.loli.net/2025/12/17/VerG7InqiLPAKMS.jpg)
+
+![camino-frances-day18-bathroom.jpg](https://s2.loli.net/2025/12/17/CIY1rWubKS34veH.jpg)
+
 **Accommodation:** Albergue de Peregrinos La Vieja Escuela
 
 **Price:** €5
@@ -420,6 +476,8 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-19"></a>
 
 ### Day 19 — Villamarco → Arcahueja (23.0 km)
+
+![camino-frances-day19-bed.jpg](https://s2.loli.net/2025/12/17/jxWu1iKcA3dMp5n.jpg)
 
 **Accommodation:** Hotel Camino Real
 
@@ -437,6 +495,14 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 20 — Arcahueja → Oncina de la Valdoncina (19.1 km)
 
+![camino-frances-day20-bed.jpg](https://s2.loli.net/2025/12/17/yCZinFvBq1Kdj9Y.jpg)
+
+![camino-frances-day20-animals.jpg](https://s2.loli.net/2025/12/17/iZGybIUcAn4BTvm.jpg)
+
+![camino-frances-day20-interior.jpg](https://s2.loli.net/2025/12/17/cn3wuNsjR4pgYUF.jpg)
+
+![camino-frances-day20-dinner.jpg](https://s2.loli.net/2025/12/17/ToYX3LmIRzAwjWN.jpg)
+
 **Accommodation:** Albergue El Pajar de Oncina
 
 **Price:** €13 bed / €25 with dinner
@@ -452,6 +518,8 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-21"></a>
 
 ### Day 21 — Oncina de la Valdoncina → Hospital de Órbigo (25.0 km)
+
+![camino-frances-day21-bed.jpg](https://s2.loli.net/2025/12/17/dBqSroZ69kHJlEm.jpg)
 
 **Accommodation:** Albergue DORMERO Hidalgos
 
@@ -469,6 +537,10 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 22 — Hospital de Órbigo → Astorga (16.5 km)
 
+![camino-frances-day22-bed.jpg](https://s2.loli.net/2025/12/17/L1CHolFrqWt4pgY.jpg)
+
+![camino-frances-day22-bathroom.jpg](https://s2.loli.net/2025/12/17/DVyR8G3lxga5oJi.jpg)
+
 **Accommodation:** Albergue Franciscano Santa María de los Ángeles
 
 **Price:** €10
@@ -484,6 +556,12 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-23"></a>
 
 ### Day 23 — Astorga → Rabanal del Camino (20.2 km)
+
+![camino-frances-day23-exterior.jpg](https://s2.loli.net/2025/12/17/MhmjwHI3Nc67qQf.jpg)
+
+![camino-frances-day23-bed.jpg](https://s2.loli.net/2025/12/17/I7GmRvHUqnEbpkX.jpg)
+
+![camino-frances-day23-tea.jpg](https://s2.loli.net/2025/12/17/mJHgqTM27cI6OpZ.jpg)
 
 **Accommodation:** Refugio Gaucelmo
 
