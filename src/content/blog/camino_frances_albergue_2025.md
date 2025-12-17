@@ -123,6 +123,12 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 2 — Roncesvalles → Zubiri (21.4 km)
 
+![camino-frances-day02-exterior.jpg](https://s2.loli.net/2025/12/17/FPnNK5RBSfCtUzh.jpg)
+
+![camino-frances-day02-bed.jpg](https://s2.loli.net/2025/12/17/P5MpEORDuNVSlCa.jpg)
+
+![camino-frances-day02-dinner.jpg](https://s2.loli.net/2025/12/17/LT8NJ3RAPf4FMqa.jpg)
+
 **Accommodation:** Albergue Río Arga Ibaia
 
 **Price:** €17
@@ -138,6 +144,8 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-3"></a>
 
 ### Day 3 — Zubiri → Pamplona (20.4 km)
+
+![camino-frances-day03-bed.jpg](https://s2.loli.net/2025/12/17/ntIHqCv2AZ1mTMu.jpg)
 
 **Accommodation:** Hostel Casa Ibarrola
 
@@ -170,6 +178,8 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-5"></a>
 
 ### Day 5 — Puente la Reina → Estella (21.6 km)
+
+![camino-frances-day05-bed.jpg](https://s2.loli.net/2025/12/17/EtipNPgmTUvL5fw.jpg)
 
 **Accommodation:** Ágora Hostel
 
