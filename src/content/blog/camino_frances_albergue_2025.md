@@ -197,6 +197,10 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 6 — Estella → Los Arcos (21.0 km)
 
+![camino-frances-day06-bed.jpg](https://s2.loli.net/2025/12/17/cNDS2tAUwQWxusC.jpg)
+
+![camino-frances-day06-bathroom.jpg](https://s2.loli.net/2025/12/17/jTq6JcogrbRQpkh.jpg)
+
 **Accommodation:** Casa Arqueña
 
 **Price:** €20
@@ -212,6 +216,8 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-7"></a>
 
 ### Day 7 — Los Arcos → Logroño (28.0 km)
+
+![camino-frances-day07-bed.jpg](https://s2.loli.net/2025/12/17/WLT8Rp5O6SmPDej.jpg)
 
 **Accommodation:** Albergue San Nicolás
 
@@ -229,6 +235,8 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 8 — Logroño → Nájera (29.0 km)
 
+![camino-frances-day08-bed.jpg](https://s2.loli.net/2025/12/17/Xk2GMBSHuPxA1Q6.jpg)
+
 **Accommodation:** Albergue Puerta de Nájera
 
 **Price:** €15 (cash only)
@@ -244,6 +252,14 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-9"></a>
 
 ### Day 9 — Nájera → Redecilla del Camino (21.0 km)
+
+![camino-frances-day09-bed.jpg](https://s2.loli.net/2025/12/17/OlTWAXbphdJ29UH.jpg)
+
+![camino-frances-day09-dinner1.jpg](https://s2.loli.net/2025/12/17/LlGzQrpJEhy1WUa.jpg)
+
+![camino-frances-day09-dinner2.jpg](https://s2.loli.net/2025/12/17/tsb837QwpDh2gCY.jpg)
+
+![camino-frances-day09-dinner3.jpg](https://s2.loli.net/2025/12/17/o1JFDYH3jCPRfpS.jpg)
 
 **Accommodation:** Albergue Essentia
 
