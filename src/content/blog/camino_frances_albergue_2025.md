@@ -579,6 +579,14 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 24 — Rabanal del Camino → Molinaseca (24.7 km)
 
+![camino-frances-day24-exterior.jpg](https://s2.loli.net/2025/12/17/1Hn8sCAlkmOWZ3h.jpg)
+
+![camino-frances-day24-interior.jpg](https://s2.loli.net/2025/12/17/58UyMf4EkaAGzQp.jpg)
+
+![camino-frances-day24-bed.jpg](https://s2.loli.net/2025/12/17/Kw36ykOGCSaej1Z.jpg)
+
+![camino-frances-day24-bathroom.jpg](https://s2.loli.net/2025/12/17/u6bLTn2kdH1ZjqQ.jpg)
+
 **Accommodation:** Albergue-Casa Rural Lua Bierzo
 
 **Price:** €35
@@ -594,6 +602,10 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-25"></a>
 
 ### Day 25 — Molinaseca → Valtuille de Arriba (26.1 km)
+
+![camino-frances-day25-bed.jpg](https://s2.loli.net/2025/12/17/ugOD7KbSRqa1MUi.jpg)
+
+![camino-frances-day25-dinner.jpg](https://s2.loli.net/2025/12/17/ODfTAejGk3BYZtx.jpg)
 
 **Accommodation:** Acogida La Biznaga
 
@@ -611,6 +623,8 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 26 — Valtuille de Arriba → Vega de Valcarce (21.1 km)
 
+![camino-frances-day26-bed.jpg](https://s2.loli.net/2025/12/17/9ndCQtK2japXWOF.jpg)
+
 **Accommodation:** Albergue-Pensión Fernández
 
 **Price:** €39 (queen room with shared bathroom)
@@ -626,6 +640,26 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-27"></a>
 
 ### Day 27 — Vega de Valcarce → Fonfría (23.1 km)
+
+![camino-frances-day27-exterior.jpg](https://s2.loli.net/2025/12/17/2b8RCA9enruFwPQ.jpg)
+
+![camino-frances-day27-bed.jpg](https://s2.loli.net/2025/12/17/XxDO7bdgqco9JlW.jpg)
+
+![camino-frances-day27-bathroom.jpg](https://s2.loli.net/2025/12/17/hYFOPqHdauCSKEx.jpg)
+
+![camino-frances-day27-lunch1.jpg](https://s2.loli.net/2025/12/17/49MNpsyb6cj7nCD.jpg)
+
+![camino-frances-day27-lunch2.jpg](https://s2.loli.net/2025/12/17/IBLCj4xq2o57SHD.jpg)
+
+![camino-frances-day27-lunch3.jpg](https://s2.loli.net/2025/12/17/MySc9q8mWCs6rFX.jpg)
+
+![camino-frances-day27-dinner1.jpg](https://s2.loli.net/2025/12/17/tAFczI5k3obdWJQ.jpg)
+
+![camino-frances-day27-dinner2.jpg](https://s2.loli.net/2025/12/17/JWgIilF4PYAXs3a.jpg)
+
+![camino-frances-day27-dinner3.jpg](https://s2.loli.net/2025/12/17/9W5J4n2CMGuDyX8.jpg)
+
+![camino-frances-day27-breakfast.jpg](https://s2.loli.net/2025/12/17/qIKmB7tXwV5O4ki.jpg)
 
 **Accommodation:** Casa Rural Núñez
 
@@ -643,6 +677,10 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 28 — Fonfría → Samos (19.2 km)
 
+![camino-frances-day28-exterior.jpg](https://s2.loli.net/2025/12/17/UAEsIrPQ4F5OSvb.jpg)
+
+![camino-frances-day28-bed.jpg](https://s2.loli.net/2025/12/17/cPvUDABildnu3GW.jpg)
+
 **Accommodation:** Hospedería Externa del Monasterio de Samos
 
 **Price:** €25 (private room with shared bathroom)
@@ -659,6 +697,18 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 29 — Samos → Vilei / Barbadelo (19.0 km)
 
+![camino-frances-day29-exterior.jpg](https://s2.loli.net/2025/12/17/r4HUtB7I8pKPFYz.jpg)
+
+![camino-frances-day29-bed.jpg](https://s2.loli.net/2025/12/17/dabAu6mERtnorks.jpg)
+
+![camino-frances-day29-dinner1.jpg](https://s2.loli.net/2025/12/17/otqNjRSBdCblsHE.jpg)
+
+![camino-frances-day29-dinner2.jpg](https://s2.loli.net/2025/12/17/B6qUXVgbKPAWhxk.jpg)
+
+![camino-frances-day29-dinner3.jpg](https://s2.loli.net/2025/12/17/2wlFiDQBJCA3x5R.jpg)
+
+![camino-frances-day29-breakfast.jpg](https://s2.loli.net/2025/12/17/j2h7xHXaFw9KIus.jpg)
+
 **Accommodation:** Albergue-Pensión Casa Barbadelo
 
 **Price:** €11.20 (last-minute deal on booking.com)
@@ -674,6 +724,16 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-30"></a>
 
 ### Day 30 — Vilei → A Pena (Paradela) (10.0 km)
+
+![camino-frances-day30-exterior.jpg](https://s2.loli.net/2025/12/17/GThD6bmupIie1vo.jpg)
+
+![camino-frances-day30-bed.jpg](https://s2.loli.net/2025/12/17/9zcRsWgo6XSV42A.jpg)
+
+![camino-frances-day30-dinner1.jpg](https://s2.loli.net/2025/12/17/KljtHs4OWBYFTMg.jpg)
+
+![camino-frances-day30-dinner2.jpg](https://s2.loli.net/2025/12/17/IGZCtbwEAx9i6r5.jpg)
+
+![camino-frances-day30-dinner3.jpg](https://s2.loli.net/2025/12/17/y5ViSoMsjAfNznB.jpg)
 
 **Accommodation:** Albergue Km 100 Casa do Rego
 
