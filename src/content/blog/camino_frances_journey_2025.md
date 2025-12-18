@@ -81,7 +81,7 @@ See the Camino food diary here →
 
 ---
 
-## Day-by-Day Journey
+## SECTION 2 — Day-by-Day Journey
 
 <a id="day-0"></a>
 
