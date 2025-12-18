@@ -16,7 +16,7 @@ description: A complete archive of all the albergues, guesthouses, and accommoda
 
 I arrived in Saint-Jean-Pied-de-Port on **13 September 2025** and began walking the Camino Francés on **14 September**. Over the next **35 walking days**, I followed the traditional route across the Pyrenees, Navarra, La Rioja, Castilla y León, and Galicia, reaching **Santiago de Compostela on 18 October**. After a rest day in Santiago, I continued with the Finisterre–Muxía extension, completing the journey on **27 October** at the coast in Muxía.
 
-This page records every stage I walked, including distances, accommodations, prices, and short reviews of each albergue and hostal I stayed in.
+This page records every stage I walked, including distances, accommodations, prices, and short reviews of each albergue and hostal I stayed in, with notes on meals when they were part of the accommodation.
 
 ## Table of contents
 
@@ -95,7 +95,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 **Recommend:** Yes
 
-**Notes:** A cosy guesthouse slightly outside the centre of Saint-Jean-Pied-de-Port — a bit farther from town, but very quiet and peaceful, making it a great place to rest before starting the Camino. The dinner is homemade and delicious, and the breakfast includes fruit grown directly from their own garden. The bed and bathroom are very clean, creating a comfortable and relaxing stay to prepare for Day 1.
+**Notes:** A cosy guesthouse slightly outside the centre of Saint-Jean-Pied-de-Port — a bit farther from town, but very quiet and peaceful, making it a great place to rest before starting the Camino. The dinner is homemade and delicious, and the Basque cheesecake served after the meal was honestly one of the best I had during my entire Camino journey. Breakfast includes fruit grown directly from their own garden, and a friendly black house cat also joined us during breakfast! The bed and bathroom are very clean, creating a comfortable and relaxing place to prepare for Day 1.
 
 ---
 
@@ -137,7 +137,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 **Recommend:** Yes
 
-**Notes:** A clean and comfortable hostel with a private bathroom in each dorm.
+**Notes:** A clean and comfortable albergue with a private bathroom in each dorm. There is a shared kitchen, and during my stay a group of Italian pilgrims cooked carbonara and shared it with everyone.
 
 ---
 
