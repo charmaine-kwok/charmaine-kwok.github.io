@@ -107,6 +107,8 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ![camino-frances-day01-bed.jpg](https://s2.loli.net/2025/12/17/XIfsJTdr9FvRphS.jpg)
 
+![camino-frances-day01-dinner.jpg](https://s2.loli.net/2025/12/19/AfsgiDIFLd9Vbcm.jpg)
+
 **Accommodation:** Albergue de Peregrinos de Roncesvalles
 
 **Price:** €29 including dinner
@@ -751,6 +753,12 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 31 — A Pena (Paradela) → Airexe (25.3 km)
 
+![camino-frances-day31-bed.jpg](https://s2.loli.net/2025/12/19/vxM8sQRTH2DkaAE.jpg)
+
+![camino-frances-day31-bathroom.jpg](https://s2.loli.net/2025/12/19/f57nXExtli9TONd.jpg)
+
+![camino-frances-day31-cloth.jpg](https://s2.loli.net/2025/12/19/zKSvXcd9YwTPGjm.jpg)
+
 **Accommodation:** Pensión Eirexe
 
 **Price:** €13
@@ -766,6 +774,12 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-32"></a>
 
 ### Day 32 — Airexe → Melide (22.1 km)
+
+![camino-frances-day32-bed.jpg](https://s2.loli.net/2025/12/19/Id34TkgVK5NCuGy.jpg)
+
+![camino-frances-day32-sink.jpg](https://s2.loli.net/2025/12/19/wVzsFDMbEquxfrn.jpg)
+
+![camino-frances-day32-cloth.jpg](https://s2.loli.net/2025/12/19/rAalLTVhKsoSvcN.jpg)
 
 **Accommodation:** Albergue O Candil
 
@@ -783,6 +797,10 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 33 — Melide → A Calle de Ferreiros (22.0 km)
 
+![camino-frances-day33-bed.jpg](https://s2.loli.net/2025/12/19/zZAwMmlOFyrfQdg.jpg)
+
+![camino-frances-day33-dinner.jpg](https://s2.loli.net/2025/12/19/UmbGqHTyL7daYeh.jpg)
+
 **Accommodation:** Albergue A Ponte de Ferreiros
 
 **Price:** €15
@@ -799,6 +817,8 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day 34 — A Calle de Ferreiros → Lavacolla (20.0 km)
 
+![camino-frances-day34-bed.jpg](https://s2.loli.net/2025/12/19/dtsUcorqfm6pYuv.jpg)
+
 **Accommodation:** Albergue A Fábrica
 
 **Price:** €21.10
@@ -813,11 +833,13 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-35"></a>
 
-### Day 35 — Lavacolla → Santiago de Compostela (9.9 km)
-
 <a id="day-36"></a>
 
+### Day 35 — Lavacolla → Santiago de Compostela (9.9 km)
+
 ### Day 36 — Santiago de Compostela (Rest Day)
+
+![camino-frances-day35-bed.jpg](https://s2.loli.net/2025/12/19/5NBxkVdhvAX3sKL.jpg)
 
 **Accommodation:** Albergue Blanco
 
@@ -853,6 +875,22 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day F2 — Negreira → Vilaserío (13.0 km)
 
+![camino-frances-dayf2-bed.jpg](https://s2.loli.net/2025/12/19/8TwKb2oduyS3JFM.jpg)
+
+![camino-frances-dayf2-bathroom.jpg](https://s2.loli.net/2025/12/19/1VM5yDLGi8gjYpd.jpg)
+
+![camino-frances-dayf2-shoes.jpg](https://s2.loli.net/2025/12/19/QgK4AZileYU6J3V.jpg)
+
+![camino-frances-dayf2-laundry.jpg](https://s2.loli.net/2025/12/19/P8aDvtXIO2Mu3gV.jpg)
+
+![camino-frances-dayf2-lunch1.jpg](https://s2.loli.net/2025/12/19/ElcnTRAoJj6kKQP.jpg)
+
+![camino-frances-dayf2-lunch2.jpg](https://s2.loli.net/2025/12/19/Te1cZzYh4XSKmua.jpg)
+
+![camino-frances-dayf2-dinner.jpg](https://s2.loli.net/2025/12/19/u9QvEr35RBGafXm.jpg)
+
+![camino-frances-dayf2-breakfast.jpg](https://s2.loli.net/2025/12/19/f3syt9LcF5ZeRrv.jpg)
+
 **Accommodation:** Albergue-Pensión O Rueiro
 
 **Price:** €55 (private room with bathroom)
@@ -869,6 +907,22 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ### Day F3 — Vilaserío → Lago (16.0 km)
 
+![camino-frances-dayf3-exterior.jpg](https://s2.loli.net/2025/12/19/ywc9ktZW7dSgbmV.jpg)
+
+![camino-frances-dayf3-bed.jpg](https://s2.loli.net/2025/12/19/6YjbnesNfTt1prK.jpg)
+
+![camino-frances-dayf3-shoes.jpg](https://s2.loli.net/2025/12/19/Opj27fqwYakTs1N.jpg)
+
+![camino-frances-dayf3-lunch1.jpg](https://s2.loli.net/2025/12/19/AFIkUEsVpHqhdr5.jpg)
+
+![camino-frances-dayf3-lunch3.jpg](https://s2.loli.net/2025/12/19/VTit2vWGlkoRL6e.jpg)
+
+![camino-frances-dayf3-lunch2.jpg](https://s2.loli.net/2025/12/19/4fBMnCa9qGhNmZi.jpg)
+
+![camino-frances-dayf3-chupito.jpg](https://s2.loli.net/2025/12/19/mxY7wWXJOGcvj36.jpg)
+
+![camino-frances-dayf3-breakfast.jpg](https://s2.loli.net/2025/12/19/YZB5EU8mHFceiJN.jpg)
+
 **Accommodation:** Albergue Monte Aro
 
 **Price:** €15 (bed), dinner €15
@@ -884,6 +938,8 @@ This page records every stage I walked, including distances, accommodations, pri
 <a id="day-f4"></a>
 
 ### Day F4 — Lago → Cee (25.6 km)
+
+![camino-frances-dayf4-bed.jpg](https://s2.loli.net/2025/12/19/gQ7VuU6wMTqFhKx.jpg)
 
 **Accommodation:** Albergue A Casa da Fonte
 
@@ -915,11 +971,17 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-f6"></a>
 
-### Day F6 — Fisterra → Muxía (27.8 km)
-
 <a id="day-f7"></a>
 
+### Day F6 — Fisterra → Muxía (27.8 km)
+
 ### Day F7 — Muxía (Rest Day)
+
+![camino-frances-dayf6-bed.jpg](https://s2.loli.net/2025/12/19/9TYNmXSrcIJKuAR.jpg)
+
+![camino-frances-dayf6-sunset.jpg](https://s2.loli.net/2025/12/19/MiR95kdqNmOA1Eu.jpg)
+
+![camino-frances-dayf7-view.jpg](https://s2.loli.net/2025/12/19/ywovjfPJnG6TtRb.jpg)
 
 **Accommodation:** Albergue Muxía Mare
 

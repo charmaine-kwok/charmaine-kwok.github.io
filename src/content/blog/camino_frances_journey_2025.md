@@ -87,6 +87,12 @@ See the Camino food diary here →
 
 ### Day 0 — Arrival in Saint-Jean-Pied-de-Port
 
+![camino-frances-journey-day00-sjpp1.jpg](https://s2.loli.net/2025/12/19/67uUmzHWEeNVF2I.jpg)
+
+![camino-frances-journey-day00-sjpp2.jpg](https://s2.loli.net/2025/12/19/ym2KHOj3o685dNw.jpg)
+
+![camino-frances-journey-day00-sjpp3.jpg](https://s2.loli.net/2025/12/19/bYhXAcjPiOZGnxu.jpg)
+
 I arrived in Saint-Jean-Pied-de-Port in the afternoon and spent the day settling in, organising my gear, and mentally preparing for the start of the Camino.
 
 ---
@@ -96,6 +102,12 @@ I arrived in Saint-Jean-Pied-de-Port in the afternoon and spent the day settling
 ### Day 1 — SJPP → Roncesvalles (24.2 km)
 
 I started my Camino early in the morning, knowing that the first day is often described as one of the hardest due to the long uphill climb over the Pyrenees. Before setting off, I met a group of Malaysian guys and even spoke a bit of Cantonese with them.
+
+![camino-frances-journey-day01-1.jpg](https://s2.loli.net/2025/12/19/trgaTw9fPbcyQdE.jpg)
+
+![camino-frances-journey-day01-2.jpg](https://s2.loli.net/2025/12/19/ED3hFYSKv7BdnTa.jpg)
+
+![camino-frances-journey-day01-3.jpg](https://s2.loli.net/2025/12/19/25Qi7KseHRFm4jT.jpg)
 
 The weather was very kind to us — cloudy and cool — which made the long ascent much more pleasant than I had expected. Instead of struggling with the heat, I could actually enjoy hiking through the mountains and taking in the views. The climb was manageable.
 
@@ -110,3 +122,9 @@ After such a long day, I was exhausted, but sleeping wasn’t easy. I wasn’t u
 In the early morning, everyone was woken up by loud choir music at around **6 a.m.** — honestly quite funny. It was a very Camino-style start to the day.
 
 ---
+
+![camino-frances-journey-day02-1.jpg](https://s2.loli.net/2025/12/19/6dQqK49Tp3NGOPj.jpg)
+
+![camino-frances-journey-day02-2.jpg](https://s2.loli.net/2025/12/19/LuzgZMtDV8ShWKq.jpg)
+
+![camino-frances-journey-day02-3.jpg](https://s2.loli.net/2025/12/19/NvTtDuFlGrA9PKI.jpg)
