@@ -95,6 +95,8 @@ See the Camino food diary here →
 
 I arrived in Saint-Jean-Pied-de-Port in the afternoon and spent the day settling in, organising my gear, and mentally preparing for the start of the Camino.
 
+🛏️ Stayed at **Maison d'hôtes Larraldia** — full accommodation details [here](/posts/camino-frances-albergue/#day-0).
+
 ---
 
 <a id="day-1"></a>
@@ -121,10 +123,79 @@ After such a long day, I was exhausted, but sleeping wasn’t easy. I wasn’t u
 
 In the early morning, everyone was woken up by loud choir music at around **6 a.m.** — honestly quite funny. It was a very Camino-style start to the day.
 
+🛏️ Stayed at **Albergue de Peregrinos de Roncesvalles** — full accommodation details [here](/posts/camino-frances-albergue/#day-1).
+
 ---
+
+<a id="day-2"></a>
+
+### Day 2 — Roncesvalles → Zubiri (21.4 km)
+
+After the pleasant weather on Day 1, I thought Day 2 would be just as comfortable — and in the beginning, it was. I started walking quite early, around 7–8 a.m., before the sun was fully out. It wasn’t too cold, and the path felt calm and gentle. The terrain was relatively flat at first, which made the morning walk feel relaxed and steady.
+
+Leaving Roncesvalles, I saw the famous sign showing **790 km to Santiago de Compostela**. Standing there, it still felt a bit unreal — the Camino signs, the yellow arrows painted on the ground, and the idea that I was only at the very beginning of such a long journey. Following those yellow arrows still felt new and slightly surreal.
 
 ![camino-frances-journey-day02-1.jpg](https://s2.loli.net/2025/12/19/6dQqK49Tp3NGOPj.jpg)
 
 ![camino-frances-journey-day02-2.jpg](https://s2.loli.net/2025/12/19/LuzgZMtDV8ShWKq.jpg)
 
 ![camino-frances-journey-day02-3.jpg](https://s2.loli.net/2025/12/19/NvTtDuFlGrA9PKI.jpg)
+
+Even though I had already walked over the Pyrenees the day before, everything still felt very fresh — the signs, the symbols, and the rhythm of walking. I was slowly getting used to trusting the arrows on the road and letting the Camino guide me forward.
+
+As the day went on, the weather slowly changed. The sun came out, and after midday, it started to feel noticeably hotter. Toward the end of the stage, the route descended steeply, with lots of small, loose, and slippery stones. Going downhill required extra attention — it was tiring on the legs, and I had to slow down to avoid slipping. The combination of heat and the long descent made the final stretch especially exhausting.
+
+By the time I arrived at the albergue in Zubiri, I was completely worn out. After resting for a bit, I met a Korean guy at the hostel, and we decided to cook dinner together. We invited a few other pilgrims staying there, and later on, a group of Italian pilgrims joined us and cooked carbonara. In the end, we all shared dinner together at the albergue — a spontaneous, warm communal meal that felt very Camino-like.
+
+After such a physically demanding day, sitting down to eat and talk with people from different countries was incredibly comforting. It was one of those moments where the tiredness fades a little, replaced by the feeling that you’re no longer walking alone.
+
+🛏️ Stayed at **Albergue Río Arga Ibaia** — full accommodation details [here](/posts/camino-frances-albergue/#day-2).
+
+---
+
+### Day 3 — Zubiri → Pamplona (20.4 km)
+
+Even though the distance wasn’t very long, Day 3 felt tough. Early September was still very hot, and walking under the strong sun made the stage much more tiring than expected. With little shade along the way, the heat slowly drained my energy, kilometre by kilometre.
+
+By the time I arrived in Pamplona, I was absolutely starving. I went straight to **Mesón de la Navarrería** and ordered a **bocata de lomo con queso y anchoa**. After hours of walking in the heat, that simple meal tasted unbelievably good.
+
+![camino-frances-journey-day03-food.jpg](YOUR_FOOD_IMAGE_URL_HERE)
+
+After eating, I finally had enough energy to walk around and explore Pamplona’s city centre. It felt very different from the Camino villages — lively streets, old buildings, and plenty to see.
+
+![camino-frances-journey-day03-pamplona-1.jpg](YOUR_CITY_IMAGE_URL_1)
+![camino-frances-journey-day03-pamplona-2.jpg](YOUR_CITY_IMAGE_URL_2)
+![camino-frances-journey-day03-pamplona-3.jpg](YOUR_CITY_IMAGE_URL_2)
+
+In the evening, I had a few good and tasty tapas for dinner.
+
+![camino-frances-journey-day03-tapas.jpg](YOUR_TAPAS_IMAGE_URL_HERE)
+
+🛏️ Stayed at **Hostel Casa Ibarrola** — full accommodation details [here](/posts/camino-frances-albergue/#day-3).
+
+---
+
+### Day 4 — Pamplona → Puente la Reina (23.9 km)
+
+With both uphill sections and strong heat, I knew it would be another physically demanding day. Right from the start, there was very little shade, and we walked directly under the sun for long stretches. The heat and bright sunlight made the climb feel even tougher.
+
+![camino-frances-journey-day04-view-1.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day04-view-2.jpg](YOUR_IMAGE_URL)
+
+As we approached the top, the views slowly opened up, and reaching the **Mirador del Alto del Perdón** felt like a small victory. Seeing the famous pilgrim statues at the top was a powerful moment — one of those iconic Camino scenes that you’ve seen in photos.
+
+![camino-frances-journey-day04-perdon-statue.jpg](YOUR_IMAGE_URL)
+
+After the Mirador, we continued walking under the heat, slowly descending and pushing on toward Puente la Reina. By the time I arrived at the hostel, I was completely starving. Unfortunately, dinner wasn’t served until **7:30 p.m.**, so there was a long wait.
+
+While waiting, I went to **Bar Gares** with a Chinese pilgrim I had met along the way. I ordered **Iberian pork**, and it was incredibly tasty — rich, juicy, and absolutely worth the wait after such a hard day of walking.
+
+![camino-frances-journey-day04-food.jpg](YOUR_IMAGE_URL)
+
+After dinner, I walked a bit around Puente la Reina and headed toward the famous bridge and river.
+
+![camino-frances-journey-day04-puente.jpg](YOUR_IMAGE_URL)
+
+🛏️ Stayed at **Albergue Estrella Guía** — full accommodation details [here](/posts/camino-frances-albergue/#day-4).
+
+---
