@@ -199,3 +199,26 @@ After dinner, I walked a bit around Puente la Reina and headed toward the famous
 🛏️ Stayed at **Albergue Estrella Guía** — full accommodation details [here](/posts/camino-frances-albergue/#day-4).
 
 ---
+
+### Day 5 — Puente la Reina → Estella (21.6 km)
+
+To avoid the heat in the middle of the day, I started walking **very early**, around **6:45 a.m.**, when the sun wasn’t out yet and the air was still cool.
+
+However, I had started developing a **small blister around my ankle** from the day before. Going uphill was especially painful — I think it was caused by the hard ankle area of my shoes, which were still relatively new. Even though the distance wasn’t long, the discomfort made every uphill section feel much harder than expected.
+
+As the morning went on, the sun came out again, and the heat quickly built up. Large parts of the route had little to no shade, and walking under the direct sun was exhausting despite the early start.
+
+![camino-frances-journey-day05-view1.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day05-view2.jpg](YOUR_IMAGE_URL)
+
+By the time I arrived in **Estella**, my ankle was really bothering me, so the first thing I did was buy **Compeed blister plasters** to protect it before it got worse. After sorting that out, I walked around and explore the town.
+
+![camino-frances-journey-day05-town.jpg](YOUR_IMAGE_URL)
+
+For dinner, I ended up eating **Chinese food** together with two Chinese guys and a Korean guy.
+
+![camino-frances-journey-day05-food.jpg](YOUR_IMAGE_URL)
+
+🛏️ Stayed at **Ágora Hostel** — full accommodation details [here](/posts/camino-frances-albergue/#day-5).
+
+---
