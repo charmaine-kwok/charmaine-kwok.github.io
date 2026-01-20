@@ -222,3 +222,107 @@ For dinner, I ended up eating **Chinese food** together with two Chinese guys an
 🛏️ Stayed at **Ágora Hostel** — full accommodation details [here](/posts/camino-frances-albergue/#day-5).
 
 ---
+
+### Day 6 — Estella → Los Arcos (21.0 km)
+
+Day 6 was another hot day, so I started walking fairly early again, around **7 a.m.**, hoping to avoid the worst of the midday sun. For part of the way, I walked with Leon, and along the route we met a friendly group of Taiwanese pilgrims. They shared some **fresh figs** with us, which was such a small but sweet Camino moment.
+
+Along the way, we also picked a few figs from trees beside the path. They looked tempting, but it turned out they weren’t fully ripe yet.
+
+![camino-frances-journey-day06-fig.jpg](YOUR_IMAGE_URL)
+
+As the day went on, the heat became intense again. A big part of the route felt exposed, with long stretches of walking under the sun and hardly any shade.
+
+![camino-frances-journey-day06-view1.jpg](YOUR_IMAGE_URL)
+
+![camino-frances-journey-day06-view2.jpg](YOUR_IMAGE_URL)
+
+When I finally arrived in **Los Arcos**, I walked around the town a little. It’s a small place, with a beautiful church right in the centre.
+
+![camino-frances-journey-day06-church.jpg](YOUR_IMAGE_URL)
+
+Inside the church, there was a choir singing. I stayed to listen for a while, and it was such a peaceful experience — the kind of quiet moment that feels almost like the Camino gives you a pause to breathe.
+
+🛏️ Stayed at **Casa Arqueña** — full accommodation details [here](/posts/camino-frances-albergue/#day-6).
+
+---
+
+### Day 7 — Los Arcos → Logroño (28–29 km)
+
+Day 7 was a fairly long stage — around **29 km** — so I started early again, before **7 a.m.** I was supposed to walk with Leon, but he overslept, so I began the day walking on my own.
+
+At the beginning, the weather was surprisingly pleasant. It was cloudy with some wind, and the cooler air made the morning walk feel comfortable and steady.
+
+![camino-frances-journey-day07-view1.jpg](YOUR_IMAGE_URL)
+
+![camino-frances-journey-day07-view2.jpg](YOUR_IMAGE_URL)
+
+Along the way, I passed through the small village of **Viana**, and it happened to be a very lively moment — it looked like there were **two weddings** going on at the same time.
+
+![camino-frances-journey-day07-Viana.jpg](YOUR_IMAGE_URL)
+
+After midday, the sun came out again and the heat returned. As the temperature rose, the final kilometres became much harder. The heat started to feel almost intolerable.
+
+![camino-frances-journey-day07-view3.jpg](YOUR_IMAGE_URL)
+
+When I arrived in **Logroño**, I immediately felt a totally different kind of exhaustion — not just from walking, but from the noise and crowds. There seemed to be a **wine festival** happening, and the whole city centre was packed with people celebrating. It was chaotic, loud, and overwhelming. As someone who prefers the quieter side of the Camino — the calm walking, the peaceful villages, the simple routine — the atmosphere honestly felt like the opposite of what I needed after such a long day.
+
+My albergue was right in the middle of the festival scene, and in the end I decided **not** to stay there for the night. Instead, I chose to sleep somewhere outside the busy city centre, where I could actually rest properly.
+
+That night, Leon also decided to pause his Camino. After the long, hot first week, he felt he needed a break, so he took a train to **Madrid** to rest first. He planned to return later and continue the final **100 km from Sarria**. It reminded me that the Camino isn’t only about finishing — sometimes listening to your body and taking a break is also part of the journey.
+
+🛏️ Stayed at **Albergue San Nicolás** — full accommodation details [here](/posts/camino-frances-albergue/#day-7).
+
+---
+
+### Day 8 — Logroño → Nájera (29.0 km)
+
+Day 8 was the first day of my Camino with rain. When I woke up and saw the weather, I hoped the rain might stop if I waited a little — but it didn’t. In the end, I had no choice but to start walking anyway.
+
+When I went downstairs at the hotel, I met a friendly Australian couple. They invited me to walk with them, and as the rain got heavier, they even helped me pull out the rain cover for my backpack and helped me with it. It was such a small thing, but it made me feel supported.
+
+![camino-frances-journey-day08-rain.jpg](YOUR_IMAGE_URL)
+
+As we walked together, we came across two Spanish pilgrims, and soon the five of us were walking as a small group. I had the chance to speak Spanish with them, which made me genuinely happy — one of my goals for the Camino was to practise Spanish whenever I could!
+
+After some time, we separated. The Australian couple stopped first, and I continued walking with one of the Spanish women, **Montserrat**, she was from Barcelona. We walked together for quite a while, chatting as we walked.
+
+Later, I decided to stop and rest in a bar. By the time I was ready to leave again, the rain had finally eased, and the weather began to clear slightly. I set off again and continued walking toward Nájera.
+
+As the road continued, I kept passing through beautiful wine country, with rows of grapevines stretching out across the fields.
+
+![camino-frances-journey-day08-vineyard1.jpg](YOUR_IMAGE_URL)
+
+![camino-frances-journey-day08-vineyard2.jpg](YOUR_IMAGE_URL)
+
+![camino-frances-journey-day08-vineyard3.jpg](YOUR_IMAGE_URL)
+
+Toward the end of the stage, the sky turned grey again. I didn’t want to get caught in heavy rain one more time, so I sped up and walked faster, hoping to reach Nájera as soon as possible. I managed to arrive at the albergue just in time — right before the rain started pouring heavily again.
+
+🛏️ Stayed at **Albergue Puerta de Nájera** — full accommodation details [here](/posts/camino-frances-albergue/#day-8).
+
+---
+
+### Day 9 — Nájera → Redecilla del Camino (31.1 km)
+
+Day 9 was fortunately a sunny day — no rain at all — and it felt so much easier mentally compared to yesterday. Early on the way, I even saw a few cats along the route.
+
+![camino-frances-journey-day09-cat1.jpg](YOUR_IMAGE_URL)
+
+![camino-frances-journey-day09-cat2.jpg](YOUR_IMAGE_URL)
+
+The scenery along the way was also beautiful. With the clear sky and fresh air, walking felt peaceful and steady.
+
+![camino-frances-journey-day09-view1.jpg](YOUR_IMAGE_URL)
+
+![camino-frances-journey-day09-view2.jpg](YOUR_IMAGE_URL)
+
+Later in the day, the weather changed again — not rain this time, but **strong wind**. It became very windy and I basically had to tolerate the wind for a long stretch until reaching **Santo Domingo de la Calzada**, where I stopped for lunch.
+
+Looking back, I think I made a bad decision here. Many website recommend stopping in Santo Domingo (and it would have been a sensible stage), but I felt that **20 km** was too short and decided to push on to the next two stops instead. Even though the weather was pleasant and not too hot, walking **32 km** was still exhausting — especially knowing that I still had to continue the journey the next day.
+
+I ended up arriving at around **6 p.m.**, completely tired. After this day, I decided to take things slower and avoid pushing too hard. Ideally, I would keep my stages under **30 km** from now on.
+
+🛏️ Stayed at **Albergue Essentia** — full accommodation details [here](/posts/camino-frances-albergue/#day-9).
+
+---
