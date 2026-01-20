@@ -43,40 +43,40 @@ See the Camino food diary here →
 | [6](#day-6)   | Estella → Los Arcos                     | 21.0          | 132.5           |
 | [7](#day-7)   | Los Arcos → Logroño                     | 28.0          | 160.5           |
 | [8](#day-8)   | Logroño → Nájera                        | 29.0          | 189.5           |
-| [9](#day-9)   | Nájera → Redecilla del Camino           | 21.0          | 210.5           |
-| [10](#day-10) | Redecilla del Camino → Villafranca M.O. | 23.5          | 234.0           |
-| [11](#day-11) | Villafranca M.O. → Orbaneja Riopico     | 26.3          | 260.3           |
-| [12](#day-12) | Orbaneja Riopico → Rabé de las Calzadas | 24.2          | 284.5           |
-| [13](#day-13) | Rabé de las Calzadas → Castrojeriz      | 27.5          | 312.0           |
-| [14](#day-14) | Castrojeriz → Frómista                  | 24.7          | 336.7           |
-| [15](#day-15) | Frómista → Carrión de los Condes        | 18.8          | 355.5           |
-| [16](#day-16) | Carrión de los Condes → Ledigos         | 23.4          | 378.9           |
-| [17](#day-17) | Ledigos → Calzada del Coto              | 21.0          | 399.9           |
-| [18](#day-18) | Calzada del Coto → Villamarco           | 23.4          | 423.3           |
-| [19](#day-19) | Villamarco → Arcahueja                  | 23.0          | 446.3           |
-| [20](#day-20) | Arcahueja → Oncina                      | 19.1          | 465.4           |
-| [21](#day-21) | Oncina → Hospital de Órbigo             | 25.0          | 490.4           |
-| [22](#day-22) | Hospital de Órbigo → Astorga            | 16.5          | 506.9           |
-| [23](#day-23) | Astorga → Rabanal del Camino            | 20.2          | 527.1           |
-| [24](#day-24) | Rabanal del Camino → Molinaseca         | 24.7          | 551.8           |
-| [25](#day-25) | Molinaseca → Valtuille de Arriba        | 26.1          | 577.9           |
-| [26](#day-26) | Valtuille de Arriba → Vega de Valcarce  | 21.1          | 599.0           |
-| [27](#day-27) | Vega de Valcarce → Fonfría              | 23.1          | 622.1           |
-| [28](#day-28) | Fonfría → Samos                         | 19.2          | 641.3           |
-| [29](#day-29) | Samos → Vilei (Barbadelo)               | 19.0          | 660.3           |
-| [30](#day-30) | Vilei → A Pena (Paradela)               | 10.0          | 670.3           |
-| [31](#day-31) | A Pena (Paradela) → Airexe              | 25.3          | 695.6           |
-| [32](#day-32) | Airexe → Melide                         | 22.1          | 717.7           |
-| [33](#day-33) | Melide → A Calle de Ferreiros           | 22.0          | 739.7           |
-| [34](#day-34) | A Calle de Ferreiros → Lavacolla        | 20.0          | 759.7           |
-| [35](#day-35) | Lavacolla → Santiago de Compostela      | 9.9           | 769.6           |
+| [9](#day-9)   | Nájera → Redecilla del Camino           | 31.1          | 220.6           |
+| [10](#day-10) | Redecilla del Camino → Villafranca M.O. | 23.5          | 244.1           |
+| [11](#day-11) | Villafranca M.O. → Orbaneja Riopico     | 26.3          | 270.4           |
+| [12](#day-12) | Orbaneja Riopico → Rabé de las Calzadas | 24.2          | 294.6           |
+| [13](#day-13) | Rabé de las Calzadas → Castrojeriz      | 27.5          | 322.1           |
+| [14](#day-14) | Castrojeriz → Frómista                  | 24.7          | 346.8           |
+| [15](#day-15) | Frómista → Carrión de los Condes        | 18.8          | 365.6           |
+| [16](#day-16) | Carrión de los Condes → Ledigos         | 23.4          | 389.0           |
+| [17](#day-17) | Ledigos → Calzada del Coto              | 21.0          | 410.0           |
+| [18](#day-18) | Calzada del Coto → Villamarco           | 23.4          | 433.4           |
+| [19](#day-19) | Villamarco → Arcahueja                  | 23.0          | 456.4           |
+| [20](#day-20) | Arcahueja → Oncina                      | 19.1          | 475.5           |
+| [21](#day-21) | Oncina → Hospital de Órbigo             | 25.0          | 500.5           |
+| [22](#day-22) | Hospital de Órbigo → Astorga            | 16.5          | 517.0           |
+| [23](#day-23) | Astorga → Rabanal del Camino            | 20.2          | 537.2           |
+| [24](#day-24) | Rabanal del Camino → Molinaseca         | 24.7          | 561.9           |
+| [25](#day-25) | Molinaseca → Valtuille de Arriba        | 26.1          | 588.0           |
+| [26](#day-26) | Valtuille de Arriba → Vega de Valcarce  | 21.1          | 609.1           |
+| [27](#day-27) | Vega de Valcarce → Fonfría              | 23.1          | 632.2           |
+| [28](#day-28) | Fonfría → Samos                         | 19.2          | 651.4           |
+| [29](#day-29) | Samos → Vilei (Barbadelo)               | 19.0          | 670.4           |
+| [30](#day-30) | Vilei → A Pena (Paradela)               | 10.0          | 680.4           |
+| [31](#day-31) | A Pena (Paradela) → Airexe              | 25.3          | 705.7           |
+| [32](#day-32) | Airexe → Melide                         | 22.1          | 727.8           |
+| [33](#day-33) | Melide → A Calle de Ferreiros           | 22.0          | 749.8           |
+| [34](#day-34) | A Calle de Ferreiros → Lavacolla        | 20.0          | 769.8           |
+| [35](#day-35) | Lavacolla → Santiago de Compostela      | 9.9           | 779.7           |
 | [36](#day-36) | Santiago de Compostela (Rest Day)       | —             | —               |
-| [F1](#day-f1) | Santiago de Compostela → Negreira       | 20.6          | 790.2           |
-| [F2](#day-f2) | Negreira → Vilaserío                    | 13.0          | 803.2           |
-| [F3](#day-f3) | Vilaserío → Lago                        | 16.0          | 819.2           |
-| [F4](#day-f4) | Lago → Cee                              | 25.6          | 844.8           |
-| [F5](#day-f5) | Cee → Fisterra                          | 12.9          | 857.7           |
-| [F6](#day-f6) | Fisterra → Muxía                        | 27.8          | 885.5           |
+| [F1](#day-f1) | Santiago de Compostela → Negreira       | 20.6          | 800.3           |
+| [F2](#day-f2) | Negreira → Vilaserío                    | 13.0          | 813.3           |
+| [F3](#day-f3) | Vilaserío → Lago                        | 16.0          | 829.3           |
+| [F4](#day-f4) | Lago → Cee                              | 25.6          | 854.9           |
+| [F5](#day-f5) | Cee → Fisterra                          | 12.9          | 867.8           |
+| [F6](#day-f6) | Fisterra → Muxía                        | 27.8          | 895.6           |
 | [F7](#day-f7) | Muxía (Rest Day)                        | —             | —               |
 
 ---
