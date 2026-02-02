@@ -159,17 +159,17 @@ Even though the distance wasn’t very long, Day 3 felt tough. Early September w
 
 By the time I arrived in Pamplona, I was absolutely starving. I went straight to **Mesón de la Navarrería** and ordered a **bocata de lomo con queso y anchoa**. After hours of walking in the heat, that simple meal tasted unbelievably good.
 
-![camino-frances-journey-day03-food.jpg](YOUR_FOOD_IMAGE_URL_HERE)
+![camino-frances-day3-lunch.jpg](https://s2.loli.net/2026/02/02/vBcfXN7Jx1g2YeQ.jpg)
 
 After eating, I finally had enough energy to walk around and explore Pamplona’s city centre. It felt very different from the Camino villages — lively streets, old buildings, and plenty to see.
 
-![camino-frances-journey-day03-pamplona-1.jpg](YOUR_CITY_IMAGE_URL_1)
-![camino-frances-journey-day03-pamplona-2.jpg](YOUR_CITY_IMAGE_URL_2)
-![camino-frances-journey-day03-pamplona-3.jpg](YOUR_CITY_IMAGE_URL_2)
+![camino-frances-day3-view1.jpg](https://s2.loli.net/2026/02/02/KbXp36ulzkO1Ef5.jpg)
+![camino-frances-day3-view2.jpg](https://s2.loli.net/2026/02/02/xIpN5GZ1ndQcTet.jpg)
+![camino-frances-day3-view3.jpg](https://s2.loli.net/2026/02/02/T3fCkUZBmleJxbP.jpg)
 
 In the evening, I had a few good and tasty tapas for dinner.
 
-![camino-frances-journey-day03-tapas.jpg](YOUR_TAPAS_IMAGE_URL_HERE)
+![camino-frances-day3-dinner.jpg](https://s2.loli.net/2026/02/02/RgKwFboWPiv17zA.jpg)
 
 🛏️ Stayed at **Hostel Casa Ibarrola** — full accommodation details [here](/posts/camino-frances-albergue/#day-3).
 
@@ -179,22 +179,23 @@ In the evening, I had a few good and tasty tapas for dinner.
 
 With both uphill sections and strong heat, I knew it would be another physically demanding day. Right from the start, there was very little shade, and we walked directly under the sun for long stretches. The heat and bright sunlight made the climb feel even tougher.
 
-![camino-frances-journey-day04-view-1.jpg](YOUR_IMAGE_URL)
-![camino-frances-journey-day04-view-2.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day04-view-1.jpg](https://s2.loli.net/2026/02/02/QPDN4j1OgIs2l9H.jpg)
+![camino-frances-journey-day04-view-2.jpg](https://s2.loli.net/2026/02/02/cVM5XiZjo3UpwI6.jpg)
 
 As we approached the top, the views slowly opened up, and reaching the **Mirador del Alto del Perdón** felt like a small victory. Seeing the famous pilgrim statues at the top was a powerful moment — one of those iconic Camino scenes that you’ve seen in photos.
 
-![camino-frances-journey-day04-perdon-statue.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day04-perdon-statue.jpg](https://s2.loli.net/2026/02/02/CtnamzNdIPjxQSe.jpg)
+![camino-frances-journey-day04-view-3.jpg](https://s2.loli.net/2026/02/02/3ub5tMnRwqldSON.jpg)
 
 After the Mirador, we continued walking under the heat, slowly descending and pushing on toward Puente la Reina. By the time I arrived at the hostel, I was completely starving. Unfortunately, dinner wasn’t served until **7:30 p.m.**, so there was a long wait.
 
 While waiting, I went to **Bar Gares** with a Chinese pilgrim I had met along the way. I ordered **Iberian pork**, and it was incredibly tasty — rich, juicy, and absolutely worth the wait after such a hard day of walking.
 
-![camino-frances-journey-day04-food.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day04-food.jpg](https://s2.loli.net/2026/02/02/jnK1cCLu8w3Td6t.jpg)
 
 After dinner, I walked a bit around Puente la Reina and headed toward the famous bridge and river.
 
-![camino-frances-journey-day04-puente.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day04-puente.jpg](https://s2.loli.net/2026/02/02/FuRPm9NYDpHi8EO.jpg)
 
 🛏️ Stayed at **Albergue Estrella Guía** — full accommodation details [here](/posts/camino-frances-albergue/#day-4).
 
@@ -208,16 +209,16 @@ However, I had started developing a **small blister around my ankle** from the d
 
 As the morning went on, the sun came out again, and the heat quickly built up. Large parts of the route had little to no shade, and walking under the direct sun was exhausting despite the early start.
 
-![camino-frances-journey-day05-view1.jpg](YOUR_IMAGE_URL)
-![camino-frances-journey-day05-view2.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day05-view1.jpg](https://s2.loli.net/2026/02/02/cfyWJzI3mDtrK6U.jpg)
+![camino-frances-journey-day05-view2.jpg](https://s2.loli.net/2026/02/02/lg7ev2A43ZmrFWu.jpg)
 
 By the time I arrived in **Estella**, my ankle was really bothering me, so the first thing I did was buy **Compeed blister plasters** to protect it before it got worse. After sorting that out, I walked around and explore the town.
 
-![camino-frances-journey-day05-town.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day05-town.jpg](https://s2.loli.net/2026/02/02/IZQaLXst2VRA5Wy.jpg)
 
 For dinner, I ended up eating **Chinese food** together with two Chinese guys and a Korean guy.
 
-![camino-frances-journey-day05-food.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day05-food.jpg](https://s2.loli.net/2026/02/02/TaEsoANxrB1b5gR.jpg)
 
 🛏️ Stayed at **Ágora Hostel** — full accommodation details [here](/posts/camino-frances-albergue/#day-5).
 
@@ -229,17 +230,18 @@ Day 6 was another hot day, so I started walking fairly early again, around **7 a
 
 Along the way, we also picked a few figs from trees beside the path. They looked tempting, but it turned out they weren’t fully ripe yet.
 
-![camino-frances-journey-day06-fig.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day06-fig.jpg](https://s2.loli.net/2026/02/02/r5gf6c7BtATaR2M.jpg)
 
 As the day went on, the heat became intense again. A big part of the route felt exposed, with long stretches of walking under the sun and hardly any shade.
 
-![camino-frances-journey-day06-view1.jpg](YOUR_IMAGE_URL)
+![amino-frances-journey-day06-view1.jpg](https://s2.loli.net/2026/02/02/HPukDnvrUhbO5qC.jpg)
 
-![camino-frances-journey-day06-view2.jpg](YOUR_IMAGE_URL)
+![amino-frances-journey-day06-view2.jpg](https://s2.loli.net/2026/02/02/O8iCQIBhuyAn5dL.jpg)
 
 When I finally arrived in **Los Arcos**, I walked around the town a little. It’s a small place, with a beautiful church right in the centre.
 
-![camino-frances-journey-day06-church.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day06-church1.jpg](https://s2.loli.net/2026/02/02/PtyBKd7giAruGlh.jpg)
+![camino-frances-journey-day06-church2.jpg](https://s2.loli.net/2026/02/02/4SvwUIJNhybn2RF.jpg)
 
 Inside the church, there was a choir singing. I stayed to listen for a while, and it was such a peaceful experience — the kind of quiet moment that feels almost like the Camino gives you a pause to breathe.
 
