@@ -255,17 +255,17 @@ Day 7 was a fairly long stage — around **29 km** — so I started early again,
 
 At the beginning, the weather was surprisingly pleasant. It was cloudy with some wind, and the cooler air made the morning walk feel comfortable and steady.
 
-![camino-frances-journey-day07-view1.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day07-view1.jpg](https://s2.loli.net/2026/02/02/G8u4yvRYb2r9AIp.jpg)
 
-![camino-frances-journey-day07-view2.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day07-view2.jpg](https://s2.loli.net/2026/02/02/AOBrPiNSpZkYMeF.jpg)
 
 Along the way, I passed through the small village of **Viana**, and it happened to be a very lively moment — it looked like there were **two weddings** going on at the same time.
 
-![camino-frances-journey-day07-Viana.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day07-Viana.jpg](https://s2.loli.net/2026/02/02/hoNDKCfzVmGdg39.jpg)
 
 After midday, the sun came out again and the heat returned. As the temperature rose, the final kilometres became much harder. The heat started to feel almost intolerable.
 
-![camino-frances-journey-day07-view3.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day07-view3.jpg](https://s2.loli.net/2026/02/02/5HEKF4IYPwT9zV8.jpg)
 
 When I arrived in **Logroño**, I immediately felt a totally different kind of exhaustion — not just from walking, but from the noise and crowds. There seemed to be a **wine festival** happening, and the whole city centre was packed with people celebrating. It was chaotic, loud, and overwhelming. As someone who prefers the quieter side of the Camino — the calm walking, the peaceful villages, the simple routine — the atmosphere honestly felt like the opposite of what I needed after such a long day.
 
@@ -283,7 +283,7 @@ Day 8 was the first day of my Camino with rain. When I woke up and saw the weath
 
 When I went downstairs at the hotel, I met a friendly Australian couple. They invited me to walk with them, and as the rain got heavier, they even helped me pull out the rain cover for my backpack and helped me with it. It was such a small thing, but it made me feel supported.
 
-![camino-frances-journey-day08-rain.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day08-rain.jpg](https://s2.loli.net/2026/02/02/gIoKDJiQkPzpUZj.jpg)
 
 As we walked together, we came across two Spanish pilgrims, and soon the five of us were walking as a small group. I had the chance to speak Spanish with them, which made me genuinely happy — one of my goals for the Camino was to practise Spanish whenever I could!
 
@@ -293,11 +293,11 @@ Later, I decided to stop and rest in a bar. By the time I was ready to leave aga
 
 As the road continued, I kept passing through beautiful wine country, with rows of grapevines stretching out across the fields.
 
-![camino-frances-journey-day08-vineyard1.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day08-vineyard1.jpg](https://s2.loli.net/2026/02/02/QAIXD6pmdF3b9YE.jpg)
 
-![camino-frances-journey-day08-vineyard2.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day08-vineyard2.jpg](https://s2.loli.net/2026/02/02/RIHmp7wTr96u8nl.jpg)
 
-![camino-frances-journey-day08-vineyard3.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day08-vineyard3.jpg](https://s2.loli.net/2026/02/02/Dtpq4BaTKmoNZCd.jpg)
 
 Toward the end of the stage, the sky turned grey again. I didn’t want to get caught in heavy rain one more time, so I sped up and walked faster, hoping to reach Nájera as soon as possible. I managed to arrive at the albergue just in time — right before the rain started pouring heavily again.
 
@@ -309,17 +309,20 @@ Toward the end of the stage, the sky turned grey again. I didn’t want to get c
 
 Day 9 was fortunately a sunny day — no rain at all — and it felt so much easier mentally compared to yesterday. Early on the way, I even saw a few cats along the route.
 
-![camino-frances-journey-day09-cat1.jpg](YOUR_IMAGE_URL)
-
-![camino-frances-journey-day09-cat2.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day09-cat.jpg](https://s2.loli.net/2026/02/02/hU5wOVH8vduLyJI.jpg)
 
 The scenery along the way was also beautiful. With the clear sky and fresh air, walking felt peaceful and steady.
 
-![camino-frances-journey-day09-view1.jpg](YOUR_IMAGE_URL)
+![camino-frances-journey-day09-view1.jpg](https://s2.loli.net/2026/02/02/JmG5OtVAdI8h41v.jpg)
+![camino-frances-journey-day09-view2.jpg](https://s2.loli.net/2026/02/02/eRH2IBlOt6E3oSx.jpg)
 
-![camino-frances-journey-day09-view2.jpg](YOUR_IMAGE_URL)
+Later in the day, the weather changed again — not rain this time, but strong wind. It became very windy and I basically had to tolerate the wind for a long stretch until reaching **Santo Domingo de la Calzada**, where I stopped for lunch.
 
-Later in the day, the weather changed again — not rain this time, but **strong wind**. It became very windy and I basically had to tolerate the wind for a long stretch until reaching **Santo Domingo de la Calzada**, where I stopped for lunch.
+That turned out to be a very good decision. I stopped at **Bar Piedra**, and it ended up being **one of the best lunch breaks of my entire Camino journey**. The food was comforting and satisfying after hours of walking in the wind, and the **cheesecake was genuinely one of the best I had on the Camino** — the perfect reward before continuing on.
+
+![camino-frances-journey-day09-lunch1.jpg](https://s2.loli.net/2026/02/02/GekBVLXN1YuyIva.jpg)
+![camino-frances-journey-day09-lunch2.jpg](https://s2.loli.net/2026/02/02/JVfYzm4dyIok1hE.jpg)
+![camino-frances-journey-day09-lunch3.jpg](https://s2.loli.net/2026/02/02/yB5tkjsSfiGdLRu.jpg)
 
 Looking back, I think I made a bad decision here. Many website recommend stopping in Santo Domingo (and it would have been a sensible stage), but I felt that **20 km** was too short and decided to push on to the next two stops instead. Even though the weather was pleasant and not too hot, walking **32 km** was still exhausting — especially knowing that I still had to continue the journey the next day.
 
