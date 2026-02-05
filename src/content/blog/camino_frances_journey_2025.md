@@ -331,3 +331,39 @@ I ended up arriving at around **6 p.m.**, completely tired. After this day, I de
 🛏️ Stayed at **Albergue Essentia** — full accommodation details [here](/posts/camino-frances-albergue/#day-9).
 
 ---
+
+### Day 10 — Redecilla del Camino → Villafranca Montes de Oca (23.5 km)
+
+After the very long walk the day before, I finally decided to slow down. I had already walked **32 km** on Day 9, and one of my roommates asked me, “Why do you have to do this? Are you in a rush?” The answer was definitely no. That question stayed with me, and I realised I didn’t need to push myself so hard. From this point on, I decided to keep my stages shorter — ideally under **25 km** — and walk at a more sustainable pace.
+
+My blister around the ankle was also getting worse, which made the decision even clearer. I walked together with my roommates for a while in the morning, but later continued on my own toward **Belorado**.
+
+![camino-frances-journey-day10-Belorado1.jpg](https://s2.loli.net/2026/02/06/5wQKRxW9LESI3er.jpg)
+
+![camino-frances-journey-day10-Belorado2.jpg](https://s2.loli.net/2026/02/06/nuUaL13l9RjEcGo.jpg)
+
+In Belorado, I stopped at a pharmacy to buy **Compeed blister plasters** and **ibuprofen** — some much-needed Camino supplies at this point.
+
+![camino-frances-journey-day10-compeed.jpg](https://s2.loli.net/2026/02/06/GSLlInNis6g347t.jpg)
+
+Back on the trail, I kept seeing many “dead” sunflowers along the route.
+
+![camino-frances-journey-day10-sunflowers.jpg](https://s2.loli.net/2026/02/06/n6GkDNjC9hgVwQb.jpg)
+
+Compared to the previous days, today’s route felt relatively flat and easy. With fewer hills and a shorter distance.
+
+![camino-frances-journey-day10-view1.jpg](https://s2.loli.net/2026/02/06/pvaiD8koJZSQg1u.jpg)
+
+![camino-frances-journey-day10-view2.jpg](https://s2.loli.net/2026/02/06/l4I3nUighTB95V2.jpg)
+
+When I arrived in **Villafranca Montes de Oca**, I realised it was a very small town. Most places were already closed, and the only option for dinner nearby was **Hotel Restaurante San Antón Abad**, so I went there for a _menú del día_. Inside, I ended up sitting with a couple from the US and a Belgian guy. During dinner, the couple shared their beautiful story — they had actually gotten engaged while walking the Camino together. Hearing that made the evening feel extra special and heart-warming, a reminder that everyone is carrying their own journey along this path.
+
+![camino-frances-journey-day10-dinner1.jpg](https://s2.loli.net/2026/02/06/oaDUfqKM1hCb3J2.jpg)
+
+![camino-frances-journey-day10-dinner2.jpg](https://s2.loli.net/2026/02/06/7yn4oOpUAKICPRL.jpg)
+
+![camino-frances-journey-day10-dinner3.jpg](https://s2.loli.net/2026/02/06/gHDOuWn5mtXTpSR.jpg)
+
+🛏️ Stayed at **Casa Rural La Alpargateria** — full accommodation details [here](/posts/camino-frances-albergue/#day-10).
+
+---
