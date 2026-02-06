@@ -153,6 +153,8 @@ After such a physically demanding day, sitting down to eat and talk with people 
 
 ---
 
+<a id="day-3"></a>
+
 ### Day 3 — Zubiri → Pamplona (20.4 km)
 
 Even though the distance wasn’t very long, Day 3 felt tough. Early September was still very hot, and walking under the strong sun made the stage much more tiring than expected. With little shade along the way, the heat slowly drained my energy, kilometre by kilometre.
@@ -174,6 +176,8 @@ In the evening, I had a few good and tasty tapas for dinner.
 🛏️ Stayed at **Hostel Casa Ibarrola** — full accommodation details [here](/posts/camino-frances-albergue/#day-3).
 
 ---
+
+<a id="day-4"></a>
 
 ### Day 4 — Pamplona → Puente la Reina (23.9 km)
 
@@ -201,6 +205,8 @@ After dinner, I walked a bit around Puente la Reina and headed toward the famous
 
 ---
 
+<a id="day-5"></a>
+
 ### Day 5 — Puente la Reina → Estella (21.6 km)
 
 To avoid the heat in the middle of the day, I started walking **very early**, around **6:45 a.m.**, when the sun wasn’t out yet and the air was still cool.
@@ -223,6 +229,8 @@ For dinner, I ended up eating **Chinese food** together with two Chinese guys an
 🛏️ Stayed at **Ágora Hostel** — full accommodation details [here](/posts/camino-frances-albergue/#day-5).
 
 ---
+
+<a id="day-6"></a>
 
 ### Day 6 — Estella → Los Arcos (21.0 km)
 
@@ -248,6 +256,8 @@ Inside the church, there was a choir singing. I stayed to listen for a while, an
 🛏️ Stayed at **Casa Arqueña** — full accommodation details [here](/posts/camino-frances-albergue/#day-6).
 
 ---
+
+<a id="day-7"></a>
 
 ### Day 7 — Los Arcos → Logroño (28–29 km)
 
@@ -277,6 +287,8 @@ That night, Leon also decided to pause his Camino. After the long, hot first wee
 
 ---
 
+<a id="day-8"></a>
+
 ### Day 8 — Logroño → Nájera (29.0 km)
 
 Day 8 was the first day of my Camino with rain. When I woke up and saw the weather, I hoped the rain might stop if I waited a little — but it didn’t. In the end, I had no choice but to start walking anyway.
@@ -305,6 +317,8 @@ Toward the end of the stage, the sky turned grey again. I didn’t want to get c
 
 ---
 
+<a id="day-9"></a>
+
 ### Day 9 — Nájera → Redecilla del Camino (31.1 km)
 
 Day 9 was fortunately a sunny day — no rain at all — and it felt so much easier mentally compared to yesterday. Early on the way, I even saw a few cats along the route.
@@ -331,6 +345,8 @@ I ended up arriving at around **6 p.m.**, completely tired. After this day, I de
 🛏️ Stayed at **Albergue Essentia** — full accommodation details [here](/posts/camino-frances-albergue/#day-9).
 
 ---
+
+<a id="day-10"></a>
 
 ### Day 10 — Redecilla del Camino → Villafranca Montes de Oca (23.5 km)
 
@@ -365,5 +381,43 @@ When I arrived in **Villafranca Montes de Oca**, I realised it was a very small 
 ![camino-frances-journey-day10-dinner3.jpg](https://s2.loli.net/2026/02/06/gHDOuWn5mtXTpSR.jpg)
 
 🛏️ Stayed at **Casa Rural La Alpargateria** — full accommodation details [here](/posts/camino-frances-albergue/#day-10).
+
+---
+
+<a id="day-11"></a>
+
+### Day 11 — Villafranca Montes de Oca → Orbaneja Riopico (26.3 km)
+
+Day 11 started with a calm and relatively flat road, making it a nice way to ease into another long walk.
+
+![camino-frances-journey-day11-view1.jpg](https://s2.loli.net/2026/02/06/qc7EAsp6WxvzX5O.jpg)
+
+![camino-frances-journey-day11-view2.jpg](https://s2.loli.net/2026/02/06/PUERnmVwsLvY3fG.jpg)
+
+I stopped by a café for lunch and had a **bocadillo de morcilla de Burgos** — a Spanish blood sausage — together with a **café con leche**. It was my first time trying morcilla.
+
+![camino-frances-journey-day11-lunch.jpg](https://s2.loli.net/2026/02/06/SItqaPwV3nGi86Y.jpg)
+
+After lunch, I set off again as it was getting late. The sun grew stronger and the temperature started to rise, making the afternoon walk feel heavier.
+
+![camino-frances-journey-day11-view3.jpg](https://s2.loli.net/2026/02/06/wCAV5zQPOfygBa7.jpg)
+
+![camino-frances-journey-day11-view4.jpg](https://s2.loli.net/2026/02/06/KRLNiV7mwXHrCvs.jpg)
+
+Because my clothes hadn’t fully dried from the day before, I had to hang them on my backpack to air-dry while walking. It looked a bit funny, and even with the strong sun, they still weren’t completely dry after being on my backpack the whole day — one of those small Camino struggles you just learn to accept.
+
+![camino-frances-journey-day11-backpack.jpg](https://s2.loli.net/2026/02/06/lyIOGwXatUPD1Kp.jpg)
+
+![camino-frances-journey-day11-view5.jpg](https://s2.loli.net/2026/02/06/i8fvU6GsOb9pnwy.jpg)
+
+![camino-frances-journey-day11-view6.jpg](https://s2.loli.net/2026/02/06/9yv6LIOqm1NtRJk.jpg)
+
+After arriving at the hostel, I relaxed for a bit and took a shower. Later, when I went out to look for dinner, I realised almost everything was already closed. It’s a very small town, with basically just one bar/restaurant. By the time I got there, the only food left was **tortilla and a banana** — not exactly a proper dinner, but better than nothing.
+
+![camino-frances-journey-day11-dinner.jpg](https://s2.loli.net/2026/02/06/j1OFVNGRU5LtnmM.jpg)
+
+This is one of the downsides of staying in small villages: food options can be very limited if you arrive late. Still, the quiet atmosphere and peaceful surroundings made it a relaxing place to end the day.
+
+🛏️ Stayed at **Casa Rural Fortaleza** — full accommodation details [here](/posts/camino-frances-albergue/#day-11).
 
 ---
