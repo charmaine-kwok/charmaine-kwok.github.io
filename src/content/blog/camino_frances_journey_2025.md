@@ -421,3 +421,41 @@ This is one of the downsides of staying in small villages: food options can be v
 🛏️ Stayed at **Casa Rural Fortaleza** — full accommodation details [here](/posts/camino-frances-albergue/#day-11).
 
 ---
+
+### Day 12 — Orbaneja Riopico → Rabé de las Calzadas (24.2 km)
+
+Day 12 turned out to be **the coldest day of my entire Camino**. I started walking very early in the morning, and right away I could feel how different the day was going to be.
+
+![camino-frances-journey-day12-view1.jpg](https://s2.loli.net/2026/02/06/oLxNuKVsi9tZqfa.jpg)
+
+Walking toward Burgos in the dark and cold was honestly brutal — it was around **3°C**, and because the sun wasn’t up yet, it felt absolutely freezing. My hands were numb, my face felt stiff from the cold, and all I could think about was finding somewhere warm.
+
+By the time I reached the outskirts of Burgos, before heading into the city centre, I stopped at a bar to warm up and have breakfast.
+
+![camino-frances-journey-day12-breakfast1.jpg](https://s2.loli.net/2026/02/06/bnQq3K4v2DoX7Wl.jpg)
+
+![camino-frances-journey-day12-breakfast2.jpg](https://s2.loli.net/2026/02/06/gFYjwkVoaOy4JWL.jpg)
+
+I had **tortilla, some tapas, a tostada con jamón and a café con leche** — a big breakfast, but very much needed after yesterday’s “dinner” of tortilla and banana. Sitting indoors, warming up, and eating properly again felt incredibly comforting after the freezing morning.
+
+After breakfast, I walked into the centre of Burgos to buy a pair of gloves — absolutely essential in this weather — and then went to visit **Burgos Cathedral**, the iconic landmark of the city.
+
+![camino-frances-journey-day12-cathedral1.jpg](https://s2.loli.net/2026/02/06/uxwZNH6I43XpCD8.jpg)
+
+![camino-frances-journey-day12-cathedral2.jpg](https://s2.loli.net/2026/02/06/YVDtbqnXx4WwEFG.jpg)
+
+The cathedral was stunning and definitely one of the highlights of Burgos. Even though it was tempting to stay in the city, I decided not to sleep there. I’ve learned that staying overnight in big cities can be noisy, and I preferred to continue walking to a smaller place for a quieter night.
+
+Once I left Burgos behind, the sun finally came out, and suddenly everything felt so much better. The warmth made a huge difference — it was hard to believe how freezing it had been just a few hours earlier.
+
+![camino-frances-journey-day12-view2.jpg](https://s2.loli.net/2026/02/06/e39FpOYBXqEgHyz.jpg)
+
+After arriving at the hostel in Rabé de las Calzadas, I relaxed for a bit and was grateful that this accommodation also had a restaurant downstairs, so I could finally have a proper dinner without worrying about places being closed.
+
+After dinner, I chatted with the owner for a while. He was very kind and encouraged me to speak more Spanish along the Camino. Before I went upstairs, he even gifted me a small bottle of water — a simple gesture, but one that felt very warm.
+
+![camino-frances-journey-day12-water.jpg](https://s2.loli.net/2026/02/06/WH8DojwGXThYQid.jpg)
+
+🛏️ Stayed at **Hostal Fuente de Rabé** — full accommodation details [here](/posts/camino-frances-albergue/#day-12).
+
+---
