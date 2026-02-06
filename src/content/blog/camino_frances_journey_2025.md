@@ -459,3 +459,53 @@ After dinner, I chatted with the owner for a while. He was very kind and encoura
 🛏️ Stayed at **Hostal Fuente de Rabé** — full accommodation details [here](/posts/camino-frances-albergue/#day-12).
 
 ---
+
+### Day 13 — Rabé de las Calzadas → Castrojeriz (27.5 km)
+
+Day 13 started very early again — before sunrise. It was still dark when I set off, but fortunately it was not as cold as yesterday.
+
+![camino-frances-journey-day13-view1.jpg](https://s2.loli.net/2026/02/06/Iw4vNUkpy7HP2n9.jpg)
+
+The morning was extremely foggy.
+
+![camino-frances-journey-day13-view2.jpg](https://s2.loli.net/2026/02/06/wqLUNVgTWsFCkZv.jpg)
+
+![camino-frances-journey-day13-view3.jpg](https://s2.loli.net/2026/02/06/a3I8AXcvSruQOPZ.jpg)
+
+After walking for around **10 km**, I stopped for breakfast and had **tostada with café con leche**.
+
+![camino-frances-journey-day13-breakfast.jpg](https://s2.loli.net/2026/02/06/XSeGEoOgUHyWMsb.jpg)
+
+Not long after breakfast, I came across a few cats along the way.
+
+![camino-frances-journey-day13-cat1.jpg](https://s2.loli.net/2026/02/06/XGLSTjUfBasAn5K.jpg)
+
+![camino-frances-journey-day13-cat2.jpg](https://s2.loli.net/2026/02/06/ZFy5uTO4DsYRnGQ.jpg)
+
+As the morning went on, the fog slowly began to lift, revealing blue skies and sunshine.
+
+![camino-frances-journey-day13-view4.jpg](https://s2.loli.net/2026/02/06/tkSzU4ALipBXc89.jpg)
+
+![camino-frances-journey-day13-view5.jpg](https://s2.loli.net/2026/02/06/YJrCbvlViu2aW5j.jpg)
+
+Later, I stopped again for lunch.
+
+![camino-frances-journey-day13-lunch.jpg](https://s2.loli.net/2026/02/06/y3SftERA8UDN2xC.jpg)
+
+There was another cat in the restaurant.
+
+![camino-frances-journey-day13-cat3.jpg](https://s2.loli.net/2026/02/06/BZIYu3TJ6MmDG7L.jpg)
+
+After lunch, I still had a fair distance to go. The afternoon sun became strong, and large parts of the route had **no shade at all**. Walking under the direct sun was tough, and the heat made the final stretch feel endless.
+
+![camino-frances-journey-day13-view6.jpg](https://s2.loli.net/2026/02/06/8wNCszVRi7pboEn.jpg)
+
+![camino-frances-journey-day13-view7.jpg](https://s2.loli.net/2026/02/06/CrVd9m7qxsuKeRW.jpg)
+
+Eventually, I arrived at the albergue in Castrojeriz. This turned out to be one of the most relaxing places I stayed on the Camino. The atmosphere was calm and peaceful, with a meditation session held by the host.
+
+Dinner was a **vegetarian meal**, beautifully prepared with many different dishes. It was very filling and delicious, and we had great conversations around the table. The whole place had a very chill and relaxing vibe, with not many pilgrims staying that night. The host was very kind, and she also had **two lovely white cats**, which made the place feel even warmer and more welcoming.
+
+🛏️ Stayed at **Espacio Interior** — full accommodation details [here](/posts/camino-frances-albergue/#day-13).
+
+---
