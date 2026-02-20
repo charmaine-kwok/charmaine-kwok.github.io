@@ -422,6 +422,8 @@ This is one of the downsides of staying in small villages: food options can be v
 
 ---
 
+<a id="day-12"></a>
+
 ### Day 12 — Orbaneja Riopico → Rabé de las Calzadas (24.2 km)
 
 Day 12 turned out to be **the coldest day of my entire Camino**. I started walking very early in the morning, and right away I could feel how different the day was going to be.
@@ -459,6 +461,8 @@ After dinner, I chatted with the owner for a while. He was very kind and encoura
 🛏️ Stayed at **Hostal Fuente de Rabé** — full accommodation details [here](/posts/camino-frances-albergue/#day-12).
 
 ---
+
+<a id="day-13"></a>
 
 ### Day 13 — Rabé de las Calzadas → Castrojeriz (27.5 km)
 
@@ -507,5 +511,67 @@ Eventually, I arrived at the albergue in Castrojeriz. This turned out to be one 
 Dinner was a **vegetarian meal**, beautifully prepared with many different dishes. It was very filling and delicious, and we had great conversations around the table. The whole place had a very chill and relaxing vibe, with not many pilgrims staying that night. The host was very kind, and she also had **two lovely white cats**, which made the place feel even warmer and more welcoming.
 
 🛏️ Stayed at **Espacio Interior** — full accommodation details [here](/posts/camino-frances-albergue/#day-13).
+
+---
+
+<a id="day-14"></a>
+
+### Day 14 — Castrojeriz → Frómista (24.7 km)
+
+Day 14 started early again to avoid the heat.
+
+![camino-frances-journey-day14-view1.jpg](https://files.seeusercontent.com/2026/02/20/Gzz0/camino-frances-journey-day14-vie.jpg)
+
+![camino-frances-journey-day14-view2.jpg](https://files.seeusercontent.com/2026/02/20/iA8l/camino-frances-journey-day14-vie.jpg)
+
+As I approached **Mirador del Alto de Mostelares**, something unexpected happened — I started to see the sunrise. I hadn’t planned it at all, but suddenly the sky began turning orange and pink. It was absolutely spectacular.
+
+![camino-frances-journey-day14-sunrise1.jpg](https://files.seeusercontent.com/2026/02/20/1rYf/camino-frances-journey-day14-sun.jpg)
+
+![camino-frances-journey-day14-sunrise2.jpg](https://files.seeusercontent.com/2026/02/20/iL3z/camino-frances-journey-day14-sun.jpg)
+
+This was definitely one of the most memorable views of my entire Camino journey!
+
+After soaking in the view, I continued walking.
+
+![camino-frances-journey-day14-view3.jpg](https://files.seeusercontent.com/2026/02/20/5Gya/camino-frances-journey-day14-vie.jpg)
+
+Later in the morning, I stopped for breakfast — a café con leche and a sandwich (again). At this point, sandwiches had basically become a Camino staple.
+
+![camino-frances-journey-day14-breakfast.jpg](https://files.seeusercontent.com/2026/02/20/Hks3/camino-frances-journey-day14-bre.jpg)
+
+The weather stayed pleasant for a while, and walking felt steady and comfortable.
+
+![camino-frances-journey-day14-view4.jpg](https://files.seeusercontent.com/2026/02/20/8aGi/camino-frances-journey-day14-vie.jpg)
+
+![camino-frances-journey-day14-view5.jpg](https://files.seeusercontent.com/2026/02/20/Gmb0/camino-frances-journey-day14-vie.jpg)
+
+![camino-frances-journey-day14-view6.jpg](https://files.seeusercontent.com/2026/02/20/a2fE/camino-frances-journey-day14-vie.jpg)
+
+By noon, however, it became very sunny and hot again. I stopped once more for another café con leche and another sandwich before continuing the final stretch toward Frómista.
+
+![camino-frances-journey-day14-lunch.jpg](https://files.seeusercontent.com/2026/02/20/7dmT/camino-frances-journey-day14-lun.jpg)
+
+When I arrived in Frómista, unfortunately the hostel turned out to be the **worst of my entire Camino**. The bed felt dirty, and there was only cold water in the shower. It was a disappointing end after such a beautiful morning.
+
+(Full details in my accommodation archive below.)
+
+In the evening, I went to a nearby restaurant for dinner.
+
+![camino-frances-journey-day14-dinner1.jpg](https://files.seeusercontent.com/2026/02/20/9Gct/camino-frances-journey-day14-din.jpg)
+
+![camino-frances-journey-day14-dinner2.jpg](https://files.seeusercontent.com/2026/02/20/g1eZ/camino-frances-journey-day14-din.jpg)
+
+I had ribs and shared dinner with the Swedish sister I had met earlier that day at the Castrojeriz albergue. We had a really nice conversation over dinner, which helped balance out the frustrating accommodation experience. It reminded me that even when a stay isn’t great, the people you meet can still make the day special.
+
+After dinner, we walked outside and saw two little kittens nearby.
+
+![camino-frances-journey-day14-cats.jpg](https://files.seeusercontent.com/2026/02/20/Dvt7/camino-frances-journey-day14-cat.jpg)
+
+Just across from the restaurant, the church was beautifully illuminated at night.
+
+![camino-frances-journey-day14-church.jpg](https://files.seeusercontent.com/2026/02/20/yzD6/camino-frances-journey-day14-chu.jpg)
+
+🛏️ Stayed at **Albergue Luz de Frómista** — full accommodation details [here](/posts/camino-frances-albergue/#day-14).
 
 ---
