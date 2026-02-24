@@ -575,3 +575,73 @@ Just across from the restaurant, the church was beautifully illuminated at night
 🛏️ Stayed at **Albergue Luz de Frómista** — full accommodation details [here](/posts/camino-frances-albergue/#day-14).
 
 ---
+
+<a id="day-15"></a>
+
+### Day 15 — Frómista → Carrión de los Condes (18.8 km)
+
+After the terrible night at the albergue — the dirty, squeaky bed making noise every time I moved — I decided to leave as early as possible. I started walking at around 6 a.m., still in the dark.
+
+![camino-frances-journey-day15-view1.jpg](https://files.seeusercontent.com/2026/02/24/uQ3d/camino-frances-journey-day15-vie.jpg)
+
+![camino-frances-journey-day15-view2.jpg](https://files.seeusercontent.com/2026/02/24/n2Jc/camino-frances-journey-day15-vie.jpg)
+
+Walking alone in the darkness felt a little creepy at first. The road was silent, and very quiet. Luckily, not long after starting, I met a lady from New Zealand. She had stayed at the same albergue and also thought it was horrible. We immediately bonded over the shared experience and walked together for quite a while.
+
+As the sky slowly brightened and the sun began to rise, the atmosphere became much lighter. She walked a bit faster than me, so after sunrise I continued at my own pace.
+
+Today’s walk felt slightly dull compared to the previous days. Much of the route was simply along the side of a long straight road.
+
+![camino-frances-journey-day15-view3.jpg](https://files.seeusercontent.com/2026/02/24/vfS3/camino-frances-journey-day15-vie.jpg)
+
+After some time, I stopped for lunch.
+
+![camino-frances-journey-day15-lunch.jpg](https://files.seeusercontent.com/2026/02/24/Yvp2/camino-frances-journey-day15-lun.jpg)
+
+Right outside the restaurant there was a church. I saw a few people going inside, which made me curious — I wanted to step in and have a look as well. However, when I approached the door, it seemed locked and I couldn’t enter. It looked like there might have been a private event or service taking place inside.
+
+![camino-frances-journey-day15-view5.jpg](https://files.seeusercontent.com/2026/02/24/Es7r/camino-frances-journey-day15-vie.jpg)
+
+At the entrance of the church, there was a lovely view overlooking the town.
+
+![camino-frances-journey-day15-view4.jpg](https://files.seeusercontent.com/2026/02/24/Qo1k/camino-frances-journey-day15-vie.jpg)
+
+After lunch, I continued walking — again mostly along the roadside.
+
+![camino-frances-journey-day15-view6.jpg](https://files.seeusercontent.com/2026/02/24/Ic1u/camino-frances-journey-day15-vie.jpg)
+
+Eventually, I saw a Camino plate on the ground with “Carrión” and the shell symbol.
+
+![camino-frances-journey-day15-view7.jpg](https://files.seeusercontent.com/2026/02/24/qi4F/camino-frances-journey-day15-vie.jpg)
+
+That small sign meant I had arrived. Carrión de los Condes is a tiny and quiet town.
+
+![camino-frances-journey-day15-town.jpg](https://files.seeusercontent.com/2026/02/24/L1il/camino-frances-journey-day15-tow.jpg)
+
+Tonight, I chose to stay in a **single room with a private bathroom**. After so many albergues, I really wanted some privacy and quiet. It was absolutely worth it.
+
+After checking in, I quickly went out to find water and fruit. It was Sunday, and many shops closed early — around 1 p.m. Fortunately (or unfortunately), I managed to buy only a bottle of water before everything shut.
+
+While walking around town looking for food, I saw the Swedish sisters I had met earlier sitting inside a café. I went in to say hello. We chatted for a while and exchanged Instagram. Since this was their last day of the Camino (they walk a few days each year and continue the following year), we said goodbye. It felt a little bittersweet.
+
+While waiting for dinner time, I ordered a smoothie nearby.
+
+![camino-frances-journey-day15-smoothie.jpg](https://files.seeusercontent.com/2026/02/24/kMs0/camino-frances-journey-day15-smo.jpg)
+
+I wandered around the town and found another church.
+
+![camino-frances-journey-day15-church.jpg](https://files.seeusercontent.com/2026/02/24/taP3/camino-frances-journey-day15-chu.jpg)
+
+However, even the church was closed — Sundays in small towns can feel very quiet.
+
+Finally, after **7 p.m.**, I was able to get dinner.
+
+![camino-frances-journey-day15-dinner1.jpg](https://files.seeusercontent.com/2026/02/24/n1Xa/camino-frances-journey-day15-din.jpg)
+
+![camino-frances-journey-day15-dinner2.jpg](https://files.seeusercontent.com/2026/02/24/klM3/camino-frances-journey-day15-din.jpg)
+
+During dinner, an Irish couple joined my table, and we had a lovely conversation throughout the meal. It turned out to be a peaceful and surprisingly warm ending to what had started as a frustrating day.
+
+🛏️ Stayed at **Hostal Albe** — full accommodation details [here](/posts/camino-frances-albergue/#day-15).
+
+---
