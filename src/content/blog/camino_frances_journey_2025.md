@@ -779,3 +779,49 @@ The food was a bit disappointing: a few chicken wings, fries, and a “not-so-go
 🛏️ Stayed at **Albergue de Peregrinos San Roque** — full accommodation details [here](/posts/camino-frances-albergue/#day-17).
 
 ---
+
+<a id="day-18"></a>
+
+### Day 18 — Calzada del Coto → Villamarco (23.4 km)
+
+I started walking in the dark again. The sky slowly shifted from deep blue to soft orange as the light returned.
+
+![camino-frances-journey-day18-dark1.jpg](https://files.seeusercontent.com/2026/03/01/w2Ik/camino-frances-journey-day18-dar.jpg)
+
+![camino-frances-journey-day18-dark2.jpg](https://files.seeusercontent.com/2026/03/01/1rUu/camino-frances-journey-day18-dar.jpg)
+
+Not long after setting off, I caught up with an Australian girl who had stayed at the albergue the night before. We walked together for a while. She had recently graduated in law and pharmacy — quite impressive!
+
+After some time, our pace naturally became different and we parted ways. I stopped at a small bar for breakfast.
+
+![camino-frances-journey-day18-breakfast.jpg](https://files.seeusercontent.com/2026/03/01/iQ0w/camino-frances-journey-day18-bre.jpg)
+
+At the bar, I met an Irish/English couple, and we chatted during breakfast. They kindly offered to wait for me so we could walk together, but I told them it was okay to go ahead. On the Camino, everyone has their own rhythm, and I didn’t want to slow anyone down.
+
+After breakfast, the sky turned bright blue and the temperature began to rise.
+
+![camino-frances-journey-day18-view1.jpg](https://files.seeusercontent.com/2026/03/01/Ce5z/camino-frances-journey-day18-vie.jpg)
+
+Knowing that a long stretch without shade was coming up, I decided to stop again to buy a sandwich and two small yoghurts before heading into that exposed section. While ordering in Spanish, I accidentally asked for a **knife (cuchillo)** instead of a **spoon (cuchara)** for the yoghurt. I only realised my mistake when the owner kindly corrected me and said she would give me a _cuchara_ instead. I found it quite funny at the time — and I’m pretty sure I’ll never mix those two words up again.
+
+![camino-frances-journey-day18-lunch.jpg](https://files.seeusercontent.com/2026/03/01/jx5W/camino-frances-journey-day18-lun.jpg)
+
+At that stop, I ran into the Australian girl again. She actually sewed her blister right in front of me to drain it! It was impressive and a little scary at the same time. Camino blisters are truly no joke.
+
+Afterwards, I continued walking toward Villamarco. This stretch had almost no shade at all — just open land and direct sun.
+
+![camino-frances-journey-day18-view2.jpg](https://files.seeusercontent.com/2026/03/01/D8ka/camino-frances-journey-day18-vie.jpg)
+
+![camino-frances-journey-day18-view3.jpg](https://files.seeusercontent.com/2026/03/01/sU9d/camino-frances-journey-day18-vie.jpg)
+
+Villamarco is about 1 km off the main Camino path, so it’s very quiet. There is only one albergue in the village, and unfortunately only one small bar. There was no proper dinner available — just sandwiches.
+
+![camino-frances-journey-day18-dinner.jpg](https://files.seeusercontent.com/2026/03/01/9efG/camino-frances-journey-day18-din.jpg)
+
+Even though the food options were limited, the town itself felt very peaceful and calm.
+
+![camino-frances-journey-day18-view4.jpg](https://files.seeusercontent.com/2026/03/01/nt5Q/camino-frances-journey-day18-vie.jpg)
+
+🛏️ Stayed at **Albergue La Vieja Escuela** — full accommodation details [here](/posts/camino-frances-albergue/#day-18).
+
+---
