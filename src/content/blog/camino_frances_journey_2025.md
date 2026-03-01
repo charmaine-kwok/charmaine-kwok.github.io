@@ -508,7 +508,15 @@ After lunch, I still had a fair distance to go. The afternoon sun became strong,
 
 Eventually, I arrived at the albergue in Castrojeriz. This turned out to be one of the most relaxing places I stayed on the Camino. The atmosphere was calm and peaceful, with a meditation session held by the host.
 
-Dinner was a **vegetarian meal**, beautifully prepared with many different dishes. It was very filling and delicious, and we had great conversations around the table. The whole place had a very chill and relaxing vibe, with not many pilgrims staying that night. The host was very kind, and she also had **two lovely white cats**, which made the place feel even warmer and more welcoming.
+Dinner was a **vegetarian meal**, beautifully prepared with many different dishes. It was very filling and delicious, and we had great conversations around the table. The whole place had a very chill and relaxing vibe, with not many pilgrims staying that night. The host was very kind, and she also had two lovely white cats, which made the place feel even warmer and more welcoming.
+
+That evening, I met two Swedish sisters who walk a section of the Camino each year — about five days at a time. They started their journey back in 2019 and continue it little by little. When they heard that I had developed blisters, one of them kindly offered me a pair of socks.
+
+![camino-frances-journey-day13-socks.jpg](https://files.seeusercontent.com/2026/03/01/0sKr/camino-frances-journey-day13-soc.jpg)
+
+It was such a small gesture, but incredibly heartwarming. Moments like that remind me how caring and generous pilgrims can be.
+
+I also met Karen and Rich, a couple in their 70s and 80s who had already completed **11 Caminos**!
 
 🛏️ Stayed at **Espacio Interior** — full accommodation details [here](/posts/camino-frances-albergue/#day-13).
 
@@ -622,7 +630,7 @@ Tonight, I chose to stay in a **single room with a private bathroom**. After so 
 
 After checking in, I quickly went out to find water and fruit. It was Sunday, and many shops closed early — around 1 p.m. Fortunately (or unfortunately), I managed to buy only a bottle of water before everything shut.
 
-While walking around town looking for food, I saw the Swedish sisters I had met earlier sitting inside a café. I went in to say hello. We chatted for a while and exchanged Instagram. Since this was their last day of the Camino (they walk a few days each year and continue the following year), we said goodbye. It felt a little bittersweet.
+While walking around town looking for food, I saw the Swedish sisters I had met earlier sitting inside a café. I went in to say hello. We chatted for a while and exchanged Instagram. Since this was their last day of the Camino (they walk a few days each year and continue the following year), we said goodbye.
 
 While waiting for dinner time, I ordered a smoothie nearby.
 
@@ -640,8 +648,72 @@ Finally, after **7 p.m.**, I was able to get dinner.
 
 ![camino-frances-journey-day15-dinner2.jpg](https://files.seeusercontent.com/2026/02/24/klM3/camino-frances-journey-day15-din.jpg)
 
-During dinner, an Irish couple joined my table, and we had a lovely conversation throughout the meal. It turned out to be a peaceful and surprisingly warm ending to what had started as a frustrating day.
+During dinner, an Irish couple, Kevin and Mags, joined my table, and we had a lovely conversation throughout the meal.
 
 🛏️ Stayed at **Hostal Albe** — full accommodation details [here](/posts/camino-frances-albergue/#day-15).
+
+---
+
+<a id="day-16"></a>
+
+### Day 16 — Carrión de los Condes → Ledigos (23.4 km)
+
+I left the hostel at around 7 a.m. It was still dark, and I expected that there would be nowhere open for breakfast. Ahead of me was the famous long stretch — about 17–18 km with no towns, just open road.
+
+Fortunately, I saw a bar open before leaving town and quickly went in for a café con leche and tortilla.
+
+![camino-frances-journey-day16-breakfast.jpg](https://files.seeusercontent.com/2026/02/24/Nm8l/camino-frances-journey-day16-bre.jpg)
+
+After that, I began walking into the darkness.
+
+![camino-frances-journey-day16-dark.jpg](https://files.seeusercontent.com/2026/03/01/Jct5/camino-frances-journey-day16-dar.jpg)
+
+As I continued, I looked back and saw the sun rising behind me. The sky slowly changed colour, and the sunrise quietly followed me along the road.
+
+![camino-frances-journey-day16-sunrise2.jpg](https://files.seeusercontent.com/2026/03/01/lXg4/camino-frances-journey-day16-sun.jpg)
+
+![camino-frances-journey-day16-sunrise1.jpg](https://files.seeusercontent.com/2026/03/01/sF3u/camino-frances-journey-day16-sun.jpg)
+
+Along the way, there were several small food trucks set up beside the route. I stopped at one of them and had a sandwich.
+
+![camino-frances-journey-day16-food-truck.jpg](https://files.seeusercontent.com/2026/03/01/kU8s/camino-frances-journey-day16-foo.jpg)
+
+Then I continued walking along this long stretch.
+
+![camino-frances-journey-day15-view1.jpg](https://files.seeusercontent.com/2026/03/01/9Hde/camino-frances-journey-day15-vie.jpg)
+
+![camino-frances-journey-day15-view2.jpg](https://files.seeusercontent.com/2026/03/01/nSk1/camino-frances-journey-day15-vie.jpg)
+
+![camino-frances-journey-day15-view3.jpg](https://files.seeusercontent.com/2026/03/01/i6Nh/camino-frances-journey-day15-vie.jpg)
+
+For many people, this section is considered boring, but honestly, I didn’t find it that way. I enjoyed the quiet rhythm — just walking peacefully, without distractions, letting my thoughts settle.
+
+Eventually, I reached a restaurant and stopped for lunch.
+
+![camino-frances-journey-day16-lunch.jpg](https://files.seeusercontent.com/2026/03/01/uuN6/camino-frances-journey-day16-lun.jpg)
+
+After lunch, I continued toward Ledigos.
+
+![camino-frances-journey-day15-view4.jpg](https://files.seeusercontent.com/2026/03/01/fW7e/camino-frances-journey-day15-vie.jpg)
+
+On the way, we saw a sign that said:
+
+**“Bienvenidos Ledigos Centro del Camino Frances a Santiago”**
+
+![camino-frances-journey-day16-sign.jpg](https://files.seeusercontent.com/2026/03/01/m0jQ/camino-frances-journey-day16-sig.jpg)
+
+That meant we were roughly halfway through the journey. Seeing that number felt significant — not just physically, but mentally.
+
+When I arrived at the hostel, it was still before 1 p.m., and I was the second pilgrim to arrive. I could enjoy the shower completely by myself. However, out of all the beds available, I made a slightly strange choice — I chose the bed opposite the shower.
+
+At the time, I thought it would be convenient. In reality, it turned out to be super noisy, with people coming in and out all evening, and the light shining directly toward my bed at night. Lesson learned.
+
+After settling down and napping a bit, I went to the restaurant inside the hostel for dinner.
+
+At dinner, I sat with an American guy, a Dutch woman, and a woman from the UK. The Dutch woman couldn’t finish her food and almost gave me all of her chicken, saying I had a great appetite. After such long walking days, I guess that was true.
+
+After dinner, I met Karen and Rich again, as well as the Irish couple Kevin and Mags whom I had met the night before. We chatting for quite a while, sharing stories from the road and laughing about the little struggles of the Camino. Those casual conversations after dinner often feel just as meaningful as the walking itself.
+
+🛏️ Stayed at **Albergue La Morena** — full accommodation details [here](/posts/camino-frances-albergue/#day-16).
 
 ---
