@@ -717,3 +717,65 @@ After dinner, I met Karen and Rich again, as well as the Irish couple Kevin and 
 🛏️ Stayed at **Albergue La Morena** — full accommodation details [here](/posts/camino-frances-albergue/#day-16).
 
 ---
+
+<a id="day-17"></a>
+
+### Day 17 — Ledigos → Calzada del Coto (21.0 km)
+
+After having a café con leche and tortilla at the restaurant downstairs in the hostel, I started walking at around 7:30 a.m and it was still dark outside.
+
+![camino-frances-journey-day17-dark1.jpg](https://files.seeusercontent.com/2026/03/01/F7qb/camino-frances-journey-day17-dar.jpg)
+
+![camino-frances-journey-day17-dark2.jpg](https://files.seeusercontent.com/2026/03/01/h8gA/camino-frances-journey-day17-dar.jpg)
+
+As I kept walking, I began to see the sky slowly changing. The darkness softened into deep blue, then pale orange.
+
+![camino-frances-journey-day17-sunrise1.jpg](https://files.seeusercontent.com/2026/03/01/1gzD/camino-frances-journey-day17-sun.jpg)
+
+I really love the feeling of watching the sun rise while walking. Seeing the sky transform from dark to bright, the gradual change of colours, and then the first golden light touching the fields — it always feels special. It’s quiet, slow, and almost magical.
+
+Soon the sun grew stronger and brighter.
+
+![camino-frances-journey-day17-sunrise2.jpg](https://files.seeusercontent.com/2026/03/01/8oyA/camino-frances-journey-day17-sun.jpg)
+
+![camino-frances-journey-day17-sunrise3.jpg](https://files.seeusercontent.com/2026/03/01/wS1y/camino-frances-journey-day17-sun.jpg)
+
+Along the way, I saw an Italian man standing by the Camino offering wax stamps. Curious, I stopped and got one. It was very beautifully made.
+
+![camino-frances-journey-day17-wax-stamp.jpg](https://files.seeusercontent.com/2026/03/01/Sd7y/camino-frances-journey-day17-wax.jpg)
+
+After getting the stamp, I continued walking.
+
+![camino-frances-journey-day17-view1.jpg](https://files.seeusercontent.com/2026/03/01/ozM0/camino-frances-journey-day17-vie.jpg)
+
+Today was another beautiful day with clear blue skies. On the way, I met two Croatian girls, Anna and Maria, and we walked together for a while.
+
+After some time, I stopped for breakfast at a small bar — and coincidentally, they stopped there too. We chatted more over coffee before continuing to walk together.
+
+Further ahead, near Sahagún, we saw a stone sculpture marking what is often considered the **halfway point of the Camino Francés**.
+
+![camino-frances-journey-day17-sculpture1.jpg](https://files.seeusercontent.com/2026/03/01/oQ9x/camino-frances-journey-day17-scu.jpg)
+
+![camino-frances-journey-day17-sculpture2.jpg](https://files.seeusercontent.com/2026/03/01/bq2H/camino-frances-journey-day17-scu.jpg)
+
+I continued walking into the centre of Sahagún and stopped for lunch.
+
+![camino-frances-journey-day17-lunch1.jpg](https://files.seeusercontent.com/2026/03/01/s8Re/camino-frances-journey-day17-lun.jpg)
+
+![camino-frances-journey-day17-lunch2.jpg](https://files.seeusercontent.com/2026/03/01/6ozO/camino-frances-journey-day17-lun.jpg)
+
+I had cheesecake again, but this one was not what I expected — honestly, a bit disappointing. Not every cheesecake can be amazing, I guess.
+
+After lunch, I continued walking to the albergue. It was a **donativo albergue**, and the lady running it was from Brazil — it was her second day volunteering there. She was very warm and kind.
+
+That evening, three other pilgrims (one from Belgium, one from Colombia, and one from Italy), the Brazilian host, and I went together to have dinner at a nearby bar — the only place open in the village.
+
+![camino-frances-journey-day17-dinner1.jpg](https://files.seeusercontent.com/2026/03/01/o1fG/camino-frances-journey-day17-din.jpg)
+
+![camino-frances-journey-day17-dinner2.jpg](https://files.seeusercontent.com/2026/03/01/9Hwe/camino-frances-journey-day17-din.jpg)
+
+The food was a bit disappointing: a few chicken wings, fries, and a “not-so-good” cheesecake for dessert. But Camino dinners are always a mix of good and bad. In the end, I reminded myself that at least I had warm food, a place to sleep, and good company around the table — and that is often enough.
+
+🛏️ Stayed at **Albergue de Peregrinos San Roque** — full accommodation details [here](/posts/camino-frances-albergue/#day-17).
+
+---
