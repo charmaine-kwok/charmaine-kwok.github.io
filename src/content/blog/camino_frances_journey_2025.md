@@ -825,3 +825,53 @@ Even though the food options were limited, the town itself felt very peaceful an
 🛏️ Stayed at **Albergue La Vieja Escuela** — full accommodation details [here](/posts/camino-frances-albergue/#day-18).
 
 ---
+
+<a id="day-19"></a>
+
+### Day 19 — Villamarco → Arcahueja (23.0 km)
+
+I started walking in the dark again. As usual, the sky slowly changed colours — from deep blue to soft orange — as the morning light appeared.
+
+![camino-frances-journey-day19-sunrise1.jpg](https://files.seeusercontent.com/2026/03/04/f9cR/camino-frances-journey-day19-sun.jpg)
+
+![camino-frances-journey-day19-sunrise2.jpg](https://files.seeusercontent.com/2026/03/04/c7oD/camino-frances-journey-day19-sun.jpg)
+
+At the beginning of the stage, the path mostly followed the side of the road, which wasn’t the most scenic stretch.
+
+After walking for a while, I finally reached a bar where I could stop for breakfast. Because of the cooler temperature, I was glad to be able to step into a warm bar and take a break. It was still quite early, so there were not many options available. I ended up having **two fried eggs and a café con leche**, which helped warm me up before continuing the walk.
+
+![camino-frances-journey-day19-breakfast.jpg](https://files.seeusercontent.com/2026/03/04/x4Za/camino-frances-journey-day19-bre.jpg)
+
+Later on, I stopped again at another bar for a short break and had a **tortilla and another café con leche**.
+
+![camino-frances-journey-day19-break.jpg](https://files.seeusercontent.com/2026/03/04/2edM/camino-frances-journey-day19-bre.jpg)
+
+After that, I continued walking under the clear blue skies.
+
+![camino-frances-journey-day19-view1.jpg](https://files.seeusercontent.com/2026/03/04/d6jB/camino-frances-journey-day19-vie.jpg)
+
+![camino-frances-journey-day19-view2.jpg](https://files.seeusercontent.com/2026/03/04/Ona2/camino-frances-journey-day19-vie.jpg)
+
+Before arriving at the hotel where I planned to stay that night, I stopped at a nearby restaurant, **Restaurante El Pradillo**, to have lunch.
+
+![camino-frances-journey-day19-lunch1.jpg](https://files.seeusercontent.com/2026/03/04/0Gbc/camino-frances-journey-day19-lun.jpg)
+
+![camino-frances-journey-day19-lunch2.jpg](https://files.seeusercontent.com/2026/03/04/J1ib/camino-frances-journey-day19-lun.jpg)
+
+![camino-frances-journey-day19-lunch3.jpg](https://files.seeusercontent.com/2026/03/04/9yFd/camino-frances-journey-day19-lun.jpg)
+
+![camino-frances-journey-day19-lunch4.jpg](https://files.seeusercontent.com/2026/03/04/bX2u/camino-frances-journey-day19-lun.jpg)
+
+The **ribs were actually very good**, and it was one of those satisfying Camino meals after a long morning of walking.
+
+After paying the bill, the waitress told me, **“Hablas muy bien español.”** I really appreciated the compliment, although in reality I hadn’t spoken very much Spanish — maybe just something like _“¿Puedo pagar con tarjeta?”_.
+
+Still, it made me very happy. One of my goals on the Camino was to **practise Spanish**, so even small interactions like this felt encouraging.
+
+![camino-frances-journey-day19-sign.jpg](https://files.seeusercontent.com/2026/03/04/eZy5/camino-frances-journey-day19-sig.jpg)
+
+After arriving at the hotel, I noticed a sign on the wall that read “Camino de Santiago 320 km →” It reminded me that I had already walked a long distance, and suddenly the remaining journey felt much shorter than when I first started. The Camino still had a long way to go, but it felt like the end was slowly becoming more real.
+
+🛏️ Stayed at **Hotel Camino Real** — full accommodation details [here](/posts/camino-frances-albergue/#day-19).
+
+---
