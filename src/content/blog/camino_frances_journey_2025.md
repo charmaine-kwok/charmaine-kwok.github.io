@@ -872,6 +872,16 @@ Still, it made me very happy. One of my goals on the Camino was to **practise Sp
 
 After arriving at the hotel, I noticed a sign on the wall that read “Camino de Santiago 320 km →” It reminded me that I had already walked a long distance, and suddenly the remaining journey felt much shorter than when I first started. The Camino still had a long way to go, but it felt like the end was slowly becoming more real.
 
+![camino-frances-journey-day19-sign.jpg](https://files.seeusercontent.com/2026/03/04/eZy5/camino-frances-journey-day19-sig.jpg)
+
+After arriving at the hotel, I noticed a sign on the wall that read **“Camino de Santiago → 320 km.”** Seeing that number made me pause for a moment. It reminded me that I had already walked a long distance, and suddenly the remaining journey felt much shorter than when I first started. The Camino still had a long way to go, but it felt like the end was slowly becoming more real.
+
+From the window of my hotel room, I could also see the sky slowly changing colour in the evening. I didn’t catch the actual sunset, but watching the sky shift from blue to warm tones was still a beautiful way to end the day.
+
+![camino-frances-journey-day19-sunset.jpg](https://files.seeusercontent.com/2026/03/04/Z7lc/camino-frances-journey-day19-sun.jpg)
+
+That evening I also needed to do some laundry. Since the hotel didn’t provide a laundry service, I washed my clothes in the hotel sink. Then I moved one of the chairs from my room out onto the balcony and hung my clothes over it so they could dry in the sun. It was a simple but very practical Camino-style laundry solution.
+
 🛏️ Stayed at **Hotel Camino Real** — full accommodation details [here](/posts/camino-frances-albergue/#day-19).
 
 ---
