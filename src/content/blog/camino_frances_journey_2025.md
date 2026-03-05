@@ -1027,3 +1027,59 @@ The soup was delicious and very filling — a perfect meal after a long day of w
 🛏️ Stayed at **Albergue Hidalgos** — full accommodation details [here](/posts/camino-frances-albergue/#day-21).
 
 ---
+
+<a id="day-22"></a>
+
+### Day 22 — Hospital de Órbigo → Astorga (16.5 km)
+
+After walking for a while in the morning, I stopped for breakfast and had a tortilla and café con leche before continuing the day’s walk.
+
+![camino-frances-journey-day22-breakfast.jpg](https://files.seeusercontent.com/2026/03/05/Qjr6/camino-frances-journey-day22-bre.jpg)
+
+As I continued walking, the sun slowly began to rise.
+
+![camino-frances-journey-day22-sunrise.jpg](https://files.seeusercontent.com/2026/03/05/mMa9/camino-frances-journey-day22-sun.jpg)
+
+The morning was a bit foggy and misty.
+
+![camino-frances-journey-day22-misty.jpg](https://files.seeusercontent.com/2026/03/05/uw6G/camino-frances-journey-day22-mis.jpg)
+
+Today’s stage was relatively short, around **16–17 km**, so I arrived in the city of **Astorga** quite early, at around **11:15 a.m.**
+
+![camino-frances-journey-day22-camino-waymarker.jpg](https://files.seeusercontent.com/2026/03/05/0yMb/camino-frances-journey-day22-cam.jpg)
+
+The first thing I saw was the beautiful **Palacio de Gaudí Astorga**.
+
+![camino-frances-journey-day22-palacio.jpg](https://files.seeusercontent.com/2026/03/05/q3xR/camino-frances-journey-day22-pal.jpg)
+
+Not far from it stands the **Astorga Cathedral**, which is very impressive — large and elegant.
+
+![camino-frances-journey-day22-cathedral1.jpg](https://files.seeusercontent.com/2026/03/05/5tXt/camino-frances-journey-day22-cat.jpg)
+
+![camino-frances-journey-day22-cathedral2.jpg](https://files.seeusercontent.com/2026/03/05/Viu5/camino-frances-journey-day22-cat.jpg)
+
+Before going to the cathedral, I checked the **mass schedule** and decided to attend. Although I’m not religious and couldn’t understand most of what was being said, the atmosphere during the mass felt very calm and peaceful.
+
+Afterward, I walked to the albergue. The stay was **only 10 euros**, it was a **twin room with a private bathroom**. I shared the room with Anna from Romania, whom I met there.
+
+Later, I searched for a place to try **Cocido Maragato**, a traditional local dish from Astorga that I really wanted to experience. Unfortunately, it was **Sunday**, and many restaurants closed early. Luckily, I managed to find a restaurant that still served it.
+
+![camino-frances-journey-day22-cocido-maragato1.jpg](https://files.seeusercontent.com/2026/03/05/c6Hi/camino-frances-journey-day22-coc.jpg)
+
+![camino-frances-journey-day22-cocido-maragato2.jpg](https://files.seeusercontent.com/2026/03/05/9Yqu/camino-frances-journey-day22-coc.jpg)
+
+![camino-frances-journey-day22-cocido-maragato3.jpg](https://files.seeusercontent.com/2026/03/05/gRk0/camino-frances-journey-day22-coc.jpg)
+
+The dish was incredibly filling. It might not have been the most famous place in Astorga for Cocido Maragato, but I was still happy to try this local specialty.
+
+In the evening, the albergue organized a **sharing session and a mass**. During the sharing, one pilgrim spoke about why he was walking the Camino. He said he came because his wife was very sick and he was searching for hope.
+
+It was a very touching moment. Listening to stories like this reminds me that every pilgrim carries their own reason for walking the Camino, and every journey has its own meaning.
+
+![camino-frances-journey-day22-bites.JPG](https://files.seeusercontent.com/2026/03/05/8jvV/camino-frances-journey-day22-bit.jpg)
+
+By the end of the day, I also noticed that the bites on my hands had become quite swollen and itchy. I wasn’t sure what had bitten me, but they were definitely uncomfortable. Hopefully they would settle down in the next few days.
+
+🛏️ Stayed at **Albergue Franciscano** — full accommodation details [here](/posts/camino-frances-albergue/#day-22).
+
+---
