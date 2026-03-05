@@ -885,3 +885,79 @@ That evening I also needed to do some laundry. Since the hotel didn’t provide 
 🛏️ Stayed at **Hotel Camino Real** — full accommodation details [here](/posts/camino-frances-albergue/#day-19).
 
 ---
+
+<a id="day-20"></a>
+
+### Day 20 — Arcahueja → Oncina (19.1 km)
+
+I started walking in the dark again, heading toward **León**. The walk into the city wasn’t particularly pleasant as much of the route followed the side of the road.
+
+Along the way, I began seeing the metal Camino shells embedded in the pavement, which meant I was getting closer to León.
+
+![camino-frances-journey-day20-shell.jpg](https://files.seeusercontent.com/2026/03/05/fA2c/camino-frances-journey-day20-she.jpg)
+
+When I arrived at **León Cathedral**, it was only around **8:30 a.m.**, so the square was still quiet and almost empty.
+
+![camino-frances-journey-day20-cathedral1.jpg](https://files.seeusercontent.com/2026/03/05/tm4F/camino-frances-journey-day20-cat.jpg)
+
+![camino-frances-journey-day20-cathedral2.jpg](https://files.seeusercontent.com/2026/03/05/Bzd5/camino-frances-journey-day20-cat.jpg)
+
+This gave me a rare moment to appreciate the cathedral peacefully without many people around. The building is absolutely stunning, and seeing it in the calm of the morning made the experience even more special.
+
+Afterward, I went to a nearby café for breakfast and had toast with jamón and a café con leche.
+
+![camino-frances-journey-day20-breakfast1.jpg](https://files.seeusercontent.com/2026/03/05/nId7/camino-frances-journey-day20-bre.jpg)
+
+Because my blister had been getting worse and León is a large city, I decided to walk around to look for a pharmacy to find a proper ankle brace. Eventually I found one and spoke with the pharmacist in Spanish. She was very patient and kind, and recommended an ankle brace that could support my ankle and reduce the pressure from the blister.
+
+![camino-frances-journey-day20-ankle-brace.JPG](https://files.seeusercontent.com/2026/03/05/6lyC/camino-frances-journey-day20-ank.jpg)
+
+It actually helped a lot for the next few days. Unfortunately, I later lost it during laundry and couldn’t find it again — but while I had it, it definitely made walking easier.
+
+When I returned to the cathedral area, I unexpectedly ran into Freeman, the Chinese pilgrim I had met earlier in the Camino. He treated me to another small breakfast at a café just opposite the cathedral.
+
+![camino-frances-journey-day20-breakfast2.jpg](https://files.seeusercontent.com/2026/03/05/e8Qp/camino-frances-journey-day20-bre.jpg)
+
+We sat and chatted for a while before continuing our journeys.
+
+Before leaving the city centre, I also met a Korean couple whom I had encountered several times along the Camino. We took a selfie together in front of the cathedral.
+
+Since I prefer quieter places, I decided not to stay in León overnight and continued walking toward my destination.
+
+After walking for a while, I stopped for lunch before continuing.
+
+![camino-frances-journey-day20-lunch1.jpg](https://files.seeusercontent.com/2026/03/05/jX8c/camino-frances-journey-day20-lun.jpg)
+
+![camino-frances-journey-day20-lunch2.jpg](https://files.seeusercontent.com/2026/03/05/3Qov/camino-frances-journey-day20-lun.jpg)
+
+![camino-frances-journey-day20-lunch3.jpg](https://files.seeusercontent.com/2026/03/05/7kOv/camino-frances-journey-day20-lun.jpg)
+
+Today’s albergue required a small **detour from the main Camino route**, which made it very quiet and peaceful.
+
+The albergue had a beautiful **garden with a hammock**. I tried getting onto the hammock but failed the first time — it was my first time using one! Luckily, two other pilgrims helped me, and eventually I managed to lie down and relax.
+
+![camino-frances-journey-day20-hammock.jpg](https://files.seeusercontent.com/2026/03/05/a0Ko/camino-frances-journey-day20-ham.jpg)
+
+There was also a **cat and a dog** in the garden, and they were incredibly cute. At one point they were even sleeping together.
+
+![camino-frances-journey-day20-cat-and-dog.jpg](https://files.seeusercontent.com/2026/03/05/Jb2c/camino-frances-journey-day20-cat.jpg)
+
+The host offered dinner at the albergue, and it turned out to be **one of the best meals of the entire Camino** — a very delicious home-cooked dinner.
+
+![camino-frances-journey-day20-dinner1.jpg](https://files.seeusercontent.com/2026/03/05/gEc6/camino-frances-journey-day20-din.jpg)
+
+![camino-frances-journey-day20-dinner2.jpg](https://files.seeusercontent.com/2026/03/05/3Apf/camino-frances-journey-day20-din.jpg)
+
+After dinner, I chatted with the host for a while. She was very kind and encouraged me to keep practising Spanish during my Camino.
+
+I really loved this albergue. It was **clean, peaceful, and surrounded by a beautiful garden**, and the host was incredibly warm and welcoming.
+
+![camino-frances-journey-day20-garden.jpg](https://files.seeusercontent.com/2026/03/05/2Lmp/camino-frances-journey-day20-gar.jpg)
+
+![camino-frances-journey-day20-garden2.jpg](https://files.seeusercontent.com/2026/03/05/Q0yr/camino-frances-journey-day20-gar.jpg)
+
+It might even be **one of the best albergues of my entire journey**.
+
+🛏️ Stayed at **Albergue El Pajar de Oncina** — full accommodation details [here](/posts/camino-frances-albergue/#day-20).
+
+---
