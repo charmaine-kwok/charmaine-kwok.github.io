@@ -961,3 +961,69 @@ It might even be **one of the best albergues of my entire journey**.
 🛏️ Stayed at **Albergue El Pajar de Oncina** — full accommodation details [here](/posts/camino-frances-albergue/#day-20).
 
 ---
+
+<a id="day-21"></a>
+
+### Day 21 — Oncina → Hospital de Órbigo (25.0 km)
+
+I started walking again before 7 a.m., still in the dark. When I looked up, I could see stars scattered across the sky, something I don’t often notice in cities.
+
+![camino-frances-journey-day21-star1.jpg](https://files.seeusercontent.com/2026/03/05/G9id/camino-frances-journey-day20-sta.jpg)
+
+![camino-frances-journey-day21-star2.jpg](https://files.seeusercontent.com/2026/03/05/Axe3/camino-frances-journey-day20-sta.jpg)
+
+After walking for nearly an hour in the dark with my headlamp, the sky slowly began to brighten and the sun started to rise.
+
+![camino-frances-journey-day21-sunrise1.jpg](https://files.seeusercontent.com/2026/03/05/ux0H/camino-frances-journey-day20-sun.jpg)
+
+![camino-frances-journey-day21-sunrise2.jpg](https://files.seeusercontent.com/2026/03/05/3Yvh/camino-frances-journey-day20-sun.jpg)
+
+Once the morning light arrived, I stopped for breakfast and had a café con leche and a tortilla.
+
+![camino-frances-journey-day21-breakfast1.jpg](https://files.seeusercontent.com/2026/03/05/1mCp/camino-frances-journey-day20-bre.jpg)
+
+After breakfast, I continued walking. Much of today’s route followed the road, making the stage quite flat and relatively easy.
+
+![camino-frances-journey-day21-view1.jpg](https://files.seeusercontent.com/2026/03/05/2Hra/camino-frances-journey-day21-vie.jpg)
+
+Later on, I stopped again for another short breakfast break — this time toast, orange juice, and a café — before continuing the walk.
+
+![camino-frances-journey-day21-breakfast2.jpg](https://files.seeusercontent.com/2026/03/05/xJj1/camino-frances-journey-day20-bre.jpg)
+
+The path continued mostly along the road.
+
+![camino-frances-journey-day21-view2.jpg](https://files.seeusercontent.com/2026/03/05/aX3g/camino-frances-journey-day21-vie.jpg)
+
+![camino-frances-journey-day21-view3.jpg](https://files.seeusercontent.com/2026/03/05/glW1/camino-frances-journey-day21-vie.jpg)
+
+![camino-frances-journey-day21-view5.jpg](https://files.seeusercontent.com/2026/03/05/t7Dz/camino-frances-journey-day21-vie.jpg)
+
+![camino-frances-journey-day21-view6.jpg](https://files.seeusercontent.com/2026/03/05/byW7/camino-frances-journey-day21-vie.jpg)
+
+Before reaching the next town, I stopped for lunch.
+
+![camino-frances-journey-day21-lunch.jpg](https://files.seeusercontent.com/2026/03/05/Q2ll/camino-frances-journey-day21-lun.jpg)
+
+After lunch, the sun became very strong, and the temperature rose quickly. The final stretch required walking directly under the sun and heat before finally arriving at the albergue.
+
+![camino-frances-journey-day21-view4.jpg](https://files.seeusercontent.com/2026/03/05/Bep5/camino-frances-journey-day21-vie.jpg)
+
+![camino-frances-journey-day21-view7.jpg](https://files.seeusercontent.com/2026/03/05/3yzX/camino-frances-journey-day21-vie.jpg)
+
+That evening, I decided not to join the albergue dinner and instead walked to a nearby restaurant called **La Encomienda**. I had heard they served a famous **sopa de trucha**, so I decided to try it.
+
+![camino-frances-journey-day21-dinner-restaurant.jpg](https://files.seeusercontent.com/2026/03/05/leJ6/camino-frances-journey-day21-din.jpg)
+
+The restaurant had a very beautiful interior, with warm and traditional decoration.
+
+For dinner, I ordered the **sopa de trucha** and a **cheesecake**.
+
+![camino-frances-journey-day21-dinner1.jpg](https://files.seeusercontent.com/2026/03/05/Rdx0/camino-frances-journey-day21-din.jpg)
+
+![camino-frances-journey-day21-dinner2.jpg](https://files.seeusercontent.com/2026/03/05/n9Xk/camino-frances-journey-day21-din.jpg)
+
+The soup was delicious and very filling — a perfect meal after a long day of walking.
+
+🛏️ Stayed at **Albergue Hidalgos** — full accommodation details [here](/posts/camino-frances-albergue/#day-21).
+
+---
