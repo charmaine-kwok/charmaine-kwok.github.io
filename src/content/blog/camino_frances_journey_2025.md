@@ -1083,3 +1083,69 @@ By the end of the day, I also noticed that the bites on my hands had become quit
 🛏️ Stayed at **Albergue Franciscano** — full accommodation details [here](/posts/camino-frances-albergue/#day-22).
 
 ---
+
+<a id="day-23"></a>
+
+### Day 23 — Astorga → Rabanal del Camino (20.2 km)
+
+Today was noticeably cooler as I started walking out of Astorga. After walking for a while, I finally saw a bar and happily went inside for a warm breakfast.
+
+I ordered a café con leche and a tortilla.
+
+![camino-frances-journey-day23-breakfast.jpg](https://files.seeusercontent.com/2026/04/11/2hfB/camino-frances-journey-day23-bre.jpg)
+
+Because it was still quite cold outside, the warm tortilla tasted especially good. It was actually one of the **best tortillas I had on the Camino** — the center was slightly melted and soft, which I prefer much more than the firmer, overcooked ones.
+
+After breakfast, the sun slowly came out and the weather started warming up.
+
+![camino-frances-journey-day23-view1.jpg](https://files.seeusercontent.com/2026/04/11/7rOh/camino-frances-journey-day23-vie.jpg)
+
+Later on, I stopped at a café where I had **planned to try their carrot cake**. I had actually looked it up beforehand and wanted to make sure I didn’t miss it. I ordered a slice together with another café con leche.
+
+![camino-frances-journey-day23-carrot-cake.jpg](https://files.seeusercontent.com/2026/04/11/y1Ft/camino-frances-journey-day23-car.jpg)
+
+While sitting there, I noticed that the bites on my hand had become even more swollen and itchy.
+
+![camino-frances-journey-day23-bites.jpg](https://files.seeusercontent.com/2026/04/11/Ry4q/camino-frances-journey-day23-bit.jpg)
+
+Some fellow pilgrims saw my hand and kindly offered me some medication to help with the itching. One of them even suggested drawing a circle around the bites with a pen to check if the swelling spread over time. Moments like this really show how supportive people on the Camino can be.
+
+After the break, I continued walking.
+
+![camino-frances-journey-day23-view2.jpg](https://files.seeusercontent.com/2026/04/11/5Bzk/camino-frances-journey-day23-vie.jpg)
+
+Along the way, I ran into a Malaysian girl whom I had met earlier in the journey. We walked together for a while and chatted before arriving near the town where I would stay. She continued walking to her own albergue while I stopped at mine.
+
+My accommodation today was a **donativo albergue**, run by hosts from the **UK and Ireland**. When I arrived, it was still closed and would only open at **12 p.m.**, so I had to wait for a while outside.
+
+Once I checked in, I went out again to have lunch at a nearby restaurant.
+
+![camino-frances-journey-day23-lunch1.jpg](https://files.seeusercontent.com/2026/04/11/xe1D/camino-frances-journey-day23-lun.jpg)
+
+![camino-frances-journey-day23-lunch2.jpg](https://files.seeusercontent.com/2026/04/11/fzF0/camino-frances-journey-day23-lun.jpg)
+
+After lunch, I wandered around the town for a bit. It was small, quiet, and very peaceful.
+
+![camino-frances-journey-day23-town.jpg](https://files.seeusercontent.com/2026/04/11/wbG2/camino-frances-journey-day23-tow.jpg)
+
+There was no laundry service in the albergue, so normally pilgrims would hand-wash their clothes. However, after I explained my situation with the bites on my hand — and my concern that they might possibly be bedbug bites — I wanted to wash everything properly.
+
+The **hospitaleros** were incredibly kind and offered to let me use **their own washing machine and dryer** to clean my clothes. I felt very grateful because they absolutely didn’t have to do that.
+
+In the afternoon, the albergue also hosted a **tea time in the garden**, offering tea and homemade cakes.
+
+![camino-frances-journey-day23-tea.jpg](https://files.seeusercontent.com/2026/04/11/xuL1/camino-frances-journey-day23-tea.jpg)
+
+There I met two Korean girls, and we chatted for a while before I went back to rest.
+
+Later in the evening, I went out for dinner and ordered a **steak**. I ended up sitting with an American pilgrim, and we shared a nice conversation during dinner.
+
+On my way back to the albergue, I looked up and saw a **very bright, full moon** in the sky. It was the **Mid-Autumn Festival**, which made the moment feel even more special.
+
+![camino-frances-journey-day23-moon.jpg](https://files.seeusercontent.com/2026/04/11/m4Ts/camino-frances-journey-day23-moo.jpg)
+
+🛏️ Stayed at **Refugio Gaucelmo** — full accommodation details [here](/posts/camino-frances-albergue/#day-23).
+
+---
+
+---
