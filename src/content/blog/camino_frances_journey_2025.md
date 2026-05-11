@@ -1148,4 +1148,82 @@ On my way back to the albergue, I looked up and saw a **very bright, full moon**
 
 ---
 
+<a id="day-24"></a>
+
+### Day 24 — Rabanal del Camino → Molinaseca (24.7 km)
+
+I started walking in the dark again. When I looked up, I could see stars scattered across the sky above me.
+
+![camino-frances-journey-day24-stars.jpg](https://files.seeusercontent.com/2026/05/11/zCh8/camino-frances-journey-day24-sta.jpg)
+
+As I continued walking, the bright full moon was right in front of me on the path, lighting the way.
+
+![camino-frances-journey-day24-moon.jpg](https://files.seeusercontent.com/2026/05/11/8Ptv/camino-frances-journey-day24-moo.jpg)
+
+Slowly the sky began to brighten as the sun prepared to rise.
+
+![camino-frances-journey-day24-sunrise.jpg](https://files.seeusercontent.com/2026/05/11/ab3K/camino-frances-journey-day24-sun.jpg)
+
+After climbing higher into the mountains, I stopped at a café for breakfast and had a tortilla and café con leche.
+
+![camino-frances-journey-day24-breakfast.jpg](https://files.seeusercontent.com/2026/05/11/6prW/camino-frances-journey-day24-bre.jpg)
+
+After breakfast, I continued walking and soon reached one of the most symbolic points of the Camino Francés — **Cruz de Ferro**, the iron cross and the **highest point of the entire route**.
+
+![camino-frances-journey-day24-view2.jpg](https://files.seeusercontent.com/2026/05/11/f6vE/camino-frances-journey-day24-vie.jpg)
+
+Standing there felt special. Many pilgrims leave a small stone there as a symbolic gesture of letting go of something they carry with them.
+
+After this point, the **hardest part of the day began — the long descent**.
+
+The weather was very sunny, and much of the route had no shade at all, although the scenery was beautiful.
+
+![camino-frances-journey-day24-view1.jpg](https://files.seeusercontent.com/2026/05/11/1Kqu/camino-frances-journey-day24-vie.jpg)
+
+Walking downhill is sometimes even harder than climbing up. You have to constantly control your balance. Today we descended **more than 1000 meters**!
+
+After descending for a while, I finally reached a small town where I could stop for a break.
+
+![camino-frances-journey-day24-break.jpg](https://files.seeusercontent.com/2026/05/11/am4S/camino-frances-journey-day24-bre.jpg)
+
+At the café there, I met the Malaysian girl again whom I had walked with the day before. She joined me for a break. I ordered carrot cake, tortilla, and a café con leche, and we sat down to rest for a while.
+
+After the break, we continued the descent together. It was still a challenging walk, but having company made it feel much easier.
+
+Eventually we arrived at **Molinaseca**, a village that is listed among **“Los pueblos más bonitos de España”** — one of the most beautiful villages in Spain.
+
+![camino-frances-journey-day24-view3.jpg](https://files.seeusercontent.com/2026/05/11/nw1S/camino-frances-journey-day24-vie.jpg)
+
+When we arrived, it really did feel charming and picturesque.
+
+After entering the village, I said goodbye to the Malaysian girl as she needed to continue to her own albergue.
+
+Once I settled into my albergue, I went out to look for lunch. While walking through the town, I noticed there were **many cats around the streets**.
+
+![camino-frances-journey-day24-cats1.jpg](https://files.seeusercontent.com/2026/05/11/H8nt/camino-frances-journey-day24-cat.jpg)
+
+For lunch, I went to a restaurant and ordered **steak**.
+
+![camino-frances-journey-day24-lunch.jpg](https://files.seeusercontent.com/2026/05/11/X6eb/camino-frances-journey-day24-lun.jpg)
+
+After eating, I walked around the town a bit more to explore.
+
+![camino-frances-journey-day24-view4.jpg](https://files.seeusercontent.com/2026/05/11/oH6g/camino-frances-journey-day24-vie.jpg)
+
+I also managed to buy some **bug spray** to spray on my body and some **cream for my hand** to help with the bites.
+
+There were still many cats around the village, which made the town feel even more lively.
+
+![camino-frances-journey-day24-cats2.jpg](https://files.seeusercontent.com/2026/05/11/r5Yp/camino-frances-journey-day24-cat.jpg)
+
+![camino-frances-journey-day24-cats3.jpg](https://files.seeusercontent.com/2026/05/11/nrD6/camino-frances-journey-day24-cat.jpg)
+
+![camino-frances-journey-day24-cats4.jpg](https://files.seeusercontent.com/2026/05/11/3hsJ/camino-frances-journey-day24-cat.jpg)
+
+In the evening, I went to a bar in town and had **a few tapas for dinner**.
+
+![camino-frances-journey-day24-dinner.jpg](https://files.seeusercontent.com/2026/05/11/t7Xn/camino-frances-journey-day24-din.jpg)
+
+🛏️ Stayed at **Casa Rural Lua Bierzo** — full accommodation details [here](/posts/camino-frances-albergue/#day-24).
+
 ---
