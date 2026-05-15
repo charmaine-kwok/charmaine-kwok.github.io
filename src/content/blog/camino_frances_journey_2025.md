@@ -1288,4 +1288,72 @@ Eventually I reached my albergue for the day. Like a few previous stops, this on
 
 ---
 
+<a id="day-26"></a>
+
+### Day 26 — Valtuille de Arriba → Vega de Valcarce (27.2 km)
+
+Today I started a bit later than usual, at a little after 8 a.m. As I left, the sky was still quite cloudy.
+
+![camino-frances-journey-day26-view.jpg](https://files.seeusercontent.com/2026/05/15/Vf5w/camino-frances-journey-day26-vie.jpg)
+
+After walking for a while, I arrived at the town of **Villafranca del Bierzo**.
+
+![camino-frances-journey-day26-town.jpg](https://files.seeusercontent.com/2026/05/15/zBa7/camino-frances-journey-day26-tow.jpg)
+
+![camino-frances-journey-day26-town1.jpg](https://files.seeusercontent.com/2026/05/15/X6mu/camino-frances-journey-day26-tow.jpg)
+
+From here, I decided to take the **alternative Camino route — the mountain path via Pradela**. This route is more challenging, with a long uphill climb, but offers better views and a quieter experience.
+
+The path quickly turned into a mountain road, and there was no one else along the way.
+
+![camino-frances-journey-day26-uphill.jpg](https://files.seeusercontent.com/2026/05/15/Kok6/camino-frances-journey-day26-uph.jpg)
+
+Although it was a tough climb, the views were beautiful, and I could walk in complete silence and tranquility, which felt very special.
+
+![camino-frances-journey-day26-view1.jpg](https://files.seeusercontent.com/2026/05/15/gg1Z/camino-frances-journey-day26-vie.jpg)
+
+I had heard that there was nothing available up in the mountains, as the only albergue, **Albergue Lamas**, was closed due to the owner being sick.
+
+![camino-frances-journey-day26-albergue.jpg](https://files.seeusercontent.com/2026/05/15/6atL/camino-frances-journey-day26-alb.jpg)
+
+Still, I was really hoping to find at least some food or at least a coffee. While I was looking around, a woman passed by and pointed me in a direction, saying I should continue that way along the Camino.
+
+I asked her if there was a café there, and it turned out she was the owner herself. She kindly opened it for me so I could go in and rest.
+
+I ordered a café con leche and took a much-needed break after the long uphill climb.
+
+![camino-frances-journey-day26-cafe.jpg](https://files.seeusercontent.com/2026/05/15/pNi7/camino-frances-journey-day26-caf.jpg)
+
+That moment felt incredibly special — one of those unexpected acts of kindness on the Camino.
+
+After the break, I continued the route, now heading **downhill toward Trabadelo**. By this time it was already noon, and the sun was strong, making the descent hot and exposed. The path was still very quiet, with no other pilgrims around.
+
+![camino-frances-journey-day26-downhill.jpg](https://files.seeusercontent.com/2026/05/15/Yp6y/camino-frances-journey-day26-dow.jpg)
+
+When I arrived in **Trabadelo**, I stopped for lunch.
+
+![camino-frances-journey-day26-lunch.jpg](https://files.seeusercontent.com/2026/05/15/0Obw/camino-frances-journey-day26-lun.jpg)
+
+![camino-frances-journey-day26-lunch1.jpg](https://files.seeusercontent.com/2026/05/15/0lGa/camino-frances-journey-day26-lun.jpg)
+
+![camino-frances-journey-day26-lunch2.jpg](https://files.seeusercontent.com/2026/05/15/w6Yd/camino-frances-journey-day26-lun.jpg)
+
+After lunch, I continued walking. Along the way, I stopped at an albergue for another short break and had cake and a café con leche.
+
+![camino-frances-journey-day26-cake.jpg](https://files.seeusercontent.com/2026/05/15/Ntk9/camino-frances-journey-day26-cak.jpg)
+
+Then I continued on toward **Vega de Valcarce**, my destination for the day.
+
+Today I had a private room, which allowed me to finally have some proper rest.
+
+In the evening, I had originally found a nice restaurant I wanted to try, but I forgot to check the closing time and arrived too late — it was already closed. Since it’s a small town, there were very limited options, and only one bar was still open serving food.
+
+So I went there and had a simple dinner — **tortilla and some tapas**.
+
+![camino-frances-journey-day26-dinner.jpg](https://files.seeusercontent.com/2026/05/15/qdX5/camino-frances-journey-day26-din.jpg)
+
+Even though it wasn’t the proper dinner I had hoped for, there was still a nice moment. I ordered in Spanish, and the owner **complimented my Spanish again**, saying I had a good accent. That small encouragement really cheered me up.
+
+🛏️ Stayed at **Albergue-Pensión Fernández** — full accommodation details [here](/posts/camino-frances-albergue/#day-26).
+
 ---
