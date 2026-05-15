@@ -1227,3 +1227,65 @@ In the evening, I went to a bar in town and had **a few tapas for dinner**.
 🛏️ Stayed at **Casa Rural Lua Bierzo** — full accommodation details [here](/posts/camino-frances-albergue/#day-24).
 
 ---
+
+<a id="day-25"></a>
+
+### Day 25 — Molinaseca → Valtuille de Arriba (26.1 km)
+
+I started walking at around 7 a.m., while it was still dark.
+
+![camino-frances-journey-day25-dark.jpg](https://files.seeusercontent.com/2026/05/15/L5pm/camino-frances-journey-day25-dar.jpg)
+
+As I left the town, I saw a sign that read **“Molinaseca — uno de los pueblos más bonitos de España.”**
+
+![camino-frances-journey-day25-molinaseca.jpg](https://files.seeusercontent.com/2026/05/15/6igB/camino-frances-journey-day25-mol.jpg)
+
+It was a nice reminder that I had just stayed in one of the most beautiful villages in Spain.
+
+I continued walking in the darkness for a while.
+
+![camino-frances-journey-day25-dark1.jpg](https://files.seeusercontent.com/2026/05/15/fgN4/camino-frances-journey-day25-dar.jpg)
+
+Soon I arrived in the city of **Ponferrada**, which felt like the **last big city before Santiago** along my route. I had looked up a churrería beforehand because I really wanted to try churros on the Camino, so I stopped at **Churrería Alba** for breakfast.
+
+For breakfast I had **two churros with hot chocolate, a big latte, and a tostada with jamón and avocado**. Everything was very delicious and gave me plenty of energy for the morning walk.
+
+![camino-frances-journey-day25-breakfast1.jpg](https://files.seeusercontent.com/2026/05/15/3wwI/camino-frances-journey-day25-bre.jpg)
+
+![camino-frances-journey-day25-breakfast2.jpg](https://files.seeusercontent.com/2026/05/15/stX9/camino-frances-journey-day25-bre.jpg)
+
+While walking through the city, I noticed a different Camino sign embedded in the floor, which caught my attention.
+
+![camino-frances-journey-day25-sign.jpg](https://files.seeusercontent.com/2026/05/15/a3Vj/camino-frances-journey-day25-sig.jpg)
+
+When leaving the city, I walked up to a small viewpoint overlooking Ponferrada.
+
+![camino-frances-journey-day25-view.jpg](https://files.seeusercontent.com/2026/05/15/0lLt/camino-frances-journey-day25-vie.jpg)
+
+After that, I continued my journey. Along the way, I saw a few cats wandering around the village streets.
+
+![camino-frances-journey-day25-cats.jpg](https://files.seeusercontent.com/2026/05/15/4Ryd/camino-frances-journey-day25-cat.jpg)
+
+After some time, I stopped again for lunch. I had a café con leche and a tostada with avocado and salmon.
+
+![camino-frances-journey-day25-lunch.jpg](https://files.seeusercontent.com/2026/05/15/Nmu8/camino-frances-journey-day25-lun.jpg)
+
+![camino-frances-journey-day25-lunch1.jpg](https://files.seeusercontent.com/2026/05/15/K2hy/camino-frances-journey-day25-lun.jpg)
+
+After lunch, the sun became stronger and the temperature started rising, so I had to continue walking under the sun with very little shade.
+
+![camino-frances-journey-day25-view1.jpg](https://files.seeusercontent.com/2026/05/15/2mIf/camino-frances-journey-day25-vie.jpg)
+
+![camino-frances-journey-day25-view2.jpg](https://files.seeusercontent.com/2026/05/15/7Siy/camino-frances-journey-day25-vie.jpg)
+
+![camino-frances-journey-day25-view3.jpg](https://files.seeusercontent.com/2026/05/15/h1Qx/camino-frances-journey-day25-vie.jpg)
+
+Even though it was hot, the scenery along the way was quite pleasant, with the open countryside.
+
+Eventually I reached my albergue for the day. Like a few previous stops, this one required **a small detour from the main Camino route**, which meant it was very quiet. In fact, there were **only three pilgrims staying there that night**, which made the place feel peaceful and relaxed.
+
+🛏️ Stayed at **Acogida La Biznaga** — full accommodation details [here](/posts/camino-frances-albergue/#day-25).
+
+---
+
+---
