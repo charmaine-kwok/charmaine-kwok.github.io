@@ -1357,3 +1357,117 @@ Even though it wasn’t the proper dinner I had hoped for, there was still a nic
 🛏️ Stayed at **Albergue-Pensión Fernández** — full accommodation details [here](/posts/camino-frances-albergue/#day-26).
 
 ---
+
+<a id="day-27"></a>
+
+### Day 27 — Vega de Valcarce → Triacastela (28.0 km)
+
+Today was a day I had been looking forward to — a fun but challenging climb up to O Cebreiro.
+
+I started walking at around 7:30 a.m., while it was still dark, and I could see stars in the sky above me.
+
+![camino-frances-journey-day27-stars.jpg](https://files.seeusercontent.com/2026/05/16/y9Ai/camino-frances-journey-day27-sta.jpg)
+
+After climbing for a while, almost halfway up to O Cebreiro, I stopped at a café for breakfast.
+
+![camino-frances-journey-day26-breakfast.jpg](https://files.seeusercontent.com/2026/05/16/g3jP/camino-frances-journey-day26-bre.jpg)
+
+![camino-frances-journey-day26-breakfast1.jpg](https://files.seeusercontent.com/2026/05/16/rsO5/camino-frances-journey-day26-bre.jpg)
+
+Since I had already climbed quite a bit and was feeling hungry, I ordered **two toasts, a tortilla, and a café con leche** — a proper, filling breakfast before continuing the ascent.
+
+After the break, I continued uphill. The weather today was very nice with clear blue skies, and the views along the climb were absolutely stunning.
+
+![camino-frances-journey-day27-view.jpg](https://files.seeusercontent.com/2026/05/16/r9Wv/camino-frances-journey-day27-vie.jpg)
+
+![camino-frances-journey-day27-view1.jpg](https://files.seeusercontent.com/2026/05/16/iV4w/camino-frances-journey-day27-vie.jpg)
+
+![camino-frances-journey-day27-view2.jpg](https://files.seeusercontent.com/2026/05/16/3uJd/camino-frances-journey-day27-vie.jpg)
+
+Soon, I reached the point where I was **crossing into Galicia**, marked by a stone monument.
+
+![camino-frances-journey-day27-galicia.jpg](https://files.seeusercontent.com/2026/05/16/f6yO/camino-frances-journey-day27-gal.jpg)
+
+From here, I also started noticing a **different style of Camino markers**, unique to Galicia.
+
+![camino-frances-journey-day27-galicia1.jpg](https://files.seeusercontent.com/2026/05/16/Ef9o/camino-frances-journey-day27-gal.jpg)
+
+After this beautiful climb, I finally reached **O Cebreiro**.
+
+At the top, I visited a souvenir shop and bought a small keychain. While paying, the owner asked where I was from, and when I told her, she kindly gifted me a **pin with both the Camino flag and the Hong Kong flag together**.
+
+![camino-frances-journey-day27-pin.jpg](https://files.seeusercontent.com/2026/05/16/q8wC/camino-frances-journey-day27-pin.jpg)
+
+It was such a heartwarming moment.
+
+After that, I visited the **church in O Cebreiro** before continuing my journey downhill.
+
+On the way down, I could see incredible mountain views stretching far into the distance.
+
+![camino-frances-journey-day27-view3.jpg](https://files.seeusercontent.com/2026/05/16/bp9R/camino-frances-journey-day27-vie.jpg)
+
+After a while, I reached the well-known **pilgrim statue at Alto de San Roque**.
+
+![camino-frances-journey-day27-statue.jpg](https://files.seeusercontent.com/2026/05/16/1kJv/camino-frances-journey-day27-sta.jpg)
+
+The scenery continued to be beautiful as I walked along the mountains.
+
+![camino-frances-journey-day27-view4.jpg](https://files.seeusercontent.com/2026/05/16/1Rib/camino-frances-journey-day27-vie.jpg)
+
+Later, I stopped at a café for a break and ordered **orange juice and a café con leche** to cool down in the heat.
+
+![camino-frances-journey-day27-drinks.jpg](https://files.seeusercontent.com/2026/05/16/zx3G/camino-frances-journey-day27-dri.jpg)
+
+However, this stop wasn’t very pleasant. While I was still inside drinking, the owner suddenly announced the café was closed and asked everyone to leave. When I came out of the toilet, the place was already completely dark, and I had to find my way out and locate my trekking poles, which I had left at another exit.
+
+After that, I continued my journey.
+
+![camino-frances-journey-day27-view5.jpg](https://files.seeusercontent.com/2026/05/16/P5ky/camino-frances-journey-day27-vie.jpg)
+
+Along the way, I saw a few **cats wandering around**.
+
+![camino-frances-journey-day27-cats.jpg](https://files.seeusercontent.com/2026/05/16/5Xaa/camino-frances-journey-day27-cat.jpg)
+
+After reaching **Alto do Poio**, I chose to take the **alternative route through the forest**. I usually prefer alternative paths because they are quieter and have fewer people — and this one was exactly that.
+
+![camino-frances-journey-day27-forest1.jpg](https://files.seeusercontent.com/2026/05/16/Qk7p/camino-frances-journey-day27-for.jpg)
+
+I didn’t see anyone along the way, and walking through the forest in silence felt very peaceful.
+
+After some time, I finally arrived at today’s albergue.
+
+Today I stayed in a **private room with a private bathroom**, which meant I could have a really good rest. Although sometimes having a private room means I end up using my phone more at night and sleeping later than usual.
+
+After checking in, I went to the restaurant and had some food. The area is known for its **local cheese**, so I tried **cheese with honey**, which was very unique and delicious.
+
+![camino-frances-journey-day27-food.jpg](https://files.seeusercontent.com/2026/05/16/sX6v/camino-frances-journey-day27-foo.jpg)
+
+![camino-frances-journey-day27-cheese-with-honey.jpg](https://files.seeusercontent.com/2026/05/16/k4Cc/camino-frances-journey-day27-hon.jpg)
+
+![camino-frances-journey-day27-cafe.jpg](https://files.seeusercontent.com/2026/05/16/0zrF/camino-frances-journey-day27-caf.jpg)
+
+Back in my room, I could even see **chickens outside from my window**, which added to the countryside atmosphere.
+
+Then came my least favourite part of the day — **doing laundry**. In the laundry area, I met a **Northern Irish lady**, and she finally taught me how to properly use the hand-washing setup, which was actually very helpful.
+
+After resting for a while, I went down for dinner. It was supposed to start at 7 p.m., but I arrived slightly late and found the dining hall already quite full.
+
+![camino-frances-journey-day27-dinning-hall.jpg](https://files.seeusercontent.com/2026/05/16/2gHa/camino-frances-journey-day27-din.jpg)
+
+It was a large dining hall, and I ended up sitting with a **group of French-speaking pilgrims**. One of them was learning Spanish, so we chatted a bit in Spanish during dinner.
+
+![camino-frances-day27-dinner1.jpg](https://s2.loli.net/2025/12/17/tAFczI5k3obdWJQ.jpg)
+
+![camino-frances-day27-dinner2.jpg](https://s2.loli.net/2025/12/17/JWgIilF4PYAXs3a.jpg)
+
+The meal was great — a big bowl of **soup**, followed by **rice with beef to share**, which was very filling. After the rather simple dinner the day before, this felt like a proper and satisfying meal.
+
+![camino-frances-day27-dinner3.jpg](https://s2.loli.net/2025/12/17/9W5J4n2CMGuDyX8.jpg)
+
+For dessert, we had a **Tarta de Santiago**.
+
+After dinner, I went to collect my laundry, but it was still not fully dry. Luckily, since I had a private room with **heating**, I hung my clothes near the heater, and they dried quickly.
+
+🛏️ Stayed at **Casa Rural Núñez** — full accommodation details [here](/posts/camino-frances-albergue/#day-27).
+
+---
