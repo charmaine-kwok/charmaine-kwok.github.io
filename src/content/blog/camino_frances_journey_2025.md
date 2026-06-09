@@ -1613,3 +1613,63 @@ Looking back on the day, what stood out most wasn’t the scenery or the distanc
 🛏️ Stayed at **Casa Barbadelo** — full accommodation details [here](/posts/camino-frances-albergue/#day-29).
 
 ---
+
+### Day 30 — Vilei (Barbadelo) → A Pena (Paradela) (10.0 km)
+
+By this point of the Camino, I was starting to feel the accumulated fatigue from all the walking. Because of that, I decided that today would be a **short stage of only around 10 km**.
+
+Since the distance was short, I could afford a more relaxed morning and didn't start walking until around **8:30 a.m.**
+
+Before leaving, I had breakfast at the accommodation.
+
+![camino-frances-day30-breakfast.jpg](https://files.seeusercontent.com/2026/06/09/ql4N/camino-frances-day30-breakfast.jpg)
+
+During breakfast, I saw **Karen and Fred** again and had a chance to say a proper goodbye. We had crossed paths many times over the past week, and it felt strange knowing that we might not meet again before Santiago.
+
+As we were now within the **final 115 km of the Camino**, the route had become noticeably busier. Throughout the morning, there were **hundreds of pilgrims** walking in both directions of my field of view. The quiet Camino I had experienced earlier in the journey felt very different now.
+
+Along the way, I came across a stone with my name written on it.
+
+![camino-frances-day30-rock.jpg](https://files.seeusercontent.com/2026/06/09/Ijg1/camino-frances-day30-rock.jpg)
+
+Of course it wasn't actually for me, but it still made me smile.
+
+As usual, I also spotted a few cats during the walk.
+
+![camino-frances-day30-cats1.jpg](https://files.seeusercontent.com/2026/06/09/t2sO/camino-frances-day30-cats1.jpg)
+
+![camino-frances-day30-cats2.jpg](https://files.seeusercontent.com/2026/06/09/lj0Y/camino-frances-day30-cats2.jpg)
+
+![camino-frances-day30-cats3.jpg](https://files.seeusercontent.com/2026/06/09/9Ovg/camino-frances-day30-cats3.jpg)
+
+Later, I stopped for a short break and ordered a **carrot juice and some peppers** while resting my legs.
+
+![camino-frances-day30-carrot-juice.jpg](https://files.seeusercontent.com/2026/06/09/vI5m/camino-frances-day30-carrot-juic.jpg)
+
+![camino-frances-day30-pepper.jpg](https://files.seeusercontent.com/2026/06/09/vPo8/camino-frances-day30-pepper.jpg)
+
+Then came one of the milestones I had been looking forward to:
+
+**The 100 km Marker**
+
+![camino-frances-day30-100km-marker.jpg](https://files.seeusercontent.com/2026/06/09/D9sk/camino-frances-day30-100km-marke.jpg)
+
+Only **100 km left to Santiago de Compostela**!
+
+Seeing that marker felt surprisingly emotional. When I started in Saint-Jean-Pied-de-Port, Santiago had felt impossibly far away. Now it was close enough to count down in double digits.
+
+My accommodation for the night was located directly opposite the famous marker.
+
+![camino-frances-day30-hostel.jpg](https://files.seeusercontent.com/2026/06/09/Vzl7/camino-frances-day30-hostel.jpg)
+
+It felt fitting to stay there and celebrate reaching such an important milestone.
+
+The rest of the day was relaxed. With only a short distance to walk, I had plenty of time to rest and enjoy the slower pace before the final stretch toward Santiago.
+
+Because today was such a short stage, I arrived at the hostel quite early and ended up being the first pilgrim to arrive. The weather was sunny and the afternoon sun was strong, which turned out to be perfect for laundry. I took the opportunity to wash my clothes and hang them outside, and for once everything dried properly without any problems. After so many days of worrying about whether my clothes would dry in time, it felt like a small Camino victory.
+
+![camino-frances-day30-laundry.jpg](https://files.seeusercontent.com/2026/06/09/3eRj/camino-frances-day30-laundry.jpg)
+
+🛏️ Stayed at **Albergue Km 100 Casa do Rego** — full accommodation details [here](/posts/camino-frances-albergue/#day-30).
+
+---
