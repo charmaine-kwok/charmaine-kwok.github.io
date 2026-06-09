@@ -1673,3 +1673,69 @@ Because today was such a short stage, I arrived at the hostel quite early and en
 🛏️ Stayed at **Albergue Km 100 Casa do Rego** — full accommodation details [here](/posts/camino-frances-albergue/#day-30).
 
 ---
+
+### Day 31 — A Pena (Paradela) → Airexe (25.3 km)
+
+Since today would be a longer stage, I started walking earlier at around **7 a.m.**. The sky was still dark, and I could see the stars above me.
+
+![camino-frances-day31-stars.jpg](https://files.seeusercontent.com/2026/06/09/xNp9/camino-frances-day31-stars.jpg)
+
+The morning was quite foggy.
+
+![camino-frances-day31-foggy1.jpg](https://files.seeusercontent.com/2026/06/09/r9sZ/camino-frances-day31-foggy1.jpg)
+
+![camino-frances-day31-foggy2.jpg](https://files.seeusercontent.com/2026/06/09/9bHp/camino-frances-day31-foggy2.jpg)
+
+After walking for a while, I arrived in **Portomarín**.
+
+![camino-frances-day31-Portomarín.jpg](https://files.seeusercontent.com/2026/06/09/cJm3/camino-frances-day31-Portomarn.jpg)
+
+I stopped at a café to take a break before continuing.
+
+![camino-frances-day31-break.jpg](https://files.seeusercontent.com/2026/06/09/Pc7h/camino-frances-day31-break.jpg)
+
+After leaving Portomarín, the fog gradually disappeared and the sky turned into a beautiful clear blue.
+
+![camino-frances-day31-view1.jpg](https://files.seeusercontent.com/2026/06/09/mpN4/camino-frances-day31-view1.jpg)
+
+![camino-frances-day31-view2.jpg](https://files.seeusercontent.com/2026/06/09/0mlQ/camino-frances-day31-view2.jpg)
+
+![camino-frances-day31-view3.jpg](https://files.seeusercontent.com/2026/06/09/Rvm1/camino-frances-day31-view3.jpg)
+
+The weather became perfect for walking, and I continued on through the Galician countryside.
+
+Along the way, I stopped for lunch.
+
+![camino-frances-day31-lunch1.jpg](https://files.seeusercontent.com/2026/06/09/j5Zs/camino-frances-day31-lunch1.jpg)
+
+![camino-frances-day31-lunch2.jpg](https://files.seeusercontent.com/2026/06/09/5Fmb/camino-frances-day31-lunch2.jpg)
+
+![camino-frances-day31-lunch3.jpg](https://files.seeusercontent.com/2026/06/09/1cYx/camino-frances-day31-lunch3.jpg)
+
+I also saw a few cats throughout the day, which always made me smile.
+
+![camino-frances-day31-cat1.jpg](https://files.seeusercontent.com/2026/06/09/c3Yo/camino-frances-day31-cat1.jpg)
+
+After several more hours of walking, I finally arrived at the hostel.
+
+Unfortunately, this was not one of my favourite hostel experiences. While I was in the shower, another pilgrim repeatedly tried to open the door and then kept speaking French to me. I found the whole interaction quite rude and uncomfortable.
+
+Later, I went to a nearby restaurant for dinner.
+
+![camino-frances-day31-dinner1.jpg](https://files.seeusercontent.com/2026/06/09/dy5H/camino-frances-day31-dinner1.jpg)
+
+![camino-frances-day31-dinner2.jpg](https://files.seeusercontent.com/2026/06/09/w7Yd/camino-frances-day31-dinner2.jpg)
+
+Unfortunately, dinner was not a particularly pleasant experience either. While serving the food, the owner made comments in Spanish about Chinese people and referred to me as “la chica china” (“the Chinese girl”). Although I don't speak Spanish fluently, I understood enough to realise what was being said. The comments made me feel uncomfortable and unwelcome.
+
+Thankfully, there was a cat wandering around the restaurant.
+
+![camino-frances-day31-cat2.jpg](https://files.seeusercontent.com/2026/06/09/Ypc7/camino-frances-day31-cat2.jpg)
+
+That small encounter helped improve my mood a little after an otherwise disappointing day.
+
+Not every day on the Camino is perfect. Most days are filled with kindness and generosity, but occasionally there are less pleasant moments too. I tried not to dwell on them and reminded myself that tomorrow would be a new day on the trail.
+
+🛏️ Stayed at **Pensión Eirexe** — full accommodation details [here](/posts/camino-frances-albergue/#day-31).
+
+---
