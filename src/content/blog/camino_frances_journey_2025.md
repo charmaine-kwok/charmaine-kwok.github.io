@@ -1471,3 +1471,79 @@ After dinner, I went to collect my laundry, but it was still not fully dry. Luck
 🛏️ Stayed at **Casa Rural Núñez** — full accommodation details [here](/posts/camino-frances-albergue/#day-27).
 
 ---
+
+<a id="day-28"></a>
+
+### Day 28 — Triacastela → Samos (19.2 km)
+
+I woke up a bit later today and decided to have breakfast at the hotel restaurant before starting the walk. Since I had really enjoyed the local cheese the night before, I ordered a very filling breakfast — **two toasts, scrambled eggs with cheese, and a café con leche**.
+
+![camino-frances-day28-breakfast.jpg](https://s2.loli.net/2025/12/17/qIKmB7tXwV5O4ki.jpg)
+
+While having breakfast at around **8 a.m.**, I met **Karen and Rich** again, together with two other pilgrims I had met before. The four of them were chatting together, so I invited myself to join the conversation.
+
+During the chat, Karen mentioned that she was writing a book about the Camino called **“The Camino Is Us”**, where she interviews owners of restaurants and albergues along the Camino. It sounded like such a meaningful project, capturing the human side of the journey.
+
+We talked for quite a while until around **9 a.m.**, when I finally returned to my room to get ready to leave. On the way back, I suddenly realised that I had forgotten to pay for breakfast, so I rushed back to the restaurant to settle the bill. Karen laughed and said she had done exactly the same thing before.
+
+Not long after starting the walk, I saw a cat along the road.
+
+![camino-frances-day28-cat.jpg](https://files.seeusercontent.com/2026/06/09/nf4O/camino-frances-day28-cat.jpg)
+
+After walking for around **1.5 hours**, I remembered Karen mentioning earlier that there was a place along the route with very good **rice pudding**. I couldn’t fully remember the name, but when I saw a café advertising homemade cheesecake outside, I decided to stop.
+
+![camino-frances-day28-cafe-sign.jpg](https://files.seeusercontent.com/2026/06/09/ii7Q/camino-frances-day28-cafe-sign.jpg)
+
+I ended up ordering **cheesecake and a soup**.
+
+![camino-frances-day28-cheesecake.jpg](https://files.seeusercontent.com/2026/06/09/Nqy0/camino-frances-day28-cheesecake.jpg)
+
+![camino-frances-day28-soup.jpg](https://files.seeusercontent.com/2026/06/09/X0qa/camino-frances-day28-soup.jpg)
+
+While eating, I saw Karen and Rich arrive at the café as well. Karen started interviewing the owner for her book project, and after chatting for a bit more, we said goodbye again and continued our separate journeys.
+
+I kept walking until around noon before stopping again for lunch.
+
+![camino-frances-day28-lunch.jpg](https://files.seeusercontent.com/2026/06/09/Ub6o/camino-frances-day28-lunch.jpg)
+
+Later in the afternoon, at around **2:30 p.m.**, I was getting quite tired. I didn’t expect to find another café along the way, but luckily there was one.
+
+There, I met **Avik**, a guy I had seen earlier at breakfast, already sitting there having tea. I decided to join him for a break.
+
+![camino-frances-day28-break.jpg](https://files.seeusercontent.com/2026/06/09/fIh4/camino-frances-day28-break.jpg)
+
+That morning, he and his friend had separated because they decided to walk to different destinations — Avik chose to go to **Samos**, while his friend skipped ahead directly to **Sarria**.
+
+Avik works in software in New York, and he told me that he had quit his job to walk the Camino. What impressed me most was how unafraid he seemed about leaving work behind. He said he believed in his own abilities and skills, which I really admired.
+
+I mentioned that I had booked a place near the **Samos Monastery** — a private single room with a shared bathroom for only **25 euros**, which felt like a very good deal. Since he hadn’t booked anywhere yet, he decided to stay there too.
+
+After the break, we continued walking together toward Samos. The scenery along this stretch was not especially dramatic, but having good company and conversation made the walk feel much easier.
+
+After a while, we finally reached **Samos**, and from afar we could already see the large monastery.
+
+![camino-frances-day28-samos.jpg](https://files.seeusercontent.com/2026/06/09/lq0Y/camino-frances-day28-samos.jpg)
+
+Originally, I wanted to attend the mass at the monastery, but after showering I felt too tired and ended up taking a nap instead.
+
+Later, while doing laundry, I met an American woman named Karen there. I noticed she had many bites on her body, and she mentioned that she had been bitten badly by **bed bugs** the previous night, so she was deep-cleaning and drying all her laundry.
+
+In the evening, I went to a nearby bar for dinner. There, I saw Karen and her husband Fred again, and they invited me to join them.
+
+We had a really nice conversation during dinner. They mentioned that many people from their hometown do the Camino, and that they even have a local Camino group.
+
+![camino-frances-day28-dinner1.jpg](https://files.seeusercontent.com/2026/06/09/Cl1n/camino-frances-day28-dinner1.jpg)
+
+![camino-frances-day28-dinner2.jpg](https://files.seeusercontent.com/2026/06/09/2Tlv/camino-frances-day28-dinner2.jpg)
+
+![camino-frances-day28-dinner3.jpg](https://files.seeusercontent.com/2026/06/09/dFh3/camino-frances-day28-dinner3.jpg)
+
+They left earlier and returned to the albergue, while later on Avik came down and joined me for dinner as well.
+
+When I went to pay for my meal, the waitress told me that Karen and Fred had already paid for it. I was genuinely surprised and very touched by their kindness, although unfortunately I didn’t get another chance to properly thank them.
+
+After chatting with Avik for a while longer, we headed back to the albergue to rest for the night.
+
+🛏️ Stayed at **Hospedería Externa del Monasterio** — full accommodation details [here](/posts/camino-frances-albergue/#day-28).
+
+---
