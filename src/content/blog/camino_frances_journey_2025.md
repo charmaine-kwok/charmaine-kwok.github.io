@@ -1547,3 +1547,69 @@ After chatting with Avik for a while longer, we headed back to the albergue to r
 🛏️ Stayed at **Hospedería Externa del Monasterio** — full accommodation details [here](/posts/camino-frances-albergue/#day-28).
 
 ---
+
+### Day 29 — Samos → Vilei (Barbadelo) (19.0 km)
+
+After waking up, I went downstairs for breakfast.
+
+![camino-frances-day29-breakfast.jpg](https://files.seeusercontent.com/2026/06/09/uQz1/camino-frances-day29-breakfast.jpg)
+
+While eating, I suddenly remembered something important — I had left my **trekking poles** in my room. After breakfast, I rushed back and called the owner. Fortunately, everything worked out, and I was able to get them back.
+
+![camino-frances-day29-poles.jpg](https://files.seeusercontent.com/2026/06/09/Mxh5/camino-frances-day29-poles.jpg)
+
+With that small crisis resolved, I finally left Samos.
+
+![camino-frances-day29-samos1.jpg](https://files.seeusercontent.com/2026/06/09/M9xx/camino-frances-day29-samos1.jpg)
+
+![camino-frances-day29-samos2.jpg](https://files.seeusercontent.com/2026/06/09/kUr3/camino-frances-day29-samos2.jpg)
+
+Along the way, I met a group of ladies whom I recognised from a few days earlier. They were from **Northern Ireland**, and after chatting for a bit, I learned they were from **Belfast**. I told them that I had studied there for two years, which immediately gave us something in common.
+
+From there, we started walking together and chatting along the way. They were all incredibly friendly and easy to talk to.
+
+As we continued, we passed a farm with several cows.
+
+![camino-frances-day29-cow1.jpg](https://files.seeusercontent.com/2026/06/09/2aYi/camino-frances-day29-cow1.jpg)
+
+![camino-frances-day29-cow2.jpg](https://files.seeusercontent.com/2026/06/09/4uwR/camino-frances-day29-cow2.jpg)
+
+The weather was beautiful — blue skies, sunshine, and pleasant temperatures.
+
+![camino-frances-day29-view1.jpg](https://files.seeusercontent.com/2026/06/09/cu5Z/camino-frances-day29-view1.jpg)
+
+By the time we reached **Sarria**, we came across a group of goats.
+
+![camino-frances-day29-goats.jpg](https://files.seeusercontent.com/2026/06/09/Cf0a/camino-frances-day29-goats.jpg)
+
+We decided to stop for lunch at an Italian restaurant in Sarria. I ordered a pizza, which turned out to be delicious.
+
+![camino-frances-day29-pizza.jpg](https://files.seeusercontent.com/2026/06/09/6Xpv/camino-frances-day29-pizza.jpg)
+
+The Northern Irish ladies were incredibly kind and even treated me to lunch.
+
+While we were eating, **Karen and Fred** happened to walk past the restaurant, giving me the opportunity to finally thank them properly for paying for my dinner the previous evening.
+
+After lunch, the ladies told me they would be staying in **Sarria** and heading home the next day. We said goodbye, and I continued my journey alone.
+
+Leaving Sarria, I could immediately feel a change. The town was much busier, as many pilgrims start their Camino here to complete the final 100 km required for the Compostela.
+
+![camino-frances-day29-sarria1.jpg](https://files.seeusercontent.com/2026/06/09/Urr5/camino-frances-day29-sarria1.jpg)
+
+![camino-frances-day29-sarria2.jpg](https://files.seeusercontent.com/2026/06/09/5Utj/camino-frances-day29-sarria2.jpg)
+
+Originally, I had planned a much longer stage for today. However, after reaching Sarria, I was already feeling quite tired. Instead of pushing on, I decided to stop at the next village after Sarria.
+
+![camino-frances-day29-view2.jpg](https://files.seeusercontent.com/2026/06/09/cC3r/camino-frances-day29-view2.jpg)
+
+![camino-frances-day29-view3.jpg](https://files.seeusercontent.com/2026/06/09/8hQa/camino-frances-day29-view3.jpg)
+
+It wasn’t a particularly long walk from Sarria, and by around **5-6 p.m.**, I arrived at the hostel.
+
+![camino-frances-day29-hostel.jpg](https://files.seeusercontent.com/2026/06/09/8srL/camino-frances-day29-hostel.jpg)
+
+Looking back on the day, what stood out most wasn’t the scenery or the distance, but the company. I spent most of the day walking and talking with the lovely group of Northern Irish ladies, and their company made the kilometres pass by effortlessly. It was one of those Camino days where the people you meet become the highlight of the journey.
+
+🛏️ Stayed at **Casa Barbadelo** — full accommodation details [here](/posts/camino-frances-albergue/#day-29).
+
+---
