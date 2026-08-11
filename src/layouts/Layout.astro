@@ -106,7 +106,34 @@ const socialImageURL = new URL(
     }
 
     <ViewTransitions />
+    <script>
+      document.addEventListener("click", event => {
+        const target = event.target;
 
+        if (!(target instanceof Element)) return;
+
+        const link = target.closest('a[href^="#"]');
+
+        if (!link) return;
+
+        const href = link.getAttribute("href");
+
+        if (!href || href === "#") return;
+
+        const destination = document.querySelector(href);
+
+        if (!destination) return;
+
+        event.preventDefault();
+
+        destination.scrollIntoView({
+          behavior: "smooth",
+          block: "start",
+        });
+
+        history.pushState(null, "", href);
+      });
+    </script>
     <script is:inline src="/toggle-theme.js"></script>
   </head>
   <body>
