@@ -107,6 +107,10 @@ const layoutProps = {
     </button>
   </main>
   <Footer />
+  <div id="lightbox" class="lightbox" aria-hidden="true">
+    <button id="lightbox-close" aria-label="Close image">×</button>
+    <img id="lightbox-image" alt="" />
+  </div>
 </Layout>
 
 <style>
@@ -241,4 +245,45 @@ const layoutProps = {
     });
   }
   backToTop();
+
+  function imageLightbox() {
+    const lightbox = document.getElementById("lightbox");
+    const lightboxImage = document.getElementById("lightbox-image");
+    const closeButton = document.getElementById("lightbox-close");
+
+    const images = document.querySelectorAll("#article img");
+
+    images.forEach(image => {
+      image.style.cursor = "zoom-in";
+
+      image.addEventListener("click", () => {
+        lightboxImage.src = image.src;
+        lightboxImage.alt = image.alt;
+
+        lightbox.classList.add("show");
+        lightbox.setAttribute("aria-hidden", "false");
+      });
+    });
+
+    function closeLightbox() {
+      lightbox.classList.remove("show");
+      lightbox.setAttribute("aria-hidden", "true");
+    }
+
+    closeButton?.addEventListener("click", closeLightbox);
+
+    lightbox?.addEventListener("click", event => {
+      if (event.target === lightbox) {
+        closeLightbox();
+      }
+    });
+
+    document.addEventListener("keydown", event => {
+      if (event.key === "Escape") {
+        closeLightbox();
+      }
+    });
+  }
+
+  imageLightbox();
 </script>

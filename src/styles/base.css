@@ -90,6 +90,38 @@
   .prose h2#table-of-contents + p {
     @apply hidden;
   }
+  .lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+    padding: 2rem;
+    background: rgba(0, 0, 0, 0.85);
+  }
+
+  .lightbox.show {
+    display: flex;
+  }
+
+  #lightbox-image {
+    max-width: 95vw;
+    max-height: 90vh;
+    object-fit: contain;
+  }
+
+  #lightbox-close {
+    position: absolute;
+    top: 20px;
+    right: 24px;
+
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+  }
 
   /* ===== scrollbar ===== */
   html {
