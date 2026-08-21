@@ -55,7 +55,22 @@ const layoutProps = {
   <div class="mx-auto flex w-full max-w-4xl justify-start px-2">
     <button
       class="focus-outline mb-2 mt-8 flex hover:opacity-75"
-      onclick="(() => (history.length === 1) ? window.location = '/' : history.back())()"
+      onclick="
+        (() => {
+          const referrer = document.referrer;
+
+          if (referrer) {
+            const referrerUrl = new URL(referrer);
+
+            if (referrerUrl.hostname === window.location.hostname) {
+              history.back();
+              return;
+            }
+          }
+
+          window.location.href = '/';
+        })()
+      "
     >
       <svg xmlns="http://www.w3.org/2000/svg"
         ><path
