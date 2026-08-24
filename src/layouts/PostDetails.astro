@@ -59,13 +59,9 @@ const layoutProps = {
         (() => {
           const referrer = document.referrer;
 
-          if (referrer) {
-            const referrerUrl = new URL(referrer);
-
-            if (referrerUrl.hostname === window.location.hostname) {
-              history.back();
-              return;
-            }
+          if (referrer && referrer.startsWith(window.location.origin)) {
+            history.back();
+            return;
           }
 
           window.location.href = '/';
