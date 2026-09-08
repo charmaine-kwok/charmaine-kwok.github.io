@@ -1,0 +1,361 @@
+---
+import { getCaminoStages, getCaminoSummary } from "@utils/caminoStages";
+
+interface Props {
+  showAccommodation?: boolean;
+  showGarmin?: boolean;
+}
+
+const { showAccommodation = false, showGarmin = true } = Astro.props;
+
+const stages = getCaminoStages();
+const summary = getCaminoSummary();
+
+function formatKm(value: number | undefined) {
+  return value === undefined ? "—" : value.toFixed(1);
+}
+---
+
+<div class="camino-stage-table-wrapper">
+  <div class:list={["camino-stage-summary", !showGarmin && "without-garmin"]}>
+    <div class="summary-card">
+      <strong>
+        {summary.totalRouteDistance.toFixed(1)} km
+      </strong>
+
+      <span> Camino route </span>
+    </div>
+
+    {
+      showGarmin && (
+        <div class="summary-card">
+          <strong>{summary.totalGpxDistance.toFixed(1)} km</strong>
+
+          <span>Garmin recorded</span>
+        </div>
+      )
+    }
+
+    <div class="summary-card">
+      <strong>
+        {summary.walkingDays}
+      </strong>
+
+      <span> walking days </span>
+    </div>
+  </div>
+
+  <div class="table-scroll">
+    <table class="camino-stage-table">
+      <thead>
+        <tr>
+          <th class="day-heading"> Day </th>
+
+          <th> Route </th>
+
+          <th class="distance-heading">
+            {showGarmin ? "Route km" : "Distance"}
+          </th>
+
+          {showGarmin && <th class="distance-heading">Garmin km</th>}
+
+          {showAccommodation && <th>Accommodation</th>}
+        </tr>
+      </thead>
+
+      <tbody>
+        {
+          stages.map(stage => (
+            <tr
+              class:list={[
+                stage.section === "rest" && "rest-row",
+                stage.section === "arrival" && "rest-row",
+              ]}
+            >
+              <td class="day-cell">
+                <a href={`#${stage.id}`}>{stage.day}</a>
+              </td>
+
+              <td class="route-cell">{stage.route}</td>
+
+              <td class="distance-cell">
+                {stage.routeDistance !== undefined ? (
+                  <>
+                    <strong>{formatKm(stage.routeDistance)}</strong>
+
+                    <span>{formatKm(stage.routeCumulative)} total</span>
+                  </>
+                ) : (
+                  <span class="empty-distance">—</span>
+                )}
+              </td>
+
+              {showGarmin && (
+                <td class="distance-cell">
+                  {stage.gpxDistance !== undefined ? (
+                    <>
+                      <strong>{formatKm(stage.gpxDistance)}</strong>
+
+                      <span>{formatKm(stage.gpxCumulative)} total</span>
+                    </>
+                  ) : (
+                    <span class="empty-distance">—</span>
+                  )}
+                </td>
+              )}
+
+              {showAccommodation && (
+                <td class="accommodation-cell">{stage.accommodation ?? "—"}</td>
+              )}
+            </tr>
+          ))
+        }
+      </tbody>
+    </table>
+  </div>
+
+  {
+    showGarmin && (
+      <p class="camino-distance-note">
+        Garmin distance is calculated from my recorded GPX tracks and includes
+        detours and other extra walking during each day.
+      </p>
+    )
+  }
+</div>
+
+<style>
+  .camino-stage-table-wrapper {
+    margin: 1.5rem 0 2.5rem;
+  }
+
+  /*
+   * =====================================================
+   * SUMMARY
+   * =====================================================
+   */
+
+  .camino-stage-summary {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.75rem;
+
+    margin-bottom: 1rem;
+  }
+
+  .camino-stage-summary.without-garmin {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .summary-card {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+
+    padding: 0.85rem 1rem;
+
+    border: 1px solid rgb(148 163 184 / 45%);
+
+    border-radius: 10px;
+  }
+
+  .summary-card strong {
+    font-size: 1.15rem;
+    line-height: 1.25;
+  }
+
+  .summary-card span {
+    font-size: 0.78rem;
+    opacity: 0.7;
+  }
+
+  /*
+   * =====================================================
+   * TABLE
+   * =====================================================
+   */
+
+  .table-scroll {
+    width: 100%;
+    overflow-x: auto;
+
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .camino-stage-table {
+    width: 100%;
+    min-width: 650px;
+
+    border-collapse: collapse;
+  }
+
+  .camino-stage-table th,
+  .camino-stage-table td {
+    padding: 0.7rem 0.75rem;
+
+    border-bottom: 1px solid rgb(148 163 184 / 35%);
+
+    vertical-align: middle;
+  }
+
+  .camino-stage-table th {
+    text-align: left;
+
+    font-size: 0.8rem;
+    font-weight: 700;
+
+    white-space: nowrap;
+  }
+
+  .camino-stage-table td {
+    font-size: 0.88rem;
+  }
+
+  /*
+   * =====================================================
+   * DAY
+   * =====================================================
+   */
+
+  .day-heading,
+  .day-cell {
+    width: 55px;
+    white-space: nowrap;
+  }
+
+  .day-cell a {
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 7px;
+  }
+
+  .day-cell a:hover {
+    text-decoration: underline;
+  }
+
+  /*
+   * =====================================================
+   * ROUTE
+   * =====================================================
+   */
+
+  .route-cell {
+    min-width: 220px;
+  }
+
+  /*
+   * =====================================================
+   * DISTANCE
+   * =====================================================
+   */
+
+  .distance-heading {
+    text-align: right !important;
+  }
+
+  .distance-cell {
+    min-width: 95px;
+
+    text-align: right;
+    white-space: nowrap;
+  }
+
+  .distance-cell strong {
+    display: block;
+
+    font-size: 0.9rem;
+    font-weight: 700;
+  }
+
+  .distance-cell span {
+    display: block;
+
+    margin-top: 0.05rem;
+
+    font-size: 0.72rem;
+
+    opacity: 0.6;
+  }
+
+  .distance-cell .empty-distance {
+    font-size: 0.88rem;
+    opacity: 0.55;
+  }
+
+  /*
+   * =====================================================
+   * ACCOMMODATION
+   * =====================================================
+   */
+
+  .accommodation-cell {
+    min-width: 210px;
+  }
+
+  /*
+   * =====================================================
+   * REST / ARRIVAL DAYS
+   * =====================================================
+   */
+
+  .rest-row {
+    opacity: 0.75;
+  }
+
+  /*
+   * =====================================================
+   * NOTE
+   * =====================================================
+   */
+
+  .camino-distance-note {
+    margin-top: 0.75rem !important;
+
+    font-size: 0.78rem;
+    line-height: 1.5;
+
+    opacity: 0.65;
+  }
+
+  /*
+   * =====================================================
+   * MOBILE
+   * =====================================================
+   */
+
+  @media (max-width: 640px) {
+    .camino-stage-summary,
+    .camino-stage-summary.without-garmin {
+      grid-template-columns: 1fr;
+    }
+
+    .summary-card {
+      padding: 0.75rem 0.85rem;
+    }
+
+    .summary-card strong {
+      font-size: 1.05rem;
+    }
+
+    .camino-stage-table {
+      min-width: 620px;
+    }
+
+    .camino-stage-table th,
+    .camino-stage-table td {
+      padding: 0.6rem 0.65rem;
+    }
+
+    .camino-stage-table td {
+      font-size: 0.82rem;
+    }
+
+    .route-cell {
+      min-width: 190px;
+    }
+
+    .accommodation-cell {
+      min-width: 190px;
+    }
+  }
+</style>

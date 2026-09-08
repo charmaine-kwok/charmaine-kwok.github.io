@@ -1,138 +1,26 @@
 ---
 import "leaflet/dist/leaflet.css";
 
-import fs from "node:fs";
-import path from "node:path";
+import { getWalkingStages, getCaminoSummary } from "@utils/caminoStages";
 
-type CaminoStage = {
-  id: string;
-  day: string;
-  from: string;
-  to: string;
-  distance: number;
-  cumulative: number;
-  section: "frances" | "finisterre";
-  gpx: string;
-};
+const availableStages = getWalkingStages();
 
-/*
- * =========================================================
- * READ JOURNEY MARKDOWN
- * =========================================================
- */
-
-const journeyFile = path.join(
-  process.cwd(),
-  "src/content/blog/camino_frances_journey_2025.md"
-);
-
-const markdown = fs.readFileSync(journeyFile, "utf8");
-
-/*
- * =========================================================
- * PARSE STAGE TABLE
- * =========================================================
- */
-
-const caminoStages: CaminoStage[] = [];
-
-for (const line of markdown.split(/\r?\n/)) {
-  if (!line.trim().startsWith("|")) {
-    continue;
-  }
-
-  const columns = line
-    .split("|")
-    .map(column => column.trim())
-    .filter(Boolean);
-
-  if (columns.length < 4) {
-    continue;
-  }
-
-  /*
-   * Supports:
-   *
-   * [1](#day-1)
-   * [2](#day-2)
-   * [F1](#day-f1)
-   */
-  const dayMatch = columns[0].match(/^\[(\d+|F\d+)\]\(#day-[^)]+\)$/i);
-
-  if (!dayMatch) {
-    continue;
-  }
-
-  const rawDay = dayMatch[1];
-
-  const isFinisterre = rawDay.toUpperCase().startsWith("F");
-
-  const number = Number(rawDay.replace(/^F/i, ""));
-
-  const routeParts = columns[1].split(/\s*(?:→|->|–)\s*/);
-
-  /*
-   * Rest days do not have a walking route,
-   * so they are automatically ignored.
-   */
-  if (routeParts.length < 2) {
-    continue;
-  }
-
-  let from = routeParts[0].trim();
-
-  const to = routeParts.slice(1).join(" → ").trim();
-
-  if (from === "SJPP") {
-    from = "Saint-Jean-Pied-de-Port";
-  }
-
-  const distance = Number.parseFloat(columns[2]);
-
-  const cumulative = Number.parseFloat(columns[3]);
-
-  if (Number.isNaN(distance) || Number.isNaN(cumulative)) {
-    continue;
-  }
-
-  const gpxFilename = isFinisterre
-    ? `f${String(number).padStart(2, "0")}.gpx`
-    : `day-${String(number).padStart(2, "0")}.gpx`;
-
-  caminoStages.push({
-    id: isFinisterre ? `day-f${number}` : `day-${number}`,
-
-    day: isFinisterre ? `F${number}` : `Day ${number}`,
-
-    from,
-    to,
-
-    distance,
-    cumulative,
-
-    section: isFinisterre ? "finisterre" : "frances",
-
-    gpx: `/gpx/camino/${gpxFilename}`,
-  });
-}
-
-/*
- * Only include stages whose GPX file exists.
- */
-const availableStages = caminoStages.filter(stage => {
-  const relativeGpxPath = stage.gpx.replace(/^\//, "");
-
-  const gpxFile = path.join(process.cwd(), "public", relativeGpxPath);
-
-  return fs.existsSync(gpxFile);
-});
+const summary = getCaminoSummary();
 ---
 
 <div class="camino-map-wrapper">
   <div class="map-toolbar">
     <div>
-      <strong>My Camino Route</strong>
-      <span> 895.6 km · 41 walking days </span>
+      <strong> My Camino Route </strong>
+
+      <span>
+        {summary.totalRouteDistance.toFixed(1)}
+        km route ·
+        {summary.totalGpxDistance.toFixed(1)}
+        km Garmin ·
+        {summary.walkingDays}
+        walking days
+      </span>
     </div>
 
     <button id="camino-reset-map" type="button" class="map-reset-button">
@@ -140,7 +28,14 @@ const availableStages = caminoStages.filter(stage => {
     </button>
   </div>
 
-  <div id="camino-map" data-stages={JSON.stringify(availableStages)}></div>
+  <div
+    id="camino-map"
+    data-stages={JSON.stringify(availableStages)}
+    data-route-distance={summary.totalRouteDistance.toFixed(1)}
+    data-gpx-distance={summary.totalGpxDistance.toFixed(1)}
+    data-walking-days={summary.walkingDays}
+  >
+  </div>
 
   <div id="camino-stage-info" class="stage-info">
     <strong> Select a walking stage </strong>
@@ -152,18 +47,26 @@ const availableStages = caminoStages.filter(stage => {
 <script>
   import L from "leaflet";
 
+  type Coordinate = [number, number];
+
   type Stage = {
     id: string;
     day: string;
+    route: string;
+
     from: string;
     to: string;
-    distance: number;
-    cumulative: number;
+
+    routeDistance: number;
+    routeCumulative: number;
+
+    gpxDistance: number;
+    gpxCumulative: number;
+
     section: "frances" | "finisterre";
+
     gpx: string;
   };
-
-  type Coordinate = [number, number];
 
   type StageEndpoint = {
     stage: Stage;
@@ -207,8 +110,19 @@ const availableStages = caminoStages.filter(stage => {
       </div>
 
       <span>
-        ${stage.distance} km ·
-        ${stage.cumulative} km cumulative
+        Route:
+        ${stage.routeDistance.toFixed(1)} km
+        ·
+        Garmin:
+        ${stage.gpxDistance.toFixed(1)} km
+      </span>
+
+      <span>
+        Route cumulative:
+        ${stage.routeCumulative.toFixed(1)} km
+        ·
+        Garmin cumulative:
+        ${stage.gpxCumulative.toFixed(1)} km
       </span>
 
       <a href="#${stage.id}">
@@ -220,6 +134,12 @@ const availableStages = caminoStages.filter(stage => {
   /*
    * =======================================================
    * GPX LOADING
+   *
+   * GPX distance has already been
+   * calculated by Astro.
+   *
+   * The browser loads coordinates
+   * only to draw the route.
    * =======================================================
    */
 
@@ -270,7 +190,9 @@ const availableStages = caminoStages.filter(stage => {
       `,
 
       iconSize: [30, 40],
+
       iconAnchor: [15, 38],
+
       popupAnchor: [0, -35],
     });
   }
@@ -288,9 +210,7 @@ const availableStages = caminoStages.filter(stage => {
       <strong>
         ${stage.from}
       </strong>
-
       <br>
-
       Camino start · ${stage.day}
     `);
 
@@ -313,9 +233,7 @@ const availableStages = caminoStages.filter(stage => {
       <strong>
         ${currentStage.to}
       </strong>
-
       <br>
-
       ${currentStage.day} end ·
       ${nextStage.day} start
     `);
@@ -338,9 +256,7 @@ const availableStages = caminoStages.filter(stage => {
       <strong>
         ${stage.to}
       </strong>
-
       <br>
-
       Camino complete · ${stage.day}
     `);
 
@@ -358,14 +274,15 @@ const availableStages = caminoStages.filter(stage => {
   if (mapElement) {
     const stages: Stage[] = JSON.parse(mapElement.dataset.stages ?? "[]");
 
+    const routeDistance = mapElement.dataset.routeDistance ?? "0.0";
+
+    const gpxDistance = mapElement.dataset.gpxDistance ?? "0.0";
+
+    const walkingDays = mapElement.dataset.walkingDays ?? "0";
+
     const map = L.map(mapElement, {
       scrollWheelZoom: true,
 
-      /*
-       * Garmin GPX files contain many points.
-       * Canvas works better here than thousands
-       * of SVG path elements.
-       */
       preferCanvas: true,
     });
 
@@ -374,11 +291,6 @@ const availableStages = caminoStages.filter(stage => {
         '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     }).addTo(map);
 
-    /*
-     * ONE renderer for every route.
-     *
-     * Do not create one per stage.
-     */
     const routeRenderer = L.canvas({
       padding: 0.5,
     });
@@ -393,12 +305,6 @@ const availableStages = caminoStages.filter(stage => {
 
     let selectedRoute: RouteEntry | null = null;
 
-    /*
-     * -------------------------------------------------------
-     * RESET SELECTED ROUTE STYLE
-     * -------------------------------------------------------
-     */
-
     function resetSelectedStyle() {
       if (!selectedRoute) {
         return;
@@ -409,12 +315,6 @@ const availableStages = caminoStages.filter(stage => {
         opacity: 0.9,
       });
     }
-
-    /*
-     * -------------------------------------------------------
-     * SELECT + ZOOM TO A STAGE
-     * -------------------------------------------------------
-     */
 
     function selectStage(route: RouteEntry) {
       resetSelectedStyle();
@@ -428,13 +328,11 @@ const availableStages = caminoStages.filter(stage => {
 
       showStageInfo(route.stage);
 
-      /*
-       * flyToBounds gives a much clearer
-       * zoom animation than the old fitBounds.
-       */
       map.flyToBounds(route.layer.getBounds(), {
         padding: [70, 70],
+
         maxZoom: 12,
+
         duration: 0.8,
       });
     }
@@ -459,21 +357,13 @@ const availableStages = caminoStages.filter(stage => {
 
         const color = stageColors[index % stageColors.length];
 
-        /*
-         * -------------------------------------------------
-         * VISIBLE ROUTE
-         *
-         * Thin and attractive.
-         * Not directly interactive.
-         * -------------------------------------------------
-         */
-
         const layer = L.polyline(points, {
           renderer: routeRenderer,
 
           color,
 
           weight: 5,
+
           opacity: 0.9,
 
           interactive: false,
@@ -482,18 +372,6 @@ const availableStages = caminoStages.filter(stage => {
 
           lineJoin: "round",
         }).addTo(map);
-
-        /*
-         * -------------------------------------------------
-         * INVISIBLE CLICK TARGET
-         *
-         * Visible route = 5 px
-         * Click area    = 22 px
-         *
-         * This makes selecting individual stages MUCH
-         * easier without making the map visually messy.
-         * -------------------------------------------------
-         */
 
         const hitLayer = L.polyline(points, {
           renderer: routeRenderer,
@@ -519,27 +397,36 @@ const availableStages = caminoStages.filter(stage => {
 
         routes.push(route);
 
-        /*
-         * Route label while hovering.
-         */
         hitLayer.bindTooltip(
           `
-            <strong>${stage.day}</strong>
+            <strong>
+              ${stage.day}
+            </strong>
+
             <br>
-            ${stage.from} → ${stage.to}
+
+            ${stage.from} →
+            ${stage.to}
+
             <br>
-            ${stage.distance} km
+
+            Route:
+            ${stage.routeDistance.toFixed(1)} km
+
+            <br>
+
+            Garmin:
+            ${stage.gpxDistance.toFixed(1)} km
           `,
           {
             sticky: true,
+
             direction: "top",
+
             opacity: 0.95,
           }
         );
 
-        /*
-         * Change mouse cursor.
-         */
         hitLayer.on("mouseover", () => {
           mapElement.style.cursor = "pointer";
         });
@@ -581,12 +468,6 @@ const availableStages = caminoStages.filter(stage => {
         }
       }).addTo(map);
 
-      /*
-       * One marker per overnight stop.
-       *
-       * Garmin Day N end and Day N+1 start
-       * can differ slightly, so use their midpoint.
-       */
       for (let index = 0; index < stageEndpoints.length - 1; index++) {
         const current = stageEndpoints[index];
 
@@ -607,9 +488,6 @@ const availableStages = caminoStages.filter(stage => {
         }).addTo(map);
       }
 
-      /*
-       * Final Muxía marker.
-       */
       const last = stageEndpoints[stageEndpoints.length - 1];
 
       const lastRoute = routes[routes.length - 1];
@@ -623,7 +501,7 @@ const availableStages = caminoStages.filter(stage => {
 
     /*
      * =====================================================
-     * INITIAL FULL-CAMINO VIEW
+     * FULL ROUTE
      * =====================================================
      */
 
@@ -647,7 +525,15 @@ const availableStages = caminoStages.filter(stage => {
           </strong>
 
           <span>
-            895.6 km · 41 walking days ·
+            Camino route:
+            ${routeDistance} km
+            ·
+            Garmin recorded:
+            ${gpxDistance} km
+          </span>
+
+          <span>
+            ${walkingDays} walking days ·
             Saint-Jean-Pied-de-Port → Muxía
           </span>
         `;
@@ -661,26 +547,15 @@ const availableStages = caminoStages.filter(stage => {
 </script>
 
 <style>
-  /*
-   * =======================================================
-   * WRAPPER
-   * =======================================================
-   */
-
   .camino-map-wrapper {
     margin: 2.5rem 0;
   }
-
-  /*
-   * =======================================================
-   * TOOLBAR
-   * =======================================================
-   */
 
   .map-toolbar {
     display: flex;
 
     align-items: center;
+
     justify-content: space-between;
 
     gap: 1rem;
@@ -730,12 +605,6 @@ const availableStages = caminoStages.filter(stage => {
     opacity: 0.7;
   }
 
-  /*
-   * =======================================================
-   * MAP
-   * =======================================================
-   */
-
   #camino-map {
     width: 100%;
 
@@ -747,12 +616,6 @@ const availableStages = caminoStages.filter(stage => {
 
     overflow: hidden;
   }
-
-  /*
-   * =======================================================
-   * CUSTOM CAMINO MARKERS
-   * =======================================================
-   */
 
   :global(.camino-marker-wrapper) {
     background: transparent;
@@ -776,23 +639,14 @@ const availableStages = caminoStages.filter(stage => {
     box-shadow: 0 2px 6px rgb(0 0 0 / 35%);
   }
 
-  /*
-   * SJPP
-   */
   :global(.camino-marker.start) {
     background: #16a34a;
   }
 
-  /*
-   * Overnight stops
-   */
   :global(.camino-marker.stop) {
     background: #2563eb;
   }
 
-  /*
-   * Muxía
-   */
   :global(.camino-marker.end) {
     background: #dc2626;
   }
@@ -815,12 +669,6 @@ const availableStages = caminoStages.filter(stage => {
     transform: rotate(45deg);
   }
 
-  /*
-   * =======================================================
-   * LEAFLET TOOLTIP
-   * =======================================================
-   */
-
   :global(.leaflet-tooltip) {
     border: none;
 
@@ -834,12 +682,6 @@ const availableStages = caminoStages.filter(stage => {
 
     line-height: 1.35;
   }
-
-  /*
-   * =======================================================
-   * SELECTED STAGE INFO
-   * =======================================================
-   */
 
   .stage-info {
     display: flex;
@@ -900,12 +742,6 @@ const availableStages = caminoStages.filter(stage => {
 
     text-decoration: underline;
   }
-
-  /*
-   * =======================================================
-   * MOBILE
-   * =======================================================
-   */
 
   @media (max-width: 640px) {
     #camino-map {

@@ -6,6 +6,7 @@ import getSortedPosts from "@utils/getSortedPosts";
 import getPageNumbers from "@utils/getPageNumbers";
 import getPagination from "@utils/getPagination";
 import CaminoRouteMap from "@components/CaminoRouteMap.astro";
+import CaminoStageTable from "@components/CaminoStageTable.astro";
 import { createMarkdownProcessor } from "@astrojs/markdown-remark";
 
 export interface Props {
@@ -39,13 +40,21 @@ const pagination = getPagination({
   page: slug,
 });
 
+const isJourneyPost = post?.slug === "camino-frances-journey";
+
+const isAlberguePost = post?.slug === "camino-frances-albergue";
+
+const isCaminoPost = isJourneyPost || isAlberguePost;
+
 let caminoBeforeHtml = "";
 let caminoAfterHtml = "";
 
-const isCaminoPost = post?.slug === "camino-frances-journey";
-
 if (isCaminoPost && post) {
-  const parts = post.body.split(/(?=## SECTION 2 — Day-by-Day Journey)/);
+  const splitPattern = isJourneyPost
+    ? /(?=## SECTION 2 — Day-by-Day Journey)/
+    : /(?=## SECTION 2 — Day-by-Day Albergue Notes)/;
+
+  const parts = post.body.split(splitPattern);
 
   const beforeMarkdown = parts[0] ?? "";
 
@@ -71,7 +80,15 @@ if (isCaminoPost && post) {
         beforeHtml={caminoBeforeHtml}
         afterHtml={caminoAfterHtml}
       >
-        <CaminoRouteMap slot="between-content" />
+        <div slot="between-content">
+          {isAlberguePost ? (
+            <CaminoStageTable showAccommodation={true} showGarmin={false} />
+          ) : (
+            <CaminoStageTable />
+          )}
+
+          <CaminoRouteMap />
+        </div>
       </PostDetails>
     ) : (
       <PostDetails post={post} />

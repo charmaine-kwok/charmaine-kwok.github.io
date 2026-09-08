@@ -22,53 +22,6 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ## SECTION 1 — Stage & Distance Summary
 
-| Day           | From → To                               | Distance (km) | Cumulative (km) | Accommodation                     |
-| ------------- | --------------------------------------- | ------------- | --------------- | --------------------------------- |
-| [0](#day-0)   | SJPP (arrival)                          | —             | —               | Maison d'hôtes Larraldia          |
-| [1](#day-1)   | SJPP → Roncesvalles                     | 24.2          | 24.2            | Albergue de Peregrinos            |
-| [2](#day-2)   | Roncesvalles → Zubiri                   | 21.4          | 45.6            | Albergue Río Arga Ibaia           |
-| [3](#day-3)   | Zubiri → Pamplona                       | 20.4          | 66.0            | Hostel Casa Ibarrola              |
-| [4](#day-4)   | Pamplona → Puente la Reina              | 23.9          | 89.9            | Albergue Estrella Guía            |
-| [5](#day-5)   | Puente la Reina → Estella               | 21.6          | 111.5           | Ágora Hostel                      |
-| [6](#day-6)   | Estella → Los Arcos                     | 21.0          | 132.5           | Casa Arqueña                      |
-| [7](#day-7)   | Los Arcos → Logroño                     | 28.0          | 160.5           | Albergue San Nicolás              |
-| [8](#day-8)   | Logroño → Nájera                        | 29.0          | 189.5           | Albergue Puerta de Nájera         |
-| [9](#day-9)   | Nájera → Redecilla del Camino           | 31.1          | 220.6           | Albergue Essentia                 |
-| [10](#day-10) | Redecilla del Camino → Villafranca M.O. | 23.5          | 244.1           | Casa Rural La Alpargateria        |
-| [11](#day-11) | Villafranca M.O. → Orbaneja Riopico     | 26.3          | 270.4           | Casa Rural Fortaleza              |
-| [12](#day-12) | Orbaneja Riopico → Rabé de las Calzadas | 24.2          | 294.6           | Hostal Fuente de Rabé             |
-| [13](#day-13) | Rabé de las Calzadas → Castrojeriz      | 27.5          | 322.1           | Espacio Interior                  |
-| [14](#day-14) | Castrojeriz → Frómista                  | 24.7          | 346.8           | Albergue Luz de Frómista          |
-| [15](#day-15) | Frómista → Carrión de los Condes        | 18.8          | 365.6           | Hostal Albe                       |
-| [16](#day-16) | Carrión de los Condes → Ledigos         | 23.4          | 389.0           | Albergue La Morena                |
-| [17](#day-17) | Ledigos → Calzada del Coto              | 21.0          | 410.0           | Albergue San Roque                |
-| [18](#day-18) | Calzada del Coto → Villamarco           | 23.4          | 433.4           | Albergue La Vieja Escuela         |
-| [19](#day-19) | Villamarco → Arcahueja                  | 23.0          | 456.4           | Hotel Camino Real                 |
-| [20](#day-20) | Arcahueja → Oncina                      | 19.1          | 475.5           | Albergue El Pajar de Oncina       |
-| [21](#day-21) | Oncina → Hospital de Órbigo             | 25.0          | 500.5           | Albergue Hidalgos                 |
-| [22](#day-22) | Hospital de Órbigo → Astorga            | 16.5          | 517.0           | Albergue Franciscano              |
-| [23](#day-23) | Astorga → Rabanal del Camino            | 20.2          | 537.2           | Refugio Gaucelmo                  |
-| [24](#day-24) | Rabanal del Camino → Molinaseca         | 24.7          | 561.9           | Casa Rural Lua Bierzo             |
-| [25](#day-25) | Molinaseca → Valtuille de Arriba        | 26.1          | 588.0           | Acogida La Biznaga                |
-| [26](#day-26) | Valtuille de Arriba → Vega de Valcarce  | 21.1          | 609.1           | Pensión Fernández                 |
-| [27](#day-27) | Vega de Valcarce → Fonfría              | 23.1          | 632.2           | Casa Rural Núñez                  |
-| [28](#day-28) | Fonfría → Samos                         | 19.2          | 651.4           | Hospedería Externa del Monasterio |
-| [29](#day-29) | Samos → Vilei (Barbadelo)               | 19.0          | 670.4           | Casa Barbadelo                    |
-| [30](#day-30) | Vilei → A Pena (Paradela)               | 10.0          | 680.4           | Albergue Km 100 Casa do Rego      |
-| [31](#day-31) | A Pena (Paradela) → Airexe              | 25.3          | 705.7           | Pensión Eirexe                    |
-| [32](#day-32) | Airexe → Melide                         | 22.1          | 727.8           | Albergue O Candil                 |
-| [33](#day-33) | Melide → A Calle de Ferreiros           | 22.0          | 749.8           | Albergue A Ponte de Ferreiros     |
-| [34](#day-34) | A Calle de Ferreiros → Lavacolla        | 20.0          | 769.8           | Albergue A Fábrica                |
-| [35](#day-35) | Lavacolla → Santiago de Compostela      | 9.9           | 779.7           | Albergue Blanco                   |
-| [36](#day-36) | Santiago de Compostela (Rest Day)       | —             | —               | Albergue Blanco                   |
-| [F1](#day-f1) | Santiago de Compostela → Negreira       | 20.6          | 800.3           | Albergue Cotón                    |
-| [F2](#day-f2) | Negreira → Vilaserío                    | 13.0          | 813.3           | Albergue-Pensión O Rueiro         |
-| [F3](#day-f3) | Vilaserío → Lago                        | 16.0          | 829.3           | Albergue Monte Aro                |
-| [F4](#day-f4) | Lago → Cee                              | 25.6          | 854.9           | Albergue A Casa da Fonte          |
-| [F5](#day-f5) | Cee → Fisterra                          | 12.9          | 867.8           | Albergue-Pensión Finistellae      |
-| [F6](#day-f6) | Fisterra → Muxía                        | 27.8          | 895.6           | Albergue Muxía Mare               |
-| [F7](#day-f7) | Muxía (Rest Day)                        | —             | —               | Albergue Muxía Mare               |
-
 ---
 
 ## SECTION 2 — Day-by-Day Albergue Notes
