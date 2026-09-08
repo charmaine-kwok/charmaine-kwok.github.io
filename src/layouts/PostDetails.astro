@@ -10,9 +10,11 @@ import { SITE } from "@config";
 
 export interface Props {
   post: CollectionEntry<"blog">;
+  beforeHtml?: string;
+  afterHtml?: string;
 }
 
-const { post } = Astro.props;
+const { post, beforeHtml, afterHtml } = Astro.props;
 
 const {
   title,
@@ -84,7 +86,11 @@ const layoutProps = {
       className="my-2"
     />
     <article id="article" role="article" class="prose mx-auto mt-8 max-w-4xl">
-      <Content />
+      {beforeHtml ? <Fragment set:html={beforeHtml} /> : <Content />}
+
+      <slot name="between-content" />
+
+      {afterHtml && <Fragment set:html={afterHtml} />}
     </article>
 
     <ul class="my-8">
