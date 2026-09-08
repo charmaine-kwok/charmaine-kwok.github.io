@@ -5,6 +5,8 @@ import PostDetails from "@layouts/PostDetails.astro";
 import getSortedPosts from "@utils/getSortedPosts";
 import getPageNumbers from "@utils/getPageNumbers";
 import getPagination from "@utils/getPagination";
+import CaminoRouteMap from "@components/CaminoRouteMap.astro";
+import { createMarkdownProcessor } from "@astrojs/markdown-remark";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -36,6 +38,45 @@ const pagination = getPagination({
   posts: sortedPosts,
   page: slug,
 });
+
+let caminoBeforeHtml = "";
+let caminoAfterHtml = "";
+
+const isCaminoPost = post?.slug === "camino-frances-journey";
+
+if (isCaminoPost && post) {
+  const parts = post.body.split(/(?=## SECTION 2 — Day-by-Day Journey)/);
+
+  const beforeMarkdown = parts[0] ?? "";
+
+  const afterMarkdown = parts.slice(1).join("");
+
+  const processor = await createMarkdownProcessor();
+
+  const beforeRendered = await processor.render(beforeMarkdown);
+
+  const afterRendered = await processor.render(afterMarkdown);
+
+  caminoBeforeHtml = beforeRendered.code;
+
+  caminoAfterHtml = afterRendered.code;
+}
 ---
 
-{post ? <PostDetails post={post} /> : <Posts {...pagination} />}
+{
+  post ? (
+    isCaminoPost ? (
+      <PostDetails
+        post={post}
+        beforeHtml={caminoBeforeHtml}
+        afterHtml={caminoAfterHtml}
+      >
+        <CaminoRouteMap slot="between-content" />
+      </PostDetails>
+    ) : (
+      <PostDetails post={post} />
+    )
+  ) : (
+    <Posts {...pagination} />
+  )
+}
