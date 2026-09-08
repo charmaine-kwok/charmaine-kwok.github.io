@@ -1548,6 +1548,8 @@ After chatting with Avik for a while longer, we headed back to the albergue to r
 
 ---
 
+<a id="day-29"></a>
+
 ### Day 29 — Samos → Vilei (Barbadelo) (19.0 km)
 
 After waking up, I went downstairs for breakfast.
@@ -1614,6 +1616,8 @@ Looking back on the day, what stood out most wasn’t the scenery or the distanc
 
 ---
 
+<a id="day-30"></a>
+
 ### Day 30 — Vilei (Barbadelo) → A Pena (Paradela) (10.0 km)
 
 By this point of the Camino, I was starting to feel the accumulated fatigue from all the walking. Because of that, I decided that today would be a **short stage of only around 10 km**.
@@ -1673,6 +1677,8 @@ Because today was such a short stage, I arrived at the hostel quite early and en
 🛏️ Stayed at **Albergue Km 100 Casa do Rego** — full accommodation details [here](/posts/camino-frances-albergue/#day-30).
 
 ---
+
+<a id="day-31"></a>
 
 ### Day 31 — A Pena (Paradela) → Airexe (25.3 km)
 
@@ -1740,11 +1746,13 @@ Not every day on the Camino is perfect. Most days are filled with kindness and g
 
 ---
 
+<a id="day-32"></a>
+
 ### Day 32 — Airexe → Melide (22.1 km)
 
 The morning started off quite foggy again.
 
-*(attach foggy morning photo here)*
+_(attach foggy morning photo here)_
 
 Now that I was within the **final 115 km** of the Camino, the atmosphere had changed completely. There were many more pilgrims on the trail, especially large school groups. It felt very different from the first few weeks of my Camino. Personally, I still preferred the quieter stretches at the beginning, when I could walk for long periods in silence and simply enjoy the surroundings.
 
@@ -1752,7 +1760,7 @@ After walking for a while, I stopped at **The Essential Coffee**, which I had lo
 
 I ordered a café con leche and toast with eggs, smoked salmon, and avocado.
 
-*(attach breakfast photo here)*
+_(attach breakfast photo here)_
 
 Both were really delicious, and the owners were incredibly kind. They even helped pilgrims with their backpacks, carrying and placing them somewhere safe while we sat down and enjoyed our food.
 
@@ -1760,23 +1768,23 @@ As they were about to close the café, the owner also gave me a slice of Tarta d
 
 Continuing along the Camino, I came across a place selling wax stamps and decided to get one. It was beautifully made and felt like a very unique souvenir from the journey.
 
-*(attach wax stamp photo here)*
+_(attach wax stamp photo here)_
 
 The weather became much nicer as the day went on, and the walk towards **Melide** was pleasant.
 
-*(attach walking scenery photo here)*
+_(attach walking scenery photo here)_
 
 After reaching the hostel, I did my laundry and then headed into town to explore some souvenir shops — and, of course, to try the famous **Galician octopus** that Melide is known for.
 
 While walking around, I found a leather shop and bought a **leather bracelet** as another souvenir.
 
-*(attach bracelet photo here)*
+_(attach bracelet photo here)_
 
 I also had a chance to speak some Spanish with the shop owner, which made me surprisingly happy. One of my goals on the Camino had been to practise my Spanish, so whenever I managed to have a proper conversation, even a short one, it felt like a little achievement.
 
 Afterwards, I went to **Pulpería A Garnacha** to finally try the octopus. I ordered a plate of **pulpo a la gallega** together with a **sangria**.
 
-*(attach octopus and sangria photo here)*
+_(attach octopus and sangria photo here)_
 
 While eating, I overheard the couple sitting at the table behind me talking about how they had started their Camino on **14 September** — exactly the same day as me.
 
@@ -1804,31 +1812,33 @@ Even this close to Santiago, the Camino was still giving me new people to meet a
 
 ---
 
+<a id="day-33"></a>
+
 ### Day 33 — Melide → A Calle de Ferreiros (22.0 km)
 
 Today started with a beautiful sunny morning, with the sunrise appearing as I made my way along the Camino.
 
-*(attach sunrise photo here)*
+_(attach sunrise photo here)_
 
 Not long after starting, I came across a piece of graffiti of **Mickey Mouse dressed as a pilgrim**. It was such a cute and unexpected thing to see along the trail, and it immediately made my morning.
 
-*(attach Mickey pilgrim graffiti photo here)*
+_(attach Mickey pilgrim graffiti photo here)_
 
 The weather stayed beautiful, with clear blue skies and plenty of sunshine.
 
-*(attach sunny Camino photo here)*
+_(attach sunny Camino photo here)_
 
 As I continued walking, I started seeing the familiar **metal Camino shells embedded in the ground**. By this point in the journey, seeing these usually meant one thing — I was getting close to another town.
 
-*(attach metal Camino shell photo here)*
+_(attach metal Camino shell photo here)_
 
 Soon, I arrived in **Arzúa**.
 
-*(attach Arzúa photo here)*
+_(attach Arzúa photo here)_
 
 I decided to stop at **Brevis Cafetería** for a proper break. I ordered a café con leche, toast, and a slice of cheesecake.
 
-*(attach café and food photo here)*
+_(attach café and food photo here)_
 
 When I went to pay, a man sitting at the bar started talking to me. I replied in Spanish, and somehow another spontaneous Spanish conversation began.
 
@@ -1846,7 +1856,7 @@ Then it was time to put my backpack on again and continue towards my accommodati
 
 The weather remained sunny and pleasant along the way.
 
-*(attach sunny walking photo here)*
+_(attach sunny walking photo here)_
 
 Just before reaching my hostel, I unexpectedly ran into the Mexican couple from yesterday again. We recognised each other straight away and stopped to say hello.
 
@@ -1858,6 +1868,8 @@ It was funny how the Camino worked like this — you could say goodbye to someon
 
 ---
 
+<a id="day-34"></a>
+
 ### Day 34 — A Calle de Ferreiros → Lavacolla (20.0 km)
 
 Before leaving the hostel this morning, I heard a girl speaking Mandarin on the phone. After she hung up, I asked if she was from Taiwan. She told me that she was born in Taiwan but now lives in Malaysia.
@@ -1866,13 +1878,13 @@ We chatted for a little while before setting off, and eventually started walking
 
 Not long after leaving, we came across a cat along the way.
 
-*(attach cat photo here)*
+_(attach cat photo here)_
 
 We somehow lost track of the Camino for a little while, but eventually found our way back and stopped at **O Ceadoiro** for breakfast.
 
 I ordered a café con leche and a tortilla.
 
-*(attach breakfast photo here)*
+_(attach breakfast photo here)_
 
 The tortilla was really good — a huge, thick slice that was very filling and exactly what I needed before continuing the walk.
 
@@ -1880,7 +1892,7 @@ After breakfast, we started walking together again.
 
 And, of course, I came across another cat along the way.
 
-*(attach second cat photo here)*
+_(attach second cat photo here)_
 
 We continued together for a while before eventually separating and walking at our own pace.
 
@@ -1894,19 +1906,19 @@ Eventually, we reached Lavacolla and said goodbye as we headed towards our diffe
 
 After arriving at my hostel, one of the first things I did was, as usual, **laundry**.
 
-*(attach laundry photo here)*
+_(attach laundry photo here)_
 
 The hostel also had an outdoor area where there were **several cats**, which made the stay even better.
 
-*(attach cat photos here)*
+_(attach cat photos here)_
 
 Later, I went to a nearby restaurant and ordered a sandwich, but after a full day of walking, it definitely wasn't enough.
 
-*(attach sandwich photo here)*
+_(attach sandwich photo here)_
 
 So I ended up going to another restaurant right next to the hostel and having a proper set dinner as well.
 
-*(attach dinner photo here)*
+_(attach dinner photo here)_
 
 With dinner finished, I returned to the hostel and went to bed early.
 
@@ -1920,6 +1932,8 @@ After weeks of walking, countless kilometres, early mornings, blisters, rain, he
 
 ---
 
+<a id="day-35"></a>
+
 ### Day 35 — Lavacolla → Santiago de Compostela (9.9 km)
 
 Today was finally the day I would reach **Santiago de Compostela**.
@@ -1930,15 +1944,15 @@ The final stretch felt surprisingly normal. I simply kept walking, following the
 
 Then, at around **10:30 a.m.**, I finally arrived at the **Cathedral of Santiago de Compostela**.
 
-*(attach first cathedral / arrival photo here)*
+_(attach first cathedral / arrival photo here)_
 
 After walking all the way from Saint-Jean-Pied-de-Port, I had finally reached Santiago.
 
 I headed to the **Pilgrim's Reception Office** to collect my **Compostela certificate** and received the final stamps on my pilgrim credential.
 
-*(attach Compostela certificate photo here)*
+_(attach Compostela certificate photo here)_
 
-*(attach completed credential photo here)*
+_(attach completed credential photo here)_
 
 Afterwards, I returned to the cathedral square. I didn't really have anything I needed to do, so I simply stayed there for a while, resting and looking at the cathedral.
 
@@ -1952,7 +1966,7 @@ Of course, that immediately caught my attention.
 
 We started talking, and even though we had only just met, they invited me to join them for lunch.
 
-*(attach lunch photo here)*
+_(attach lunch photo here)_
 
 Even more unexpectedly, one of the couples paid for my lunch. We had literally just met, which made their generosity even more surprising. It was another small moment of kindness from strangers — something I had experienced again and again throughout the Camino.
 
@@ -1960,7 +1974,7 @@ After lunch, I spent some time looking around the souvenir shops before eventual
 
 I sat there again for a while, simply resting and looking at the cathedral before finally heading back to my hostel.
 
-*(attach cathedral square photo here)*
+_(attach cathedral square photo here)_
 
 ### Reaching Santiago
 
@@ -1970,7 +1984,7 @@ Before the Camino, I imagined that arriving in Santiago after walking hundreds o
 
 But when I actually stood in front of the cathedral, none of that really happened.
 
-I wasn't particularly emotional. There wasn't a huge feeling of *"I did it!"*
+I wasn't particularly emotional. There wasn't a huge feeling of _"I did it!"_
 
 It was more like:
 
@@ -1996,7 +2010,7 @@ After so many consecutive days of walking, it felt strange waking up knowing tha
 
 I started the morning at **Adelia Café**, where I ordered a latte and toast with egg, smoked salmon, and avocado.
 
-*(attach breakfast photo here)*
+_(attach breakfast photo here)_
 
 While I was there, I unexpectedly met the German pilgrim I had walked with recently. We exchanged Instagram and said our final goodbye before going our separate ways.
 
@@ -2004,37 +2018,37 @@ He also showed me something he had just done to remember his Camino — he had g
 
 After breakfast, I headed back outside. Unfortunately, Santiago was quite rainy today.
 
-*(attach rainy Santiago photo here)*
+_(attach rainy Santiago photo here)_
 
 I decided to try my luck with the cathedral again and see if I could attend the mass, but once again, there was a very long queue, so I gave up on the idea for the time being.
 
-*(attach cathedral queue photo here)*
+_(attach cathedral queue photo here)_
 
 Nearby, I met the Malaysian girl again, and we decided to visit the museum next to the cathedral together.
 
 By the time we finished, the rain had more or less stopped, so we took the opportunity to walk around the cathedral and take some photos.
 
-*(attach cathedral photos here)*
+_(attach cathedral photos here)_
 
 We then went for lunch together.
 
-*(attach lunch photo here)*
+_(attach lunch photo here)_
 
 Since I had already failed to get into the mass twice, we decided to try again for the **evening mass**. This time, we went to the cathedral early before the queue became too long.
 
 And finally — **I got in!**
 
-*(attach inside cathedral / mass photo here)*
+_(attach inside cathedral / mass photo here)_
 
 After missing out the day before and again earlier today, I was really glad that I finally had the chance to attend a mass inside the Cathedral of Santiago.
 
 When we came back outside, it was already dark, and the cathedral looked completely different at night.
 
-*(attach night cathedral photo here)*
+_(attach night cathedral photo here)_
 
 We finished the day by having dinner together.
 
-*(attach dinner photo here)*
+_(attach dinner photo here)_
 
 But Santiago still wasn't the end.
 
@@ -2043,4 +2057,3 @@ Tomorrow, I would put my backpack on again and begin the next part of the journe
 🛏️ Stayed at **Albergue Blanco** — full accommodation details [here](/posts/camino-frances-albergue/#day-36).
 
 ---
-
