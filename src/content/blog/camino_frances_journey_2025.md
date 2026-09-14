@@ -34,7 +34,7 @@ See the Camino food diary here →
 
 ---
 
-## SECTION 2 — Day-by-Day Journey
+## SECTION 2 — Camino Francés: Saint-Jean-Pied-de-Port → Santiago
 
 <a id="day-0"></a>
 
@@ -2008,5 +2008,85 @@ But Santiago still wasn't the end.
 Tomorrow, I would put my backpack on again and begin the next part of the journey — **walking towards Finisterre and Muxía**.
 
 🛏️ Stayed at **Albergue Blanco** — full accommodation details [here](/posts/camino-frances-albergue/#day-36).
+
+---
+
+## SECTION 3 — Camino Finisterre & Muxía
+
+<a id="day-f1"></a>
+
+### F1 — Santiago de Compostela → Negreira (20.6 km)
+
+After a rest day in Santiago, it was time to put my backpack on again and continue walking.
+
+Before the trip, I had already decided that I would walk to **Fisterra first and then continue to Muxía**. While researching the route, I had read that Muxía was quieter and more peaceful than Fisterra, and I felt that it would be a better place to end my Camino.
+
+The morning started with some light rain. Before leaving Santiago, I went back to the **Cathedral of Santiago de Compostela** one last time to say goodbye.
+
+_(attach goodbye-to-cathedral photo here)_
+
+After spending so many days walking towards the cathedral, it felt strange to now be walking away from it.
+
+I started making my way out of central Santiago until I came across a Camino marker pointing towards **Fisterra and Muxía**.
+
+_(attach Fisterra/Muxía Camino marker photo here)_
+
+Seeing the marker made it feel like the beginning of a new part of the journey. Santiago was now behind me, and instead of following the Camino towards the cathedral, I was heading west towards the Atlantic coast.
+
+As I continued walking, the urban surroundings of Santiago gradually disappeared and the route became much more rural, taking me through quiet paths and forests.
+
+_(attach leaving-Santiago / rural scenery photo here)_
+
+Luckily, the rain also started to ease.
+
+After walking for a while, I looked back and could still see the **Cathedral of Santiago** in the distance. It wasn't particularly clear because of the cloudy weather, but it was probably my last view of the cathedral before leaving Santiago behind completely.
+
+_(attach distant Cathedral of Santiago photo here)_
+
+I continued deeper into the forest.
+
+_(attach forest photo here)_
+
+Compared with the final stages of the Camino Francés before Santiago, the trail felt **much quieter**. There were far fewer pilgrims around, and after the crowds of the previous few days, I really enjoyed having the peaceful trail around me again.
+
+Eventually, I reached a small town and stopped for breakfast. The rain had picked up again, so it was also a good opportunity to stay inside for a while and wait for the weather to improve.
+
+_(attach breakfast photo here)_
+
+Once the rain eased, I put my backpack on again and continued towards Negreira.
+
+Along the way, I came across some Camino graffiti reminding me that there were only around **80 km left to Fisterra**.
+
+_(attach 80 km to Fisterra graffiti photo here)_
+
+I had already reached Santiago, but now there was another destination waiting at the end of the trail.
+
+The route continued through more quiet forest and countryside.
+
+_(attach forest / Camino scenery photo here)_
+
+Later in the day, I reached **Ponte Maceira**.
+
+_(attach Ponte Maceira sign photo here)_
+
+I saw a sign describing it as **"Uno de los Pueblos Más Bonitos de España"** — one of the most beautiful villages in Spain.
+
+_(attach Ponte Maceira photo here)_
+
+Unfortunately, the grey and rainy weather probably didn't show the village at its best, but it was still a beautiful place to pass through along the Camino.
+
+From Ponte Maceira, I continued walking until I finally reached **Negreira**, my destination for the day.
+
+_(attach Negreira arrival photo here)_
+
+### Evening in Negreira
+
+For dinner, I went to **Café Bar Fontana**, where I tried an **arepa for the first time**. I also ordered a **ración de raxo** and some **empanadillas**, so I ended up having three different dishes and a very filling dinner. I also had a nice little chat with the owners while I was there, which made it a lovely way to end the day.
+
+_(attach dinner photo here)_
+
+After such a filling dinner, I was definitely ready to rest after my first day back on the Camino.
+
+🛏️ Stayed at **Albergue Cotón** — full accommodation details [here](/posts/camino-frances-albergue/#day-f1).
 
 ---
