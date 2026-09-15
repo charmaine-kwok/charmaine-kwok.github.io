@@ -2015,7 +2015,7 @@ Tomorrow, I would put my backpack on again and begin the next part of the journe
 
 <a id="day-f1"></a>
 
-### F1 — Santiago de Compostela → Negreira (20.6 km)
+### Day F1 — Santiago de Compostela → Negreira (20.6 km)
 
 After a rest day in Santiago, it was time to put my backpack on again and continue walking.
 
@@ -2093,7 +2093,7 @@ After such a filling dinner, I was definitely ready to rest after my first day b
 
 <a id="day-f2"></a>
 
-### F2 — Negreira → Vilaserío (13.0 km)
+### Day F2 — Negreira → Vilaserío (13.0 km)
 
 This ended up being **one of the most memorable days of my entire Camino** — not because of the scenery or the distance, but because of the people I met along the way.
 
