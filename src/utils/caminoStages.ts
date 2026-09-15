@@ -1,7 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 
-import { calculateDistance, type Coordinate } from "./gpx";
+import { calculateDistance, simplifyCoordinates, type Coordinate } from "./gpx";
 
 export type CaminoSection = "arrival" | "frances" | "rest" | "finisterre";
 
@@ -25,6 +25,8 @@ export type CaminoStage = {
   section: CaminoSection;
 
   gpx?: string;
+
+  mapPoints?: Coordinate[];
 };
 
 type CaminoStageDefinition = {
@@ -659,9 +661,21 @@ function buildCaminoStages() {
 
     const points = loadGpxPointsFromFile(gpxFile);
 
+    /*
+     * Calculate Garmin distance from the complete,
+     * unsimplified GPX track.
+     */
     const rawGpxDistance = calculateDistance(points);
 
     rawGpxCumulative += rawGpxDistance;
+
+    /*
+     * Simplify the coordinates only for map rendering.
+     *
+     * The original points above are still used for
+     * distance calculations.
+     */
+    const mapPoints = simplifyCoordinates(points, 15);
 
     return {
       ...stage,
@@ -669,6 +683,8 @@ function buildCaminoStages() {
       gpxDistance: Number(rawGpxDistance.toFixed(1)),
 
       gpxCumulative: Number(rawGpxCumulative.toFixed(1)),
+
+      mapPoints,
     };
   });
 
@@ -689,7 +705,9 @@ export function getWalkingStages() {
       stage.from &&
       stage.to &&
       stage.gpxDistance !== undefined &&
-      stage.gpxCumulative !== undefined
+      stage.gpxCumulative !== undefined &&
+      stage.mapPoints &&
+      stage.mapPoints.length >= 2
   );
 }
 

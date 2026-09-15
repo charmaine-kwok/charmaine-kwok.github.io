@@ -72,7 +72,7 @@ const { slug = "camino-frances-journey" } = Astro.props;
 
     section: "frances" | "finisterre";
 
-    gpx: string;
+    mapPoints: Coordinate[];
   };
 
   type StageEndpoint = {
@@ -180,48 +180,6 @@ const { slug = "camino-frances-journey" } = Astro.props;
         Read ${stage.day} ↓
       </a>
     `;
-  }
-
-  /*
-   * =======================================================
-   * GPX LOADING
-   *
-   * GPX distance has already been
-   * calculated by Astro.
-   *
-   * The browser loads coordinates
-   * only to draw the route.
-   * =======================================================
-   */
-
-  async function loadGpxPoints(url: string): Promise<Coordinate[]> {
-    const response = await fetch(url);
-
-    if (!response.ok) {
-      throw new Error(`Failed to load GPX: ${url}`);
-    }
-
-    const gpxText = await response.text();
-
-    const parser = new DOMParser();
-
-    const xml = parser.parseFromString(gpxText, "application/xml");
-
-    if (xml.querySelector("parsererror")) {
-      throw new Error(`Invalid GPX XML: ${url}`);
-    }
-
-    const trackPoints = xml.querySelectorAll("trkpt");
-
-    return Array.from(trackPoints)
-      .map(point => {
-        const lat = Number(point.getAttribute("lat"));
-
-        const lon = Number(point.getAttribute("lon"));
-
-        return [lat, lon] as Coordinate;
-      })
-      .filter(([lat, lon]) => Number.isFinite(lat) && Number.isFinite(lon));
   }
 
   /*
@@ -397,109 +355,89 @@ const { slug = "camino-frances-journey" } = Astro.props;
     for (let index = 0; index < stages.length; index++) {
       const stage = stages[index];
 
-      try {
-        const points = await loadGpxPoints(stage.gpx);
+      const points = stage.mapPoints;
 
-        if (points.length < 2) {
-          continue;
-        }
-
-        allRoutePoints.push(...points);
-
-        const color = stageColors[index % stageColors.length];
-
-        const layer = L.polyline(points, {
-          renderer: routeRenderer,
-
-          color,
-
-          weight: 5,
-
-          opacity: 0.9,
-
-          interactive: false,
-
-          lineCap: "round",
-
-          lineJoin: "round",
-        }).addTo(map);
-
-        const hitLayer = L.polyline(points, {
-          renderer: routeRenderer,
-
-          color: "#000000",
-
-          weight: 22,
-
-          opacity: 0,
-
-          interactive: true,
-
-          lineCap: "round",
-
-          lineJoin: "round",
-        }).addTo(map);
-
-        const route: RouteEntry = {
-          stage,
-          layer,
-          hitLayer,
-        };
-
-        routes.push(route);
-
-        hitLayer.bindTooltip(
-          `
-            <strong>
-              ${stage.day}
-            </strong>
-
-            <br>
-
-            ${stage.from} →
-            ${stage.to}
-
-            <br>
-
-            Route:
-            ${stage.routeDistance.toFixed(1)} km
-
-            <br>
-
-            Garmin:
-            ${stage.gpxDistance.toFixed(1)} km
-          `,
-          {
-            sticky: true,
-
-            direction: "top",
-
-            opacity: 0.95,
-          }
-        );
-
-        hitLayer.on("mouseover", () => {
-          mapElement.style.cursor = "pointer";
-        });
-
-        hitLayer.on("mouseout", () => {
-          mapElement.style.cursor = "";
-        });
-
-        hitLayer.on("click", () => {
-          selectStage(route);
-        });
-
-        stageEndpoints.push({
-          stage,
-
-          start: points[0],
-
-          end: points[points.length - 1],
-        });
-      } catch (error) {
-        console.error(`Could not load ${stage.day}`, error);
+      if (!points || points.length < 2) {
+        continue;
       }
+
+      allRoutePoints.push(...points);
+
+      const color = stageColors[index % stageColors.length];
+
+      const layer = L.polyline(points, {
+        renderer: routeRenderer,
+        color,
+        weight: 5,
+        opacity: 0.9,
+        interactive: false,
+        lineCap: "round",
+        lineJoin: "round",
+      }).addTo(map);
+
+      const hitLayer = L.polyline(points, {
+        renderer: routeRenderer,
+        color: "#000000",
+        weight: 22,
+        opacity: 0,
+        interactive: true,
+        lineCap: "round",
+        lineJoin: "round",
+      }).addTo(map);
+
+      const route: RouteEntry = {
+        stage,
+        layer,
+        hitLayer,
+      };
+
+      routes.push(route);
+
+      hitLayer.bindTooltip(
+        `
+      <strong>
+        ${stage.day}
+      </strong>
+
+      <br>
+
+      ${stage.from} →
+      ${stage.to}
+
+      <br>
+
+      Route:
+      ${stage.routeDistance.toFixed(1)} km
+
+      <br>
+
+      Garmin:
+      ${stage.gpxDistance.toFixed(1)} km
+    `,
+        {
+          sticky: true,
+          direction: "top",
+          opacity: 0.95,
+        }
+      );
+
+      hitLayer.on("mouseover", () => {
+        mapElement.style.cursor = "pointer";
+      });
+
+      hitLayer.on("mouseout", () => {
+        mapElement.style.cursor = "";
+      });
+
+      hitLayer.on("click", () => {
+        selectStage(route);
+      });
+
+      stageEndpoints.push({
+        stage,
+        start: points[0],
+        end: points[points.length - 1],
+      });
     }
 
     /*
