@@ -2090,3 +2090,63 @@ After such a filling dinner, I was definitely ready to rest after my first day b
 🛏️ Stayed at **Albergue Cotón** — full accommodation details [here](/posts/camino-frances-albergue/#day-f1).
 
 ---
+
+<a id="day-f2"></a>
+
+### F2 — Negreira → Vilaserío (13.0 km)
+
+This ended up being **one of the most memorable days of my entire Camino** — not because of the scenery or the distance, but because of the people I met along the way.
+
+The morning started under a very cloudy sky, although luckily it wasn't raining yet. Before setting off, I stopped at a café in Negreira for breakfast.
+
+_(attach breakfast photo here)_
+
+After breakfast, I put my backpack on and started walking towards Fisterra.
+
+Not long after leaving Negreira, I came across a group of three Spanish pilgrims. One of them started talking to me and asked whether I was walking alone.
+
+They were **Obe, Cecilia and Paco**, from **Gran Canaria**.
+
+We started chatting and, naturally, ended up walking together.
+
+Although it wasn't raining at first, the rain from the previous day had left parts of the trail quite muddy.
+
+_(attach muddy trail photo here)_
+
+Along the way, we also passed a group of cows resting beside the trail.
+
+_(attach cows photo here)_
+
+Unfortunately, the dry weather didn't last very long. After a while, it started raining again.
+
+_(attach rain photo here)_
+
+The rain gradually became heavier and heavier, until eventually we decided that there wasn't much point in continuing.
+
+I had originally planned to walk further that day, but with the weather getting worse, I changed my plan. Obe, Cecilia and Paco were stopping in **Vilaserío**, so I decided to stay there as well and booked a room at the same accommodation.
+
+By the time we stopped, I was completely soaked.
+
+Once I got into my room, the first thing I needed to do was take a hot shower and get out of all my soaking wet clothes. I then did my laundry before joining my new Spanish friends for some warm food.
+
+_(attach warm food / lunch photo here)_
+
+It felt especially good to sit somewhere warm after spending the last part of the walk completely soaked.
+
+The rain had managed to get into more than just my clothes. Some of my belongings were wet as well, including my **Camino credential**, so I had to spread everything out to dry. My shoes were completely wet too.
+
+_(attach wet credential / drying gear / shoes photo here)_
+
+After sorting everything out, I finally had some time to rest.
+
+Later that evening, I met up with **Obe, Cecilia and Paco** again and we had dinner together.
+
+_(attach dinner together photo here)_
+
+By then, we had already spent most of the day walking, eating and hiding from the rain together. Over dinner, we decided that we would continue walking together the next morning.
+
+What had started as a very wet and unexpectedly short walking day ended up becoming one of the most memorable days of my Camino.
+
+🛏️ Stayed at **Albergue-Pensión O Rueiro** — full accommodation details [here](/posts/camino-frances-albergue/#day-f2).
+
+---
