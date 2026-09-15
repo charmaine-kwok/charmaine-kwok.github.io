@@ -50,9 +50,7 @@ let caminoBeforeHtml = "";
 let caminoAfterHtml = "";
 
 if (isCaminoPost && post) {
-  const splitPattern = isJourneyPost
-    ? /(?=## SECTION 2 — Day-by-Day Journey)/
-    : /(?=## SECTION 2 — Day-by-Day Albergue Notes)/;
+  const splitPattern = /(?=## SECTION 2\b)/;
 
   const parts = post.body.split(splitPattern);
 
