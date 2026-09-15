@@ -146,9 +146,59 @@ const layoutProps = {
     text-decoration: underline;
     text-underline-offset: 0.2em;
   }
+
+  :global([id^="day-"]) {
+    scroll-margin-top: 2rem;
+  }
 </style>
 
 <script is:inline>
+  /**
+   * Keeps the current hash target in position while
+   * images above it are still loading.
+   */
+  function restoreAnchorPosition() {
+    if (!window.location.hash) return;
+
+    const id = decodeURIComponent(window.location.hash.slice(1));
+
+    const target = document.getElementById(id);
+
+    if (!target) return;
+
+    const scrollToTarget = () => {
+      target.scrollIntoView({
+        behavior: "auto",
+        block: "start",
+      });
+    };
+
+    // Initial position after the page DOM is ready.
+    requestAnimationFrame(scrollToTarget);
+
+    // Images loading above the target can shift the page.
+    const images = Array.from(document.querySelectorAll("#article img"));
+
+    const pendingImages = images.filter(
+      image =>
+        !image.complete &&
+        image.compareDocumentPosition(target) & Node.DOCUMENT_POSITION_FOLLOWING
+    );
+
+    pendingImages.forEach(image => {
+      image.addEventListener("load", scrollToTarget, { once: true });
+
+      image.addEventListener("error", scrollToTarget, { once: true });
+    });
+
+    // Final correction after everything has loaded.
+    window.addEventListener("load", scrollToTarget, { once: true });
+  }
+
+  restoreAnchorPosition();
+
+  document.addEventListener("astro:page-load", restoreAnchorPosition);
+
   /** Create a progress indicator
    *  at the top */
   function createProgressBar() {
