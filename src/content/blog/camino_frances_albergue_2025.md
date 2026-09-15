@@ -806,7 +806,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 ---
 
-## Finisterre & Muxía Extension
+## SECTION 3 — Finisterre & Muxía Albergue Notes
 
 <a id="day-f1"></a>
 

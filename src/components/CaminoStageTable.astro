@@ -1,18 +1,40 @@
 ---
 import { getCaminoStages, getCaminoSummary } from "@utils/caminoStages";
+import { getCaminoPageForDay } from "@utils/caminoPagination";
 
 interface Props {
   showAccommodation?: boolean;
   showGarmin?: boolean;
+  slug?: string;
+  paginated?: boolean;
 }
 
-const { showAccommodation = false, showGarmin = true } = Astro.props;
+const {
+  showAccommodation = false,
+  showGarmin = true,
+  slug = "camino-frances-journey",
+  paginated = false,
+} = Astro.props;
 
 const stages = getCaminoStages();
 const summary = getCaminoSummary();
 
 function formatKm(value: number | undefined) {
   return value === undefined ? "—" : value.toFixed(1);
+}
+
+function getStageHref(day: string, id: string): string {
+  if (!paginated) {
+    return `#${id}`;
+  }
+
+  const page = getCaminoPageForDay(day);
+
+  if (page === 1) {
+    return `/posts/${slug}/#${id}`;
+  }
+
+  return `/posts/${slug}/page/${page}/#${id}`;
 }
 ---
 
@@ -73,7 +95,7 @@ function formatKm(value: number | undefined) {
               ]}
             >
               <td class="day-cell">
-                <a href={`#${stage.id}`}>{stage.day}</a>
+                <a href={getStageHref(stage.day, stage.id)}>{stage.day}</a>
               </td>
 
               <td class="route-cell">{stage.route}</td>

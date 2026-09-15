@@ -1,0 +1,80 @@
+---
+import { type CollectionEntry, getCollection } from "astro:content";
+
+import PostDetails from "@layouts/PostDetails.astro";
+
+import { getCaminoPages } from "@utils/caminoPagination";
+
+import { createMarkdownProcessor } from "@astrojs/markdown-remark";
+
+import CaminoPagination from "@components/CaminoPagination.astro";
+
+export interface Props {
+  post: CollectionEntry<"blog">;
+  page: number;
+  totalPages: number;
+  pageLabel: string;
+}
+
+export async function getStaticPaths() {
+  const posts = await getCollection("blog", ({ data }) => !data.draft);
+
+  const caminoPosts = posts.filter(
+    post =>
+      post.slug === "camino-frances-journey" ||
+      post.slug === "camino-frances-albergue"
+  );
+
+  return caminoPosts.flatMap(post => {
+    const pages = getCaminoPages(post.body);
+
+    // Page 1 uses /posts/[slug]/
+    // so only generate /page/2/ through /page/5/.
+    return pages
+      .filter(page => page.page > 1)
+      .map(page => ({
+        params: {
+          slug: post.slug,
+          page: String(page.page),
+        },
+        props: {
+          post,
+          page: page.page,
+          totalPages: pages.length,
+          pageLabel: page.label,
+        },
+      }));
+  });
+}
+
+const { post, page, totalPages, pageLabel } = Astro.props;
+
+const pages = getCaminoPages(post.body);
+
+const currentPage = pages.find(item => item.page === page);
+
+if (!currentPage) {
+  throw new Error(`Camino page ${page} not found`);
+}
+
+const processor = await createMarkdownProcessor();
+
+const rendered = await processor.render(currentPage.markdown);
+
+const pageHtml = rendered.code;
+---
+
+<PostDetails
+  post={post}
+  beforeHtml={pageHtml}
+  titleHref={`/posts/${post.slug}/`}
+>
+  <div slot="between-content">
+    <CaminoPagination
+      currentPage={page}
+      totalPages={totalPages}
+      slug={post.slug}
+      currentLabel={pageLabel}
+    />
+  </div>
+</PostDetails>
