@@ -263,15 +263,21 @@ const layoutProps = {
   /** Scrolls the document to the top when
    * the "Back to Top" button is clicked. */
   function backToTop() {
-    document.querySelector("#back-to-top")?.addEventListener("click", () => {
+    const button = document.querySelector("#back-to-top");
+
+    if (!button) return;
+
+    button.onclick = () => {
       window.scrollTo({
         top: 0,
         behavior: "smooth",
       });
-    });
+    };
   }
+
   backToTop();
 
+  document.addEventListener("astro:page-load", backToTop);
   function imageLightbox() {
     const lightbox = document.getElementById("lightbox");
     const lightboxImage = document.getElementById("lightbox-image");
