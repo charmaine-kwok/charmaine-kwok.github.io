@@ -6,12 +6,18 @@ import { getWalkingStages, getCaminoSummary } from "@utils/caminoStages";
 const availableStages = getWalkingStages();
 
 const summary = getCaminoSummary();
+
+interface Props {
+  slug?: string;
+}
+
+const { slug = "camino-frances-journey" } = Astro.props;
 ---
 
 <div class="camino-map-wrapper">
   <div class="map-toolbar">
     <div>
-      <strong> My Camino Route </strong>
+      <strong>My Camino Route</strong>
 
       <span>
         {summary.totalRouteDistance.toFixed(1)}
@@ -34,13 +40,14 @@ const summary = getCaminoSummary();
     data-route-distance={summary.totalRouteDistance.toFixed(1)}
     data-gpx-distance={summary.totalGpxDistance.toFixed(1)}
     data-walking-days={summary.walkingDays}
+    data-slug={slug}
   >
   </div>
 
   <div id="camino-stage-info" class="stage-info">
-    <strong> Select a walking stage </strong>
+    <strong>Select a walking stage</strong>
 
-    <span> Hover over a route to identify it, then click to zoom in. </span>
+    <span>Hover over a route to identify it, then click to zoom in.</span>
   </div>
 </div>
 
@@ -89,6 +96,50 @@ const summary = getCaminoSummary();
 
   /*
    * =======================================================
+   * PAGINATION
+   * =======================================================
+   */
+
+  function getPageForDay(day: string): number {
+    if (/^F\d+$/i.test(day)) {
+      return 5;
+    }
+
+    const dayNumber = Number(day);
+
+    if (Number.isNaN(dayNumber)) {
+      return 1;
+    }
+
+    if (dayNumber >= 31) {
+      return 4;
+    }
+
+    if (dayNumber >= 21) {
+      return 3;
+    }
+
+    if (dayNumber >= 11) {
+      return 2;
+    }
+
+    return 1;
+  }
+
+  function getStageHref(stage: Stage): string {
+    const slug = mapElement?.dataset.slug ?? "camino-frances-journey";
+
+    const page = getPageForDay(stage.day);
+
+    if (page === 1) {
+      return `/posts/${slug}/#${stage.id}`;
+    }
+
+    return `/posts/${slug}/page/${page}/#${stage.id}`;
+  }
+
+  /*
+   * =======================================================
    * STAGE INFORMATION CARD
    * =======================================================
    */
@@ -125,7 +176,7 @@ const summary = getCaminoSummary();
         ${stage.gpxCumulative.toFixed(1)} km
       </span>
 
-      <a href="#${stage.id}">
+      <a href="${getStageHref(stage)}">
         Read ${stage.day} ↓
       </a>
     `;
