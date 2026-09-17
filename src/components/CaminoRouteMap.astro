@@ -87,13 +87,6 @@ const { slug = "camino-frances-journey" } = Astro.props;
     hitLayer: L.Polyline;
   };
 
-  const mapElement = document.querySelector<HTMLElement>("#camino-map");
-
-  const infoElement = document.querySelector<HTMLElement>("#camino-stage-info");
-
-  const resetButton =
-    document.querySelector<HTMLButtonElement>("#camino-reset-map");
-
   /*
    * =======================================================
    * PAGINATION
@@ -124,62 +117,6 @@ const { slug = "camino-frances-journey" } = Astro.props;
     }
 
     return 1;
-  }
-
-  function getStageHref(stage: Stage): string {
-    const slug = mapElement?.dataset.slug ?? "camino-frances-journey";
-
-    const page = getPageForDay(stage.day);
-
-    if (page === 1) {
-      return `/posts/${slug}/#${stage.id}`;
-    }
-
-    return `/posts/${slug}/page/${page}/#${stage.id}`;
-  }
-
-  /*
-   * =======================================================
-   * STAGE INFORMATION CARD
-   * =======================================================
-   */
-
-  function showStageInfo(stage: Stage) {
-    if (!infoElement) {
-      return;
-    }
-
-    infoElement.innerHTML = `
-      <div class="stage-info-heading">
-        <span class="stage-badge">
-          ${stage.day}
-        </span>
-
-        <strong>
-          ${stage.from} → ${stage.to}
-        </strong>
-      </div>
-
-      <span>
-        Route:
-        ${stage.routeDistance.toFixed(1)} km
-        ·
-        Garmin:
-        ${stage.gpxDistance.toFixed(1)} km
-      </span>
-
-      <span>
-        Route cumulative:
-        ${stage.routeCumulative.toFixed(1)} km
-        ·
-        Garmin cumulative:
-        ${stage.gpxCumulative.toFixed(1)} km
-      </span>
-
-      <a href="${getStageHref(stage)}">
-        Read ${stage.day} ↓
-      </a>
-    `;
   }
 
   /*
@@ -276,11 +213,48 @@ const { slug = "camino-frances-journey" } = Astro.props;
 
   /*
    * =======================================================
-   * MAP
+   * MAP INITIALIZATION
    * =======================================================
    */
 
-  if (mapElement) {
+  function initializeCaminoMap() {
+    /*
+     * Query the current DOM every time this function runs.
+     *
+     * This is important because Astro client-side
+     * navigation replaces the old page DOM.
+     */
+    const mapElement = document.querySelector<HTMLElement>("#camino-map");
+
+    const infoElement =
+      document.querySelector<HTMLElement>("#camino-stage-info");
+
+    const resetButton =
+      document.querySelector<HTMLButtonElement>("#camino-reset-map");
+
+    /*
+     * This page may not contain the Camino map.
+     */
+    if (!mapElement) {
+      return;
+    }
+
+    /*
+     * Prevent Leaflet from initializing the same
+     * map element more than once.
+     */
+    if (mapElement.dataset.mapInitialized === "true") {
+      return;
+    }
+
+    mapElement.dataset.mapInitialized = "true";
+
+    /*
+     * =====================================================
+     * STAGE DATA
+     * =====================================================
+     */
+
     const stages: Stage[] = JSON.parse(mapElement.dataset.stages ?? "[]");
 
     const routeDistance = mapElement.dataset.routeDistance ?? "0.0";
@@ -288,6 +262,74 @@ const { slug = "camino-frances-journey" } = Astro.props;
     const gpxDistance = mapElement.dataset.gpxDistance ?? "0.0";
 
     const walkingDays = mapElement.dataset.walkingDays ?? "0";
+
+    /*
+     * =====================================================
+     * STAGE LINKS
+     * =====================================================
+     */
+
+    function getStageHref(stage: Stage): string {
+      const slug = mapElement.dataset.slug ?? "camino-frances-journey";
+
+      const page = getPageForDay(stage.day);
+
+      if (page === 1) {
+        return `/posts/${slug}/#${stage.id}`;
+      }
+
+      return `/posts/${slug}/page/${page}/#${stage.id}`;
+    }
+
+    /*
+     * =====================================================
+     * STAGE INFORMATION CARD
+     * =====================================================
+     */
+
+    function showStageInfo(stage: Stage) {
+      if (!infoElement) {
+        return;
+      }
+
+      infoElement.innerHTML = `
+        <div class="stage-info-heading">
+          <span class="stage-badge">
+            ${stage.day}
+          </span>
+
+          <strong>
+            ${stage.from} → ${stage.to}
+          </strong>
+        </div>
+
+        <span>
+          Route:
+          ${stage.routeDistance.toFixed(1)} km
+          ·
+          Garmin:
+          ${stage.gpxDistance.toFixed(1)} km
+        </span>
+
+        <span>
+          Route cumulative:
+          ${stage.routeCumulative.toFixed(1)} km
+          ·
+          Garmin cumulative:
+          ${stage.gpxCumulative.toFixed(1)} km
+        </span>
+
+        <a href="${getStageHref(stage)}">
+          Read ${stage.day} ↓
+        </a>
+      `;
+    }
+
+    /*
+     * =====================================================
+     * CREATE MAP
+     * =====================================================
+     */
 
     const map = L.map(mapElement, {
       scrollWheelZoom: true,
@@ -313,6 +355,12 @@ const { slug = "camino-frances-journey" } = Astro.props;
     const routes: RouteEntry[] = [];
 
     let selectedRoute: RouteEntry | null = null;
+
+    /*
+     * =====================================================
+     * STAGE SELECTION
+     * =====================================================
+     */
 
     function resetSelectedStyle() {
       if (!selectedRoute) {
@@ -355,6 +403,13 @@ const { slug = "camino-frances-journey" } = Astro.props;
     for (let index = 0; index < stages.length; index++) {
       const stage = stages[index];
 
+      /*
+       * mapPoints were generated from the GPX files
+       * during Astro build/server rendering.
+       *
+       * The browser therefore does not need to
+       * download or parse the original GPX files.
+       */
       const points = stage.mapPoints;
 
       if (!points || points.length < 2) {
@@ -365,23 +420,42 @@ const { slug = "camino-frances-journey" } = Astro.props;
 
       const color = stageColors[index % stageColors.length];
 
+      /*
+       * Visible route.
+       */
       const layer = L.polyline(points, {
         renderer: routeRenderer,
+
         color,
+
         weight: 5,
+
         opacity: 0.9,
+
         interactive: false,
+
         lineCap: "round",
+
         lineJoin: "round",
       }).addTo(map);
 
+      /*
+       * Invisible wider route used for mouse
+       * interaction.
+       */
       const hitLayer = L.polyline(points, {
         renderer: routeRenderer,
+
         color: "#000000",
+
         weight: 22,
+
         opacity: 0,
+
         interactive: true,
+
         lineCap: "round",
+
         lineJoin: "round",
       }).addTo(map);
 
@@ -395,28 +469,30 @@ const { slug = "camino-frances-journey" } = Astro.props;
 
       hitLayer.bindTooltip(
         `
-      <strong>
-        ${stage.day}
-      </strong>
+          <strong>
+            ${stage.day}
+          </strong>
 
-      <br>
+          <br>
 
-      ${stage.from} →
-      ${stage.to}
+          ${stage.from} →
+          ${stage.to}
 
-      <br>
+          <br>
 
-      Route:
-      ${stage.routeDistance.toFixed(1)} km
+          Route:
+          ${stage.routeDistance.toFixed(1)} km
 
-      <br>
+          <br>
 
-      Garmin:
-      ${stage.gpxDistance.toFixed(1)} km
-    `,
+          Garmin:
+          ${stage.gpxDistance.toFixed(1)} km
+        `,
         {
           sticky: true,
+
           direction: "top",
+
           opacity: 0.95,
         }
       );
@@ -435,7 +511,9 @@ const { slug = "camino-frances-journey" } = Astro.props;
 
       stageEndpoints.push({
         stage,
+
         start: points[0],
+
         end: points[points.length - 1],
       });
     }
@@ -457,6 +535,9 @@ const { slug = "camino-frances-journey" } = Astro.props;
         }
       }).addTo(map);
 
+      /*
+       * Add stop markers between stages.
+       */
       for (let index = 0; index < stageEndpoints.length - 1; index++) {
         const current = stageEndpoints[index];
 
@@ -529,10 +610,51 @@ const { slug = "camino-frances-journey" } = Astro.props;
       }
     }
 
+    /*
+     * Initial map view.
+     */
     showFullRoute();
+
+    /*
+     * Leaflet sometimes initializes while Astro's
+     * page transition is still completing.
+     *
+     * Recalculate the map dimensions after the new
+     * page has been painted.
+     */
+    requestAnimationFrame(() => {
+      map.invalidateSize();
+
+      showFullRoute();
+    });
 
     resetButton?.addEventListener("click", showFullRoute);
   }
+
+  /*
+   * =======================================================
+   * ASTRO PAGE LIFECYCLE
+   * =======================================================
+   */
+
+  /*
+   * Normal/direct page load.
+   */
+  initializeCaminoMap();
+
+  /*
+   * Astro client-side navigation.
+   *
+   * For example:
+   *
+   * /page/3/
+   *      ↓ click post title
+   * /camino-frances-journey/
+   *
+   * The DOM has been replaced, so query and
+   * initialize the new map element.
+   */
+  document.addEventListener("astro:page-load", initializeCaminoMap);
 </script>
 
 <style>
