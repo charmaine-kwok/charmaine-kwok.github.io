@@ -249,6 +249,7 @@ const { slug = "camino-frances-journey" } = Astro.props;
 
     mapElement.dataset.mapInitialized = "true";
 
+    const slug = mapElement.dataset.slug ?? "camino-frances-journey";
     /*
      * =====================================================
      * STAGE DATA
@@ -270,8 +271,6 @@ const { slug = "camino-frances-journey" } = Astro.props;
      */
 
     function getStageHref(stage: Stage): string {
-      const slug = mapElement.dataset.slug ?? "camino-frances-journey";
-
       const page = getPageForDay(stage.day);
 
       if (page === 1) {
