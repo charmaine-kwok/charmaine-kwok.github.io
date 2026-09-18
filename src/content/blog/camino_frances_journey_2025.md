@@ -2150,3 +2150,59 @@ What had started as a very wet and unexpectedly short walking day ended up becom
 🛏️ Stayed at **Albergue-Pensión O Rueiro** — full accommodation details [here](/posts/camino-frances-albergue/#day-f2).
 
 ---
+
+<a id="day-f3"></a>
+
+### Day F3 — Vilaserío → Lago (16.0 km)
+
+Today started with breakfast at the albergue café with my Spanish friends, Obe, Cecilia and Paco.
+
+_(attach breakfast photo here)_
+
+They started walking first while I was still packing up my things. Once I was finally ready, I set off and eventually caught up with them along the way.
+
+At first, the weather wasn't too bad. There were plenty of clouds, but luckily, there was no rain.
+
+_(attach walking photo here)_
+
+Unfortunately, that didn't last very long. After walking for a while, it suddenly started raining quite heavily. The rain became bad enough that we decided to stop at a café for a break, warm ourselves up with some hot coffee, and wait for the weather to calm down a little.
+
+_(attach café / hot coffee photo here)_
+
+Our shoes were already getting soaked, so we also tried to dry them off as much as we could while we were inside.
+
+_(attach drying shoes photo here)_
+
+After the break, we had no choice but to put our wet shoes back on and continue walking in the rain.
+
+_(attach walking in the rain photo here)_
+
+And as if the rain wasn't enough, it started getting windy too! 🌧️💨 Walking in the rain and wind definitely made the day feel a lot tougher.
+
+Along the way, we also came across a dead cat by the road, which was really sad to see...
+
+Eventually, we reached **Albergue Monte Aro**, where we stopped and had lunch together.
+
+_(attach lunch photo here)_
+
+This was where we had to separate for the day. I had decided to stay here for the night, while Obe, Cecilia and Paco continued walking to the accommodation they had already booked further ahead.
+
+But luckily, it wasn't really goodbye — we planned to meet up again on the way to Finisterre.
+
+After checking in, the first thing I needed to do was take a shower and get out of all my wet clothes. Once again, quite a few of my things were soaked from walking in the rain, so I had to spread everything out and try to dry them.
+
+My shoes were especially wet, so I stuffed them with newspaper to help absorb the moisture.
+
+_(attach wet shoes with newspaper photo here)_
+
+Hopefully they would actually be dry enough to wear tomorrow!
+
+After getting everything sorted, I finally had some time to rest and recover from another very wet day on the Camino.
+
+Later, I had dinner at the albergue.
+
+_(attach dinner photo here)_
+
+After dinner, I headed back to rest for the night, hoping that by tomorrow morning both the weather **and my shoes** would finally be a little drier.
+
+---
