@@ -28,7 +28,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-0"></a>
 
-### Day 0 — Arrival in Saint-Jean-Pied-de-Port (Arrival Day)
+### Day 0 — Arrival in Saint-Jean-Pied-de-Port (Arrival Day) — 13 September 2025
 
 ![camino-frances-day00-bed.jpg](https://s2.loli.net/2025/12/17/4QYxSdDo8MgpqJv.jpg)
 
@@ -54,7 +54,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-1"></a>
 
-### Day 1 — SJPP → Roncesvalles (24.2 km)
+### Day 1 — SJPP → Roncesvalles (24.2 km) — 14 September 2025
 
 ![camino-frances-day01-exterior.jpg](https://s2.loli.net/2025/12/17/jfOrLFwPqX7ocJR.jpg)
 
@@ -76,7 +76,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-2"></a>
 
-### Day 2 — Roncesvalles → Zubiri (21.4 km)
+### Day 2 — Roncesvalles → Zubiri (21.4 km) — 15 September 2025
 
 ![camino-frances-day02-exterior.jpg](https://s2.loli.net/2025/12/17/FPnNK5RBSfCtUzh.jpg)
 
@@ -98,7 +98,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-3"></a>
 
-### Day 3 — Zubiri → Pamplona (20.4 km)
+### Day 3 — Zubiri → Pamplona (20.4 km) — 16 September 2025
 
 ![camino-frances-day03-bed.jpg](https://s2.loli.net/2025/12/17/ntIHqCv2AZ1mTMu.jpg)
 
@@ -116,7 +116,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-4"></a>
 
-### Day 4 — Pamplona → Puente la Reina (23.9 km)
+### Day 4 — Pamplona → Puente la Reina (23.9 km) — 17 September 2025
 
 **Accommodation:** Albergue Estrella Guía
 
@@ -132,7 +132,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-5"></a>
 
-### Day 5 — Puente la Reina → Estella (21.6 km)
+### Day 5 — Puente la Reina → Estella (21.6 km) — 18 September 2025
 
 ![camino-frances-day05-bed.jpg](https://s2.loli.net/2025/12/17/EtipNPgmTUvL5fw.jpg)
 
@@ -150,7 +150,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-6"></a>
 
-### Day 6 — Estella → Los Arcos (21.0 km)
+### Day 6 — Estella → Los Arcos (21.0 km) — 19 September 2025
 
 ![camino-frances-day06-bed.jpg](https://s2.loli.net/2025/12/17/cNDS2tAUwQWxusC.jpg)
 
@@ -170,7 +170,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-7"></a>
 
-### Day 7 — Los Arcos → Logroño (28.0 km)
+### Day 7 — Los Arcos → Logroño (28.0 km) — 20 September 2025
 
 ![camino-frances-day07-bed.jpg](https://s2.loli.net/2025/12/17/WLT8Rp5O6SmPDej.jpg)
 
@@ -188,7 +188,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-8"></a>
 
-### Day 8 — Logroño → Nájera (29.0 km)
+### Day 8 — Logroño → Nájera (29.0 km) — 21 September 2025
 
 ![camino-frances-day08-bed.jpg](https://s2.loli.net/2025/12/17/Xk2GMBSHuPxA1Q6.jpg)
 
@@ -206,7 +206,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-9"></a>
 
-### Day 9 — Nájera → Redecilla del Camino (31.1 km)
+### Day 9 — Nájera → Redecilla del Camino (31.1 km) — 22 September 2025
 
 ![camino-frances-day09-bed.jpg](https://s2.loli.net/2025/12/17/OlTWAXbphdJ29UH.jpg)
 
@@ -230,7 +230,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-10"></a>
 
-### Day 10 — Redecilla del Camino → Villafranca Montes de Oca (23.5 km)
+### Day 10 — Redecilla del Camino → Villafranca Montes de Oca (23.5 km) — 23 September 2025
 
 ![camino-frances-day10-exterior.jpg](https://s2.loli.net/2025/12/17/92SozZKUu7F6lmw.jpg)
 
@@ -250,7 +250,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-11"></a>
 
-### Day 11 — Villafranca Montes de Oca → Orbaneja Riopico (26.3 km)
+### Day 11 — Villafranca Montes de Oca → Orbaneja Riopico (26.3 km) — 24 September 2025
 
 ![camino-frances-day11-exterior.jpg](https://s2.loli.net/2025/12/17/PoUuTASdIK7qhJ5.jpg)
 
@@ -274,7 +274,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-12"></a>
 
-### Day 12 — Orbaneja Riopico → Rabé de las Calzadas (24.2 km)
+### Day 12 — Orbaneja Riopico → Rabé de las Calzadas (24.2 km) — 25 September 2025
 
 ![camino-frances-day12-bed.jpg](https://s2.loli.net/2025/12/17/VJdpUhsi1Dgv4ox.jpg)
 
@@ -300,7 +300,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-13"></a>
 
-### Day 13 — Rabé de las Calzadas → Castrojeriz (27.5 km)
+### Day 13 — Rabé de las Calzadas → Castrojeriz (27.5 km) — 26 September 2025
 
 ![camino-frances-day13-bed.jpg](https://s2.loli.net/2025/12/17/3EDsxMrPqg9G4Zo.jpg)
 
@@ -324,7 +324,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-14"></a>
 
-### Day 14 — Castrojeriz → Frómista (24.7 km)
+### Day 14 — Castrojeriz → Frómista (24.7 km) — 27 September 2025
 
 ![camino-frances-day14-bed.jpg](https://s2.loli.net/2025/12/17/kS4MKZLE7nX3VWR.jpg)
 
@@ -342,7 +342,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-15"></a>
 
-### Day 15 — Frómista → Carrión de los Condes (18.8 km)
+### Day 15 — Frómista → Carrión de los Condes (18.8 km) — 28 September 2025
 
 ![camino-frances-day15-bed.jpg](https://s2.loli.net/2025/12/17/LJHx9jmGurN8ywW.jpg)
 
@@ -360,7 +360,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-16"></a>
 
-### Day 16 — Carrión de los Condes → Ledigos (23.4 km)
+### Day 16 — Carrión de los Condes → Ledigos (23.4 km) — 29 September 2025
 
 ![camino-frances-day16-bed1.jpg](https://s2.loli.net/2025/12/17/RWLogHlsG2AuMSJ.jpg)
 
@@ -388,7 +388,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-17"></a>
 
-### Day 17 — Ledigos → Calzada del Coto (21.0 km)
+### Day 17 — Ledigos → Calzada del Coto (21.0 km) — 30 September 2025
 
 ![camino-frances-day17-exterior.jpg](https://s2.loli.net/2025/12/17/9DsZqiyduPR4mj6.jpg)
 
@@ -408,7 +408,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-18"></a>
 
-### Day 18 — Calzada del Coto → Villamarco (23.4 km)
+### Day 18 — Calzada del Coto → Villamarco (23.4 km) — 1 October 2025
 
 ![camino-frances-day18-exterior.jpg](https://s2.loli.net/2025/12/17/8jHfBmUqOebZtR6.jpg)
 
@@ -430,7 +430,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-19"></a>
 
-### Day 19 — Villamarco → Arcahueja (23.0 km)
+### Day 19 — Villamarco → Arcahueja (23.0 km) — 2 October 2025
 
 ![camino-frances-day19-bed.jpg](https://s2.loli.net/2025/12/17/jxWu1iKcA3dMp5n.jpg)
 
@@ -448,7 +448,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-20"></a>
 
-### Day 20 — Arcahueja → Oncina de la Valdoncina (19.1 km)
+### Day 20 — Arcahueja → Oncina de la Valdoncina (19.1 km) — 3 October 2025
 
 ![camino-frances-day20-bed.jpg](https://s2.loli.net/2025/12/17/yCZinFvBq1Kdj9Y.jpg)
 
@@ -472,7 +472,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-21"></a>
 
-### Day 21 — Oncina de la Valdoncina → Hospital de Órbigo (25.0 km)
+### Day 21 — Oncina de la Valdoncina → Hospital de Órbigo (25.0 km) — 4 October 2025
 
 ![camino-frances-day21-bed.jpg](https://s2.loli.net/2025/12/17/dBqSroZ69kHJlEm.jpg)
 
@@ -490,7 +490,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-22"></a>
 
-### Day 22 — Hospital de Órbigo → Astorga (16.5 km)
+### Day 22 — Hospital de Órbigo → Astorga (16.5 km) — 5 October 2025
 
 ![camino-frances-day22-bed.jpg](https://s2.loli.net/2025/12/17/L1CHolFrqWt4pgY.jpg)
 
@@ -510,7 +510,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-23"></a>
 
-### Day 23 — Astorga → Rabanal del Camino (20.2 km)
+### Day 23 — Astorga → Rabanal del Camino (20.2 km) — 6 October 2025
 
 ![camino-frances-day23-exterior.jpg](https://s2.loli.net/2025/12/17/MhmjwHI3Nc67qQf.jpg)
 
@@ -532,7 +532,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-24"></a>
 
-### Day 24 — Rabanal del Camino → Molinaseca (24.7 km)
+### Day 24 — Rabanal del Camino → Molinaseca (24.7 km) — 7 October 2025
 
 ![camino-frances-day24-exterior.jpg](https://s2.loli.net/2025/12/17/1Hn8sCAlkmOWZ3h.jpg)
 
@@ -556,7 +556,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-25"></a>
 
-### Day 25 — Molinaseca → Valtuille de Arriba (26.1 km)
+### Day 25 — Molinaseca → Valtuille de Arriba (26.1 km) — 8 October 2025
 
 ![camino-frances-day25-bed.jpg](https://s2.loli.net/2025/12/17/ugOD7KbSRqa1MUi.jpg)
 
@@ -576,7 +576,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-26"></a>
 
-### Day 26 — Valtuille de Arriba → Vega de Valcarce (21.1 km)
+### Day 26 — Valtuille de Arriba → Vega de Valcarce (21.1 km) — 9 October 2025
 
 ![camino-frances-day26-bed.jpg](https://s2.loli.net/2025/12/17/9ndCQtK2japXWOF.jpg)
 
@@ -594,7 +594,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-27"></a>
 
-### Day 27 — Vega de Valcarce → Fonfría (23.1 km)
+### Day 27 — Vega de Valcarce → Fonfría (23.1 km) — 10 October 2025
 
 ![camino-frances-day27-exterior.jpg](https://s2.loli.net/2025/12/17/2b8RCA9enruFwPQ.jpg)
 
@@ -630,7 +630,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-28"></a>
 
-### Day 28 — Fonfría → Samos (19.2 km)
+### Day 28 — Fonfría → Samos (19.2 km) — 11 October 2025
 
 ![camino-frances-day28-exterior.jpg](https://s2.loli.net/2025/12/17/UAEsIrPQ4F5OSvb.jpg)
 
@@ -650,7 +650,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-29"></a>
 
-### Day 29 — Samos → Vilei / Barbadelo (19.0 km)
+### Day 29 — Samos → Vilei / Barbadelo (19.0 km) — 12 October 2025
 
 ![camino-frances-day29-exterior.jpg](https://s2.loli.net/2025/12/17/r4HUtB7I8pKPFYz.jpg)
 
@@ -678,7 +678,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-30"></a>
 
-### Day 30 — Vilei → A Pena (Paradela) (10.0 km)
+### Day 30 — Vilei → A Pena (Paradela) (10.0 km) — 13 October 2025
 
 ![camino-frances-day30-exterior.jpg](https://s2.loli.net/2025/12/17/GThD6bmupIie1vo.jpg)
 
@@ -704,7 +704,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-31"></a>
 
-### Day 31 — A Pena (Paradela) → Airexe (25.3 km)
+### Day 31 — A Pena (Paradela) → Airexe (25.3 km) — 14 October 2025
 
 ![camino-frances-day31-bed.jpg](https://s2.loli.net/2025/12/19/vxM8sQRTH2DkaAE.jpg)
 
@@ -726,7 +726,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-32"></a>
 
-### Day 32 — Airexe → Melide (22.1 km)
+### Day 32 — Airexe → Melide (22.1 km) — 15 October 2025
 
 ![camino-frances-day32-bed.jpg](https://s2.loli.net/2025/12/19/Id34TkgVK5NCuGy.jpg)
 
@@ -748,7 +748,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-33"></a>
 
-### Day 33 — Melide → A Calle de Ferreiros (22.0 km)
+### Day 33 — Melide → A Calle de Ferreiros (22.0 km) — 16 October 2025
 
 ![camino-frances-day33-bed.jpg](https://s2.loli.net/2025/12/19/zZAwMmlOFyrfQdg.jpg)
 
@@ -768,7 +768,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-34"></a>
 
-### Day 34 — A Calle de Ferreiros → Lavacolla (20.0 km)
+### Day 34 — A Calle de Ferreiros → Lavacolla (20.0 km) — 17 October 2025
 
 ![camino-frances-day34-bed.jpg](https://s2.loli.net/2025/12/19/dtsUcorqfm6pYuv.jpg)
 
@@ -788,9 +788,9 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-36"></a>
 
-### Day 35 — Lavacolla → Santiago de Compostela (9.9 km)
+### Day 35 — Lavacolla → Santiago de Compostela (9.9 km) — 18 October 2025
 
-### Day 36 — Santiago de Compostela (Rest Day)
+### Day 36 — Santiago de Compostela (Rest Day) — 19 October 2025
 
 ![camino-frances-day35-bed.jpg](https://s2.loli.net/2025/12/19/5NBxkVdhvAX3sKL.jpg)
 
@@ -810,7 +810,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-f1"></a>
 
-### Day F1 — Santiago de Compostela → Negreira (20.6 km)
+### Day F1 — Santiago de Compostela → Negreira (20.6 km) — 20 October 2025
 
 **Accommodation:** Albergue Cotón
 
@@ -826,7 +826,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-f2"></a>
 
-### Day F2 — Negreira → Vilaserío (13.0 km)
+### Day F2 — Negreira → Vilaserío (13.0 km) — 21 October 2025
 
 ![camino-frances-dayf2-bed.jpg](https://s2.loli.net/2025/12/19/8TwKb2oduyS3JFM.jpg)
 
@@ -858,7 +858,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-f3"></a>
 
-### Day F3 — Vilaserío → Lago (16.0 km)
+### Day F3 — Vilaserío → Lago (16.0 km) — 22 October 2025
 
 ![camino-frances-dayf3-exterior.jpg](https://s2.loli.net/2025/12/19/ywc9ktZW7dSgbmV.jpg)
 
@@ -890,7 +890,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-f4"></a>
 
-### Day F4 — Lago → Cee (25.6 km)
+### Day F4 — Lago → Cee (25.6 km) — 23 October 2025
 
 ![camino-frances-dayf4-bed.jpg](https://s2.loli.net/2025/12/19/gQ7VuU6wMTqFhKx.jpg)
 
@@ -908,7 +908,7 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-f5"></a>
 
-### Day F5 — Cee → Fisterra (12.9 km)
+### Day F5 — Cee → Fisterra (12.9 km) — 24 October 2025
 
 **Accommodation:** Albergue-Pensión Finistellae
 
@@ -926,9 +926,9 @@ This page records every stage I walked, including distances, accommodations, pri
 
 <a id="day-f7"></a>
 
-### Day F6 — Fisterra → Muxía (27.8 km)
+### Day F6 — Fisterra → Muxía (27.8 km) — 25 October 2025
 
-### Day F7 — Muxía (Rest Day)
+### Day F7 — Muxía (Rest Day) — 26 October 2025
 
 ![camino-frances-dayf6-bed.jpg](https://s2.loli.net/2025/12/19/9TYNmXSrcIJKuAR.jpg)
 

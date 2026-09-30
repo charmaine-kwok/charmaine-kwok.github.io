@@ -38,7 +38,7 @@ See the Camino food diary here →
 
 <a id="day-0"></a>
 
-### Day 0 — Arrival in Saint-Jean-Pied-de-Port
+### Day 0 — Arrival in Saint-Jean-Pied-de-Port — 13 September 2025
 
 ![camino-frances-journey-day00-sjpp1.jpg](https://s2.loli.net/2025/12/19/67uUmzHWEeNVF2I.jpg)
 
@@ -54,7 +54,7 @@ I arrived in Saint-Jean-Pied-de-Port in the afternoon and spent the day settling
 
 <a id="day-1"></a>
 
-### Day 1 — SJPP → Roncesvalles (24.2 km)
+### Day 1 — SJPP → Roncesvalles (24.2 km) — 14 September 2025
 
 I started my Camino early in the morning, knowing that the first day is often described as one of the hardest due to the long uphill climb over the Pyrenees. Before setting off, I met a group of Malaysian guys and even spoke a bit of Cantonese with them.
 
@@ -82,7 +82,7 @@ In the early morning, everyone was woken up by loud choir music at around **6 a.
 
 <a id="day-2"></a>
 
-### Day 2 — Roncesvalles → Zubiri (21.4 km)
+### Day 2 — Roncesvalles → Zubiri (21.4 km) — 15 September 2025
 
 After the pleasant weather on Day 1, I thought Day 2 would be just as comfortable — and in the beginning, it was. I started walking quite early, around 7–8 a.m., before the sun was fully out. It wasn’t too cold, and the path felt calm and gentle. The terrain was relatively flat at first, which made the morning walk feel relaxed and steady.
 
@@ -108,7 +108,7 @@ After such a physically demanding day, sitting down to eat and talk with people 
 
 <a id="day-3"></a>
 
-### Day 3 — Zubiri → Pamplona (20.4 km)
+### Day 3 — Zubiri → Pamplona (20.4 km) — 16 September 2025
 
 Even though the distance wasn’t very long, Day 3 felt tough. Early September was still very hot, and walking under the strong sun made the stage much more tiring than expected. With little shade along the way, the heat slowly drained my energy, kilometre by kilometre.
 
@@ -132,7 +132,7 @@ In the evening, I had a few good and tasty tapas for dinner.
 
 <a id="day-4"></a>
 
-### Day 4 — Pamplona → Puente la Reina (23.9 km)
+### Day 4 — Pamplona → Puente la Reina (23.9 km) — 17 September 2025
 
 With both uphill sections and strong heat, I knew it would be another physically demanding day. Right from the start, there was very little shade, and we walked directly under the sun for long stretches. The heat and bright sunlight made the climb feel even tougher.
 
@@ -160,7 +160,7 @@ After dinner, I walked a bit around Puente la Reina and headed toward the famous
 
 <a id="day-5"></a>
 
-### Day 5 — Puente la Reina → Estella (21.6 km)
+### Day 5 — Puente la Reina → Estella (21.6 km) — 18 September 2025
 
 To avoid the heat in the middle of the day, I started walking **very early**, around **6:45 a.m.**, when the sun wasn’t out yet and the air was still cool.
 
@@ -185,7 +185,7 @@ For dinner, I ended up eating **Chinese food** together with two Chinese guys an
 
 <a id="day-6"></a>
 
-### Day 6 — Estella → Los Arcos (21.0 km)
+### Day 6 — Estella → Los Arcos (21.0 km) — 19 September 2025
 
 Day 6 was another hot day, so I started walking fairly early again, around **7 a.m.**, hoping to avoid the worst of the midday sun. For part of the way, I walked with Leon, and along the route we met a friendly group of Taiwanese pilgrims. They shared some **fresh figs** with us, which was such a small but sweet Camino moment.
 
@@ -212,7 +212,7 @@ Inside the church, there was a choir singing. I stayed to listen for a while, an
 
 <a id="day-7"></a>
 
-### Day 7 — Los Arcos → Logroño (28–29 km)
+### Day 7 — Los Arcos → Logroño (28–29 km) — 20 September 2025
 
 Day 7 was a fairly long stage — around **29 km** — so I started early again, before **7 a.m.** I was supposed to walk with Leon, but he overslept, so I began the day walking on my own.
 
@@ -242,7 +242,7 @@ That night, Leon also decided to pause his Camino. After the long, hot first wee
 
 <a id="day-8"></a>
 
-### Day 8 — Logroño → Nájera (29.0 km)
+### Day 8 — Logroño → Nájera (29.0 km) — 21 September 2025
 
 Day 8 was the first day of my Camino with rain. When I woke up and saw the weather, I hoped the rain might stop if I waited a little — but it didn’t. In the end, I had no choice but to start walking anyway.
 
@@ -272,7 +272,7 @@ Toward the end of the stage, the sky turned grey again. I didn’t want to get c
 
 <a id="day-9"></a>
 
-### Day 9 — Nájera → Redecilla del Camino (31.1 km)
+### Day 9 — Nájera → Redecilla del Camino (31.1 km) — 22 September 2025
 
 Day 9 was fortunately a sunny day — no rain at all — and it felt so much easier mentally compared to yesterday. Early on the way, I even saw a few cats along the route.
 
@@ -301,9 +301,9 @@ I ended up arriving at around **6 p.m.**, completely tired. After this day, I de
 
 <a id="day-10"></a>
 
-### Day 10 — Redecilla del Camino → Villafranca Montes de Oca (23.5 km)
+### Day 10 — Redecilla del Camino → Villafranca Montes de Oca (23.5 km) — 23 September 2025
 
-After the very long walk the day before, I finally decided to slow down. I had already walked **32 km** on Day 9, and one of my roommates asked me, “Why do you have to do this? Are you in a rush?” The answer was definitely no. That question stayed with me, and I realised I didn’t need to push myself so hard. From this point on, I decided to keep my stages shorter — ideally under **25 km** — and walk at a more sustainable pace.
+After the very long walk the day before, I finally decided to slow down. I had already walked **32 km** on Day 9, and one of my roommates asked me, “Why do you have to do this— Are you in a rush—” The answer was definitely no. That question stayed with me, and I realised I didn’t need to push myself so hard. From this point on, I decided to keep my stages shorter — ideally under **25 km** — and walk at a more sustainable pace.
 
 My blister around the ankle was also getting worse, which made the decision even clearer. I walked together with my roommates for a while in the morning, but later continued on my own toward **Belorado**.
 
@@ -339,7 +339,7 @@ When I arrived in **Villafranca Montes de Oca**, I realised it was a very small 
 
 <a id="day-11"></a>
 
-### Day 11 — Villafranca Montes de Oca → Orbaneja Riopico (26.3 km)
+### Day 11 — Villafranca Montes de Oca → Orbaneja Riopico (26.3 km) — 24 September 2025
 
 Day 11 started with a calm and relatively flat road, making it a nice way to ease into another long walk.
 
@@ -377,7 +377,7 @@ This is one of the downsides of staying in small villages: food options can be v
 
 <a id="day-12"></a>
 
-### Day 12 — Orbaneja Riopico → Rabé de las Calzadas (24.2 km)
+### Day 12 — Orbaneja Riopico → Rabé de las Calzadas (24.2 km) — 25 September 2025
 
 Day 12 turned out to be **the coldest day of my entire Camino**. I started walking very early in the morning, and right away I could feel how different the day was going to be.
 
@@ -417,7 +417,7 @@ After dinner, I chatted with the owner for a while. He was very kind and encoura
 
 <a id="day-13"></a>
 
-### Day 13 — Rabé de las Calzadas → Castrojeriz (27.5 km)
+### Day 13 — Rabé de las Calzadas → Castrojeriz (27.5 km) — 26 September 2025
 
 Day 13 started very early again — before sunrise. It was still dark when I set off, but fortunately it was not as cold as yesterday.
 
@@ -477,7 +477,7 @@ I also met Karen and Rich, a couple in their 70s and 80s who had already complet
 
 <a id="day-14"></a>
 
-### Day 14 — Castrojeriz → Frómista (24.7 km)
+### Day 14 — Castrojeriz → Frómista (24.7 km) — 27 September 2025
 
 Day 14 started early again to avoid the heat.
 
@@ -539,7 +539,7 @@ Just across from the restaurant, the church was beautifully illuminated at night
 
 <a id="day-15"></a>
 
-### Day 15 — Frómista → Carrión de los Condes (18.8 km)
+### Day 15 — Frómista → Carrión de los Condes (18.8 km) — 28 September 2025
 
 After the terrible night at the albergue — the dirty, squeaky bed making noise every time I moved — I decided to leave as early as possible. I started walking at around 6 a.m., still in the dark.
 
@@ -609,7 +609,7 @@ During dinner, an Irish couple, Kevin and Mags, joined my table, and we had a lo
 
 <a id="day-16"></a>
 
-### Day 16 — Carrión de los Condes → Ledigos (23.4 km)
+### Day 16 — Carrión de los Condes → Ledigos (23.4 km) — 29 September 2025
 
 I left the hostel at around 7 a.m. It was still dark, and I expected that there would be nowhere open for breakfast. Ahead of me was the famous long stretch — about 17–18 km with no towns, just open road.
 
@@ -673,7 +673,7 @@ After dinner, I met Karen and Rich again, as well as the Irish couple Kevin and 
 
 <a id="day-17"></a>
 
-### Day 17 — Ledigos → Calzada del Coto (21.0 km)
+### Day 17 — Ledigos → Calzada del Coto (21.0 km) — 30 September 2025
 
 After having a café con leche and tortilla at the restaurant downstairs in the hostel, I started walking at around 7:30 a.m and it was still dark outside.
 
@@ -735,7 +735,7 @@ The food was a bit disappointing: a few chicken wings, fries, and a “not-so-go
 
 <a id="day-18"></a>
 
-### Day 18 — Calzada del Coto → Villamarco (23.4 km)
+### Day 18 — Calzada del Coto → Villamarco (23.4 km) — 1 October 2025
 
 I started walking in the dark again. The sky slowly shifted from deep blue to soft orange as the light returned.
 
@@ -781,7 +781,7 @@ Even though the food options were limited, the town itself felt very peaceful an
 
 <a id="day-19"></a>
 
-### Day 19 — Villamarco → Arcahueja (23.0 km)
+### Day 19 — Villamarco → Arcahueja (23.0 km) — 2 October 2025
 
 I started walking in the dark again. As usual, the sky slowly changed colours — from deep blue to soft orange — as the morning light appeared.
 
@@ -817,7 +817,7 @@ Before arriving at the hotel where I planned to stay that night, I stopped at a 
 
 The **ribs were actually very good**, and it was one of those satisfying Camino meals after a long morning of walking.
 
-After paying the bill, the waitress told me, **“Hablas muy bien español.”** I really appreciated the compliment, although in reality I hadn’t spoken very much Spanish — maybe just something like _“¿Puedo pagar con tarjeta?”_.
+After paying the bill, the waitress told me, **“Hablas muy bien español.”** I really appreciated the compliment, although in reality I hadn’t spoken very much Spanish — maybe just something like _“¿Puedo pagar con tarjeta—”_.
 
 Still, it made me very happy. One of my goals on the Camino was to **practise Spanish**, so even small interactions like this felt encouraging.
 
@@ -841,7 +841,7 @@ That evening I also needed to do some laundry. Since the hotel didn’t provide 
 
 <a id="day-20"></a>
 
-### Day 20 — Arcahueja → Oncina (19.1 km)
+### Day 20 — Arcahueja → Oncina (19.1 km) — 3 October 2025
 
 I started walking in the dark again, heading toward **León**. The walk into the city wasn’t particularly pleasant as much of the route followed the side of the road.
 
@@ -917,7 +917,7 @@ It might even be **one of the best albergues of my entire journey**.
 
 <a id="day-21"></a>
 
-### Day 21 — Oncina → Hospital de Órbigo (25.0 km)
+### Day 21 — Oncina → Hospital de Órbigo (25.0 km) — 4 October 2025
 
 I started walking again before 7 a.m., still in the dark. When I looked up, I could see stars scattered across the sky, something I don’t often notice in cities.
 
@@ -983,7 +983,7 @@ The soup was delicious and very filling — a perfect meal after a long day of w
 
 <a id="day-22"></a>
 
-### Day 22 — Hospital de Órbigo → Astorga (16.5 km)
+### Day 22 — Hospital de Órbigo → Astorga (16.5 km) — 5 October 2025
 
 After walking for a while in the morning, I stopped for breakfast and had a tortilla and café con leche before continuing the day’s walk.
 
@@ -1039,7 +1039,7 @@ By the end of the day, I also noticed that the bites on my hands had become quit
 
 <a id="day-23"></a>
 
-### Day 23 — Astorga → Rabanal del Camino (20.2 km)
+### Day 23 — Astorga → Rabanal del Camino (20.2 km) — 6 October 2025
 
 Today was noticeably cooler as I started walking out of Astorga. After walking for a while, I finally saw a bar and happily went inside for a warm breakfast.
 
@@ -1103,7 +1103,7 @@ On my way back to the albergue, I looked up and saw a **very bright, full moon**
 
 <a id="day-24"></a>
 
-### Day 24 — Rabanal del Camino → Molinaseca (24.7 km)
+### Day 24 — Rabanal del Camino → Molinaseca (24.7 km) — 7 October 2025
 
 I started walking in the dark again. When I looked up, I could see stars scattered across the sky above me.
 
@@ -1183,7 +1183,7 @@ In the evening, I went to a bar in town and had **a few tapas for dinner**.
 
 <a id="day-25"></a>
 
-### Day 25 — Molinaseca → Valtuille de Arriba (26.1 km)
+### Day 25 — Molinaseca → Valtuille de Arriba (26.1 km) — 8 October 2025
 
 I started walking at around 7 a.m., while it was still dark.
 
@@ -1243,7 +1243,7 @@ Eventually I reached my albergue for the day. Like a few previous stops, this on
 
 <a id="day-26"></a>
 
-### Day 26 — Valtuille de Arriba → Vega de Valcarce (27.2 km)
+### Day 26 — Valtuille de Arriba → Vega de Valcarce (27.2 km) — 9 October 2025
 
 Today I started a bit later than usual, at a little after 8 a.m. As I left, the sky was still quite cloudy.
 
@@ -1313,7 +1313,7 @@ Even though it wasn’t the proper dinner I had hoped for, there was still a nic
 
 <a id="day-27"></a>
 
-### Day 27 — Vega de Valcarce → Triacastela (28.0 km)
+### Day 27 — Vega de Valcarce → Triacastela (28.0 km) — 10 October 2025
 
 Today was a day I had been looking forward to — a fun but challenging climb up to O Cebreiro.
 
@@ -1427,7 +1427,7 @@ After dinner, I went to collect my laundry, but it was still not fully dry. Luck
 
 <a id="day-28"></a>
 
-### Day 28 — Triacastela → Samos (19.2 km)
+### Day 28 — Triacastela → Samos (19.2 km) — 11 October 2025
 
 I woke up a bit later today and decided to have breakfast at the hotel restaurant before starting the walk. Since I had really enjoyed the local cheese the night before, I ordered a very filling breakfast — **two toasts, scrambled eggs with cheese, and a café con leche**.
 
@@ -1503,7 +1503,7 @@ After chatting with Avik for a while longer, we headed back to the albergue to r
 
 <a id="day-29"></a>
 
-### Day 29 — Samos → Vilei (Barbadelo) (19.0 km)
+### Day 29 — Samos → Vilei (Barbadelo) (19.0 km) — 12 October 2025
 
 After waking up, I went downstairs for breakfast.
 
@@ -1571,7 +1571,7 @@ Looking back on the day, what stood out most wasn’t the scenery or the distanc
 
 <a id="day-30"></a>
 
-### Day 30 — Vilei (Barbadelo) → A Pena (Paradela) (10.0 km)
+### Day 30 — Vilei (Barbadelo) → A Pena (Paradela) (10.0 km) — 13 October 2025
 
 By this point of the Camino, I was starting to feel the accumulated fatigue from all the walking. Because of that, I decided that today would be a **short stage of only around 10 km**.
 
@@ -1633,7 +1633,7 @@ Because today was such a short stage, I arrived at the hostel quite early and en
 
 <a id="day-31"></a>
 
-### Day 31 — A Pena (Paradela) → Airexe (25.3 km)
+### Day 31 — A Pena (Paradela) → Airexe (25.3 km) — 14 October 2025
 
 Since today would be a longer stage, I started walking earlier at around **7 a.m.**. The sky was still dark, and I could see the stars above me.
 
@@ -1701,7 +1701,7 @@ Not every day on the Camino is perfect. Most days are filled with kindness and g
 
 <a id="day-32"></a>
 
-### Day 32 — Airexe → Melide (22.1 km)
+### Day 32 — Airexe → Melide (22.1 km) — 15 October 2025
 
 The morning started off quite foggy again.
 
@@ -1767,7 +1767,7 @@ Even this close to Santiago, the Camino was still giving me new people to meet a
 
 <a id="day-33"></a>
 
-### Day 33 — Melide → A Calle de Ferreiros (22.0 km)
+### Day 33 — Melide → A Calle de Ferreiros (22.0 km) — 16 October 2025
 
 Today started with a beautiful sunny morning, with the sunrise appearing as I made my way along the Camino.
 
@@ -1823,7 +1823,7 @@ It was funny how the Camino worked like this — you could say goodbye to someon
 
 <a id="day-34"></a>
 
-### Day 34 — A Calle de Ferreiros → Lavacolla (20.0 km)
+### Day 34 — A Calle de Ferreiros → Lavacolla (20.0 km) — 17 October 2025
 
 Before leaving the hostel this morning, I heard a girl speaking Mandarin on the phone. After she hung up, I asked if she was from Taiwan. She told me that she was born in Taiwan but now lives in Malaysia.
 
@@ -1887,7 +1887,7 @@ After weeks of walking, countless kilometres, early mornings, blisters, rain, he
 
 <a id="day-35"></a>
 
-### Day 35 — Lavacolla → Santiago de Compostela (9.9 km)
+### Day 35 — Lavacolla → Santiago de Compostela (9.9 km) — 18 October 2025
 
 Today was finally the day I would reach **Santiago de Compostela**.
 
@@ -1955,7 +1955,7 @@ So rather than feeling like an ending, Santiago felt more like an important mile
 
 ---
 
-### Day 36 — Rest Day in Santiago de Compostela
+### Day 36 — Rest Day in Santiago de Compostela — 19 October 2025
 
 Today was a **rest day in Santiago** before I started walking again towards **Finisterre and Muxía** tomorrow.
 
@@ -2015,7 +2015,7 @@ Tomorrow, I would put my backpack on again and begin the next part of the journe
 
 <a id="day-f1"></a>
 
-### Day F1 — Santiago de Compostela → Negreira (20.6 km)
+### Day F1 — Santiago de Compostela → Negreira (20.6 km) — 20 October 2025
 
 After a rest day in Santiago, it was time to put my backpack on again and continue walking.
 
@@ -2093,7 +2093,7 @@ After such a filling dinner, I was definitely ready to rest after my first day b
 
 <a id="day-f2"></a>
 
-### Day F2 — Negreira → Vilaserío (13.0 km)
+### Day F2 — Negreira → Vilaserío (13.0 km) — 21 October 2025
 
 This ended up being **one of the most memorable days of my entire Camino** — not because of the scenery or the distance, but because of the people I met along the way.
 
@@ -2153,7 +2153,7 @@ What had started as a very wet and unexpectedly short walking day ended up becom
 
 <a id="day-f3"></a>
 
-### Day F3 — Vilaserío → Lago (16.0 km)
+### Day F3 — Vilaserío → Lago (16.0 km) — 22 October 2025
 
 Today started with breakfast at the albergue café with my Spanish friends, Obe, Cecilia and Paco.
 
