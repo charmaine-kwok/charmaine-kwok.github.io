@@ -9,7 +9,7 @@ import CaminoRouteMap from "@components/CaminoRouteMap.astro";
 import CaminoStageTable from "@components/CaminoStageTable.astro";
 import { createMarkdownProcessor } from "@astrojs/markdown-remark";
 import CaminoPagination from "@components/CaminoPagination.astro";
-import { getCaminoPages } from "@utils/caminoPagination";
+import { getCaminoPages, rewriteCaminoDayLinks } from "@utils/caminoPagination";
 
 export interface Props {
   post: CollectionEntry<"blog">;
@@ -68,9 +68,13 @@ if (isCaminoPost && post) {
 
   const processor = await createMarkdownProcessor();
 
-  const beforeRendered = await processor.render(beforeMarkdown);
-  const afterRendered = await processor.render(afterMarkdown);
+  const beforeRendered = await processor.render(
+    rewriteCaminoDayLinks(beforeMarkdown)
+  );
 
+  const afterRendered = await processor.render(
+    rewriteCaminoDayLinks(afterMarkdown)
+  );
   caminoBeforeHtml = beforeRendered.code;
   caminoAfterHtml = afterRendered.code;
 }

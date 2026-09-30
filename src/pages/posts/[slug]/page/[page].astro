@@ -3,7 +3,7 @@ import { type CollectionEntry, getCollection } from "astro:content";
 
 import PostDetails from "@layouts/PostDetails.astro";
 
-import { getCaminoPages } from "@utils/caminoPagination";
+import { getCaminoPages, rewriteCaminoDayLinks } from "@utils/caminoPagination";
 
 import { createMarkdownProcessor } from "@astrojs/markdown-remark";
 
@@ -59,7 +59,9 @@ if (!currentPage) {
 
 const processor = await createMarkdownProcessor();
 
-const rendered = await processor.render(currentPage.markdown);
+const rendered = await processor.render(
+  rewriteCaminoDayLinks(currentPage.markdown)
+);
 
 const pageHtml = rendered.code;
 ---

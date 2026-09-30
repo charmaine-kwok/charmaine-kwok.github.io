@@ -107,3 +107,19 @@ export function getCaminoPages(markdown: string): CaminoPage[] {
     },
   ];
 }
+
+export function getCaminoDayHref(slug: string, day: string | number): string {
+  const dayValue = String(day).toLowerCase();
+  const page = getCaminoPageForDay(dayValue);
+
+  const pagePath = page === 1 ? "" : `page/${page}/`;
+
+  return `/posts/${slug}/${pagePath}#day-${dayValue}`;
+}
+
+export function rewriteCaminoDayLinks(markdown: string): string {
+  return markdown.replace(
+    /(?:https?:\/\/charmaine-kwok\.github\.io)?\/posts\/(camino-frances-(?:journey|albergue))\/#day-([a-z0-9]+)/gi,
+    (_match, slug: string, day: string) => getCaminoDayHref(slug, day)
+  );
+}
