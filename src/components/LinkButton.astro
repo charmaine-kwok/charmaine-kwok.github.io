@@ -8,6 +8,8 @@ export interface Props {
 }
 
 const { href, className, ariaLabel, title, disabled = false } = Astro.props;
+
+const isExternal = /^https?:\/\//.test(href);
 ---
 
 {
@@ -26,8 +28,8 @@ const { href, className, ariaLabel, title, disabled = false } = Astro.props;
       class={`group inline-block hover:text-skin-accent ${className}`}
       aria-label={ariaLabel}
       title={title}
-      target="_blank"
-      rel="noopener noreferrer"
+      target={isExternal ? "_blank" : undefined}
+      rel={isExternal ? "noopener noreferrer" : undefined}
     >
       <slot />
     </a>
